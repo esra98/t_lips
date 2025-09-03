@@ -1,0 +1,7 @@
+Spoken word: üstelik
+Starttime of utterance in seconds: 74.560
+Endtime of utterance in seconds: 75.000
+Duration of utterance in seconds: 0.440
+Confidence: 0.953
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

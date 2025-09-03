@@ -1,0 +1,1136 @@
+{
+  "text": " Bundan tam 2200 yıl önce Yunan düşünür Eratos Tanez. Eline iki ahşap çubuk alarak dünyanın çevresini hesaplar. Peki ama bunu nasıl başarır? Eratos Tanez. İki çubuğu aralarındaki mesafesini bildiği iki noktaya diker. Diyelim ki bu mesafe 10 kilometre olsun. Günün aynı saatinde bu çubukların güneşten yansıyan gölge boylarını ölçer. Çubukların gölge boyu arasındaki fark aslında iki mesafenin arasındaki güneşin açı farkını verir. Ve bu açı farkını tam bir daireye tamamlamak için kaç tane 10 kilometre mesafe olması gerektiğini hesap eder. Ve sonuçta dünyanın çevresinin 39.375 kilometre olduğunu söyler. Yani aradaki fark sadece %1.4'tür. Eratos Tanez. Üstelik bunu sadece bu iki çubuğun gölgesini kullanarak hesaplar. İşte bilimin gücü.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.22,
+      "end": 6.16,
+      "text": " Bundan tam 2200 yıl önce Yunan düşünür Eratos Tanez.",
+      "tokens": [
+        50364,
+        10203,
+        282,
+        7677,
+        5853,
+        628,
+        31491,
+        22353,
+        18007,
+        282,
+        21755,
+        1655,
+        3300,
+        26818,
+        314,
+        1929,
+        89,
+        13,
+        50682
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34920282074899384,
+      "compression_ratio": 1.3480392156862746,
+      "no_speech_prob": 0.02324283868074417,
+      "confidence": 0.74,
+      "words": [
+        {
+          "text": "Bundan",
+          "start": 0.22,
+          "end": 0.66,
+          "confidence": 0.975
+        },
+        {
+          "text": "tam",
+          "start": 0.66,
+          "end": 1.46,
+          "confidence": 0.762
+        },
+        {
+          "text": "2200",
+          "start": 1.46,
+          "end": 2.84,
+          "confidence": 0.836
+        },
+        {
+          "text": "yıl",
+          "start": 2.84,
+          "end": 3.08,
+          "confidence": 0.995
+        },
+        {
+          "text": "önce",
+          "start": 3.08,
+          "end": 3.42,
+          "confidence": 0.963
+        },
+        {
+          "text": "Yunan",
+          "start": 3.42,
+          "end": 4.3,
+          "confidence": 0.837
+        },
+        {
+          "text": "düşünür",
+          "start": 4.3,
+          "end": 4.9,
+          "confidence": 0.965
+        },
+        {
+          "text": "Eratos",
+          "start": 4.9,
+          "end": 5.46,
+          "confidence": 0.412
+        },
+        {
+          "text": "Tanez.",
+          "start": 5.46,
+          "end": 6.16,
+          "confidence": 0.53
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.04,
+      "end": 12.48,
+      "text": " Eline iki ahşap çubuk alarak dünyanın çevresini hesaplar.",
+      "tokens": [
+        50704,
+        2699,
+        533,
+        20739,
+        3716,
+        1165,
+        569,
+        1844,
+        836,
+        2034,
+        419,
+        23346,
+        32262,
+        26081,
+        45921,
+        495,
+        3812,
+        10453,
+        64,
+        564,
+        289,
+        13,
+        50990
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34920282074899384,
+      "compression_ratio": 1.3480392156862746,
+      "no_speech_prob": 0.02324283868074417,
+      "confidence": 0.942,
+      "words": [
+        {
+          "text": "Eline",
+          "start": 7.04,
+          "end": 7.4,
+          "confidence": 0.955
+        },
+        {
+          "text": "iki",
+          "start": 7.4,
+          "end": 8.04,
+          "confidence": 0.818
+        },
+        {
+          "text": "ahşap",
+          "start": 8.04,
+          "end": 8.76,
+          "confidence": 0.965
+        },
+        {
+          "text": "çubuk",
+          "start": 8.76,
+          "end": 9.16,
+          "confidence": 0.991
+        },
+        {
+          "text": "alarak",
+          "start": 9.16,
+          "end": 9.58,
+          "confidence": 0.988
+        },
+        {
+          "text": "dünyanın",
+          "start": 9.58,
+          "end": 10.64,
+          "confidence": 0.797
+        },
+        {
+          "text": "çevresini",
+          "start": 10.64,
+          "end": 11.92,
+          "confidence": 0.972
+        },
+        {
+          "text": "hesaplar.",
+          "start": 11.92,
+          "end": 12.48,
+          "confidence": 0.949
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 13.1,
+      "end": 15.48,
+      "text": " Peki ama bunu nasıl başarır?",
+      "tokens": [
+        51012,
+        36598,
+        10889,
+        18155,
+        16963,
+        8694,
+        289,
+        3702,
+        30,
+        51144
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34920282074899384,
+      "compression_ratio": 1.3480392156862746,
+      "no_speech_prob": 0.02324283868074417,
+      "confidence": 0.944,
+      "words": [
+        {
+          "text": "Peki",
+          "start": 13.1,
+          "end": 13.28,
+          "confidence": 0.784
+        },
+        {
+          "text": "ama",
+          "start": 13.28,
+          "end": 13.58,
+          "confidence": 0.974
+        },
+        {
+          "text": "bunu",
+          "start": 13.58,
+          "end": 14.58,
+          "confidence": 0.895
+        },
+        {
+          "text": "nasıl",
+          "start": 14.58,
+          "end": 14.88,
+          "confidence": 0.992
+        },
+        {
+          "text": "başarır?",
+          "start": 14.88,
+          "end": 15.48,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.42,
+      "end": 17.66,
+      "text": " Eratos Tanez.",
+      "tokens": [
+        51172,
+        3300,
+        26818,
+        314,
+        1929,
+        89,
+        13,
+        51252
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34920282074899384,
+      "compression_ratio": 1.3480392156862746,
+      "no_speech_prob": 0.02324283868074417,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Eratos",
+          "start": 16.42,
+          "end": 16.9,
+          "confidence": 0.949
+        },
+        {
+          "text": "Tanez.",
+          "start": 16.9,
+          "end": 17.66,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.94,
+      "end": 24.5,
+      "text": " İki çubuğu aralarındaki mesafesini bildiği iki noktaya diker.",
+      "tokens": [
+        51300,
+        6601,
+        2984,
+        1844,
+        836,
+        22135,
+        84,
+        594,
+        12031,
+        47028,
+        3813,
+        2792,
+        279,
+        3812,
+        22105,
+        32402,
+        20739,
+        33811,
+        83,
+        4427,
+        1026,
+        5767,
+        13,
+        51588
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34920282074899384,
+      "compression_ratio": 1.3480392156862746,
+      "no_speech_prob": 0.02324283868074417,
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "İki",
+          "start": 18.94,
+          "end": 19.2,
+          "confidence": 0.936
+        },
+        {
+          "text": "çubuğu",
+          "start": 19.2,
+          "end": 19.86,
+          "confidence": 0.993
+        },
+        {
+          "text": "aralarındaki",
+          "start": 19.86,
+          "end": 21.18,
+          "confidence": 0.847
+        },
+        {
+          "text": "mesafesini",
+          "start": 21.18,
+          "end": 22.18,
+          "confidence": 0.99
+        },
+        {
+          "text": "bildiği",
+          "start": 22.18,
+          "end": 22.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "iki",
+          "start": 22.8,
+          "end": 23.34,
+          "confidence": 0.861
+        },
+        {
+          "text": "noktaya",
+          "start": 23.34,
+          "end": 24.08,
+          "confidence": 0.967
+        },
+        {
+          "text": "diker.",
+          "start": 24.08,
+          "end": 24.5,
+          "confidence": 0.852
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 24.96,
+      "end": 28.92,
+      "text": " Diyelim ki bu mesafe 10 kilometre olsun.",
+      "tokens": [
+        51602,
+        413,
+        4727,
+        23205,
+        6315,
+        758,
+        3813,
+        24248,
+        1266,
+        9677,
+        265,
+        17632,
+        13,
+        51820
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34920282074899384,
+      "compression_ratio": 1.3480392156862746,
+      "no_speech_prob": 0.02324283868074417,
+      "confidence": 0.882,
+      "words": [
+        {
+          "text": "Diyelim",
+          "start": 24.96,
+          "end": 25.24,
+          "confidence": 0.902
+        },
+        {
+          "text": "ki",
+          "start": 25.24,
+          "end": 25.58,
+          "confidence": 0.97
+        },
+        {
+          "text": "bu",
+          "start": 25.58,
+          "end": 26.36,
+          "confidence": 0.861
+        },
+        {
+          "text": "mesafe",
+          "start": 26.36,
+          "end": 26.98,
+          "confidence": 0.951
+        },
+        {
+          "text": "10",
+          "start": 26.98,
+          "end": 27.9,
+          "confidence": 0.817
+        },
+        {
+          "text": "kilometre",
+          "start": 27.9,
+          "end": 28.56,
+          "confidence": 0.745
+        },
+        {
+          "text": "olsun.",
+          "start": 28.56,
+          "end": 28.92,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 3000,
+      "start": 32.4,
+      "end": 40.48,
+      "text": " Günün aynı saatinde bu çubukların güneşten yansıyan gölge boylarını ölçer.",
+      "tokens": [
+        50414,
+        50225,
+        3412,
+        30281,
+        23369,
+        8274,
+        758,
+        1844,
+        836,
+        2034,
+        14716,
+        18148,
+        716,
+        1165,
+        1147,
+        288,
+        599,
+        699,
+        6277,
+        7105,
+        75,
+        432,
+        3237,
+        31046,
+        31854,
+        1138,
+        260,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1725050283938038,
+      "compression_ratio": 1.5829145728643217,
+      "no_speech_prob": 0.000869314419105649,
+      "confidence": 0.912,
+      "words": [
+        {
+          "text": "Günün",
+          "start": 32.4,
+          "end": 32.82,
+          "confidence": 0.711
+        },
+        {
+          "text": "aynı",
+          "start": 32.82,
+          "end": 33.48,
+          "confidence": 0.981
+        },
+        {
+          "text": "saatinde",
+          "start": 33.48,
+          "end": 34.38,
+          "confidence": 0.967
+        },
+        {
+          "text": "bu",
+          "start": 34.38,
+          "end": 35.3,
+          "confidence": 0.782
+        },
+        {
+          "text": "çubukların",
+          "start": 35.3,
+          "end": 35.92,
+          "confidence": 0.998
+        },
+        {
+          "text": "güneşten",
+          "start": 35.92,
+          "end": 37.16,
+          "confidence": 0.83
+        },
+        {
+          "text": "yansıyan",
+          "start": 37.16,
+          "end": 37.94,
+          "confidence": 0.975
+        },
+        {
+          "text": "gölge",
+          "start": 37.94,
+          "end": 39.86,
+          "confidence": 0.884
+        },
+        {
+          "text": "boylarını",
+          "start": 39.86,
+          "end": 40.32,
+          "confidence": 0.943
+        },
+        {
+          "text": "ölçer.",
+          "start": 40.32,
+          "end": 40.48,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 3000,
+      "start": 42.66,
+      "end": 49.48,
+      "text": " Çubukların gölge boyu arasındaki fark aslında iki mesafenin arasındaki güneşin açı farkını verir.",
+      "tokens": [
+        50914,
+        6256,
+        836,
+        2034,
+        14716,
+        7105,
+        75,
+        432,
+        3237,
+        84,
+        594,
+        296,
+        47028,
+        27047,
+        34541,
+        20739,
+        3813,
+        2792,
+        49939,
+        594,
+        296,
+        47028,
+        18148,
+        716,
+        1165,
+        259,
+        12930,
+        699,
+        27047,
+        7760,
+        1306,
+        347,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1725050283938038,
+      "compression_ratio": 1.5829145728643217,
+      "no_speech_prob": 0.000869314419105649,
+      "confidence": 0.952,
+      "words": [
+        {
+          "text": "Çubukların",
+          "start": 42.66,
+          "end": 43.28,
+          "confidence": 0.997
+        },
+        {
+          "text": "gölge",
+          "start": 43.28,
+          "end": 43.84,
+          "confidence": 0.985
+        },
+        {
+          "text": "boyu",
+          "start": 43.84,
+          "end": 44.12,
+          "confidence": 0.971
+        },
+        {
+          "text": "arasındaki",
+          "start": 44.12,
+          "end": 44.62,
+          "confidence": 0.996
+        },
+        {
+          "text": "fark",
+          "start": 44.62,
+          "end": 45.02,
+          "confidence": 0.997
+        },
+        {
+          "text": "aslında",
+          "start": 45.02,
+          "end": 45.96,
+          "confidence": 0.721
+        },
+        {
+          "text": "iki",
+          "start": 45.96,
+          "end": 46.52,
+          "confidence": 0.935
+        },
+        {
+          "text": "mesafenin",
+          "start": 46.52,
+          "end": 47.18,
+          "confidence": 0.972
+        },
+        {
+          "text": "arasındaki",
+          "start": 47.18,
+          "end": 47.9,
+          "confidence": 0.987
+        },
+        {
+          "text": "güneşin",
+          "start": 47.9,
+          "end": 48.52,
+          "confidence": 0.984
+        },
+        {
+          "text": "açı",
+          "start": 48.52,
+          "end": 48.84,
+          "confidence": 0.881
+        },
+        {
+          "text": "farkını",
+          "start": 48.84,
+          "end": 49.24,
+          "confidence": 0.763
+        },
+        {
+          "text": "verir.",
+          "start": 49.24,
+          "end": 49.48,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 50.06,
+      "end": 58.34,
+      "text": " Ve bu açı farkını tam bir daireye tamamlamak için kaç tane 10 kilometre mesafe olması gerektiğini hesap eder.",
+      "tokens": [
+        51364,
+        9706,
+        758,
+        12930,
+        699,
+        27047,
+        7760,
+        7677,
+        1904,
+        1120,
+        621,
+        1200,
+        18536,
+        4326,
+        514,
+        8457,
+        23916,
+        23233,
+        1266,
+        9677,
+        265,
+        3813,
+        24248,
+        47528,
+        18635,
+        2320,
+        24392,
+        3812,
+        10453,
+        569,
+        23252,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1725050283938038,
+      "compression_ratio": 1.5829145728643217,
+      "no_speech_prob": 0.000869314419105649,
+      "confidence": 0.956,
+      "words": [
+        {
+          "text": "Ve",
+          "start": 50.06,
+          "end": 50.22,
+          "confidence": 0.818
+        },
+        {
+          "text": "bu",
+          "start": 50.22,
+          "end": 50.42,
+          "confidence": 0.997
+        },
+        {
+          "text": "açı",
+          "start": 50.42,
+          "end": 50.9,
+          "confidence": 0.989
+        },
+        {
+          "text": "farkını",
+          "start": 50.9,
+          "end": 51.44,
+          "confidence": 0.95
+        },
+        {
+          "text": "tam",
+          "start": 51.44,
+          "end": 52.2,
+          "confidence": 0.972
+        },
+        {
+          "text": "bir",
+          "start": 52.2,
+          "end": 52.52,
+          "confidence": 0.994
+        },
+        {
+          "text": "daireye",
+          "start": 52.52,
+          "end": 53.1,
+          "confidence": 0.977
+        },
+        {
+          "text": "tamamlamak",
+          "start": 53.1,
+          "end": 53.76,
+          "confidence": 0.998
+        },
+        {
+          "text": "için",
+          "start": 53.76,
+          "end": 54.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "kaç",
+          "start": 54.08,
+          "end": 54.96,
+          "confidence": 0.572
+        },
+        {
+          "text": "tane",
+          "start": 54.96,
+          "end": 55.4,
+          "confidence": 0.998
+        },
+        {
+          "text": "10",
+          "start": 55.4,
+          "end": 55.74,
+          "confidence": 0.967
+        },
+        {
+          "text": "kilometre",
+          "start": 55.74,
+          "end": 56.44,
+          "confidence": 0.988
+        },
+        {
+          "text": "mesafe",
+          "start": 56.44,
+          "end": 56.84,
+          "confidence": 0.971
+        },
+        {
+          "text": "olması",
+          "start": 56.84,
+          "end": 57.08,
+          "confidence": 0.97
+        },
+        {
+          "text": "gerektiğini",
+          "start": 57.08,
+          "end": 57.76,
+          "confidence": 0.978
+        },
+        {
+          "text": "hesap",
+          "start": 57.76,
+          "end": 58.12,
+          "confidence": 0.944
+        },
+        {
+          "text": "eder.",
+          "start": 58.12,
+          "end": 58.34,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5800,
+      "start": 58.78,
+      "end": 65.48,
+      "text": " Ve sonuçta dünyanın çevresinin 39.375 kilometre olduğunu söyler.",
+      "tokens": [
+        50364,
+        9706,
+        1872,
+        42688,
+        1328,
+        32262,
+        26081,
+        45921,
+        495,
+        15916,
+        15238,
+        13,
+        18,
+        11901,
+        9677,
+        265,
+        28619,
+        27543,
+        1918,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15677772868763318,
+      "compression_ratio": 1.1767955801104972,
+      "no_speech_prob": 0.06654603034257889,
+      "confidence": 0.914,
+      "words": [
+        {
+          "text": "Ve",
+          "start": 58.78,
+          "end": 59.0,
+          "confidence": 0.907
+        },
+        {
+          "text": "sonuçta",
+          "start": 59.0,
+          "end": 59.56,
+          "confidence": 0.994
+        },
+        {
+          "text": "dünyanın",
+          "start": 59.56,
+          "end": 60.1,
+          "confidence": 0.995
+        },
+        {
+          "text": "çevresinin",
+          "start": 60.1,
+          "end": 60.84,
+          "confidence": 0.993
+        },
+        {
+          "text": "39.375",
+          "start": 60.84,
+          "end": 63.76,
+          "confidence": 0.727
+        },
+        {
+          "text": "kilometre",
+          "start": 63.76,
+          "end": 64.46,
+          "confidence": 0.978
+        },
+        {
+          "text": "olduğunu",
+          "start": 64.46,
+          "end": 64.9,
+          "confidence": 0.988
+        },
+        {
+          "text": "söyler.",
+          "start": 64.9,
+          "end": 65.48,
+          "confidence": 0.932
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5800,
+      "start": 66.28,
+      "end": 72.0,
+      "text": " Yani aradaki fark sadece %1.4'tür.",
+      "tokens": [
+        50764,
+        14262,
+        594,
+        48457,
+        27047,
+        32945,
+        14189,
+        16,
+        13,
+        19,
+        380,
+        1655,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15677772868763318,
+      "compression_ratio": 1.1767955801104972,
+      "no_speech_prob": 0.06654603034257889,
+      "confidence": 0.805,
+      "words": [
+        {
+          "text": "Yani",
+          "start": 66.28,
+          "end": 66.58,
+          "confidence": 0.983
+        },
+        {
+          "text": "aradaki",
+          "start": 66.58,
+          "end": 67.4,
+          "confidence": 0.948
+        },
+        {
+          "text": "fark",
+          "start": 67.4,
+          "end": 67.76,
+          "confidence": 0.997
+        },
+        {
+          "text": "sadece %1.4'tür.",
+          "start": 67.76,
+          "end": 72.0,
+          "confidence": 0.724
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5800,
+      "start": 72.74,
+      "end": 73.74,
+      "text": " Eratos Tanez.",
+      "tokens": [
+        51114,
+        3300,
+        26818,
+        314,
+        1929,
+        89,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15677772868763318,
+      "compression_ratio": 1.1767955801104972,
+      "no_speech_prob": 0.06654603034257889,
+      "confidence": 0.909,
+      "words": [
+        {
+          "text": "Eratos",
+          "start": 72.74,
+          "end": 73.12,
+          "confidence": 0.797
+        },
+        {
+          "text": "Tanez.",
+          "start": 73.12,
+          "end": 73.74,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5800,
+      "start": 74.56,
+      "end": 79.88,
+      "text": " Üstelik bunu sadece bu iki çubuğun gölgesini kullanarak hesaplar.",
+      "tokens": [
+        51214,
+        10713,
+        372,
+        338,
+        1035,
+        18155,
+        32945,
+        758,
+        20739,
+        1844,
+        836,
+        22135,
+        409,
+        7105,
+        75,
+        2880,
+        3812,
+        27443,
+        23346,
+        10453,
+        64,
+        564,
+        289,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15677772868763318,
+      "compression_ratio": 1.1767955801104972,
+      "no_speech_prob": 0.06654603034257889,
+      "confidence": 0.962,
+      "words": [
+        {
+          "text": "Üstelik",
+          "start": 74.56,
+          "end": 75.0,
+          "confidence": 0.953
+        },
+        {
+          "text": "bunu",
+          "start": 75.0,
+          "end": 75.18,
+          "confidence": 0.964
+        },
+        {
+          "text": "sadece",
+          "start": 75.18,
+          "end": 75.78,
+          "confidence": 0.996
+        },
+        {
+          "text": "bu",
+          "start": 75.78,
+          "end": 76.86,
+          "confidence": 0.641
+        },
+        {
+          "text": "iki",
+          "start": 76.86,
+          "end": 77.26,
+          "confidence": 0.995
+        },
+        {
+          "text": "çubuğun",
+          "start": 77.26,
+          "end": 77.9,
+          "confidence": 0.996
+        },
+        {
+          "text": "gölgesini",
+          "start": 77.9,
+          "end": 78.6,
+          "confidence": 0.981
+        },
+        {
+          "text": "kullanarak",
+          "start": 78.6,
+          "end": 79.2,
+          "confidence": 0.997
+        },
+        {
+          "text": "hesaplar.",
+          "start": 79.2,
+          "end": 79.88,
+          "confidence": 0.981
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5800,
+      "start": 80.68,
+      "end": 81.66,
+      "text": " İşte bilimin gücü.",
+      "tokens": [
+        51514,
+        34757,
+        8588,
+        4395,
+        18148,
+        49694,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15677772868763318,
+      "compression_ratio": 1.1767955801104972,
+      "no_speech_prob": 0.06654603034257889,
+      "confidence": 0.952,
+      "words": [
+        {
+          "text": "İşte",
+          "start": 80.68,
+          "end": 80.7,
+          "confidence": 0.991
+        },
+        {
+          "text": "bilimin",
+          "start": 80.7,
+          "end": 81.14,
+          "confidence": 0.894
+        },
+        {
+          "text": "gücü.",
+          "start": 81.14,
+          "end": 81.66,
+          "confidence": 0.992
+        }
+      ]
+    }
+  ],
+  "language": "turkish"
+}

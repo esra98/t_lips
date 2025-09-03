@@ -1,0 +1,7 @@
+Spoken word: ördü
+Starttime of utterance in seconds: 11.520
+Endtime of utterance in seconds: 11.820
+Duration of utterance in seconds: 0.300
+Confidence: 0.354
+Original filename: test-3
+Corresponding number in titlelist.txt: 0000

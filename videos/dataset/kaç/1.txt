@@ -1,0 +1,7 @@
+Spoken word: kaç
+Starttime of utterance in seconds: 54.080
+Endtime of utterance in seconds: 54.960
+Duration of utterance in seconds: 0.880
+Confidence: 0.572
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

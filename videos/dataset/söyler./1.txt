@@ -1,0 +1,7 @@
+Spoken word: söyler.
+Starttime of utterance in seconds: 64.900
+Endtime of utterance in seconds: 65.480
+Duration of utterance in seconds: 0.580
+Confidence: 0.932
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: gerektiğini
+Starttime of utterance in seconds: 57.080
+Endtime of utterance in seconds: 57.760
+Duration of utterance in seconds: 0.680
+Confidence: 0.978
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

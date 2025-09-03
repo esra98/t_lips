@@ -1,0 +1,7 @@
+Spoken word: verir.
+Starttime of utterance in seconds: 49.240
+Endtime of utterance in seconds: 49.480
+Duration of utterance in seconds: 0.240
+Confidence: 0.997
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: 2200
+Starttime of utterance in seconds: 1.460
+Endtime of utterance in seconds: 2.840
+Duration of utterance in seconds: 1.380
+Confidence: 0.836
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

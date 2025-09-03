@@ -1,0 +1,7 @@
+Spoken word: ol
+Starttime of utterance in seconds: 11.940
+Endtime of utterance in seconds: 12.060
+Duration of utterance in seconds: 0.120
+Confidence: 0.167
+Original filename: test-3
+Corresponding number in titlelist.txt: 0000

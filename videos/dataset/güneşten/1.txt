@@ -1,0 +1,7 @@
+Spoken word: güneşten
+Starttime of utterance in seconds: 35.920
+Endtime of utterance in seconds: 37.160
+Duration of utterance in seconds: 1.240
+Confidence: 0.830
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

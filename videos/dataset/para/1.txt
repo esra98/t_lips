@@ -1,0 +1,7 @@
+Spoken word: para
+Starttime of utterance in seconds: 9.440
+Endtime of utterance in seconds: 9.640
+Duration of utterance in seconds: 0.200
+Confidence: 0.384
+Original filename: test-3
+Corresponding number in titlelist.txt: 0000

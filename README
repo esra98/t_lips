@@ -1,0 +1,11 @@
+CONDA ENV CREATE:
+
+```
+conda env create -f environment.yml
+conda activate whisper
+```
+or conda env update -f environment.yaml
+and pip install mediapipe
+conda install -c conda-forge ffmpeg
+UPDATE LIST UNDER "videos" FOLDER and respective csv file
+

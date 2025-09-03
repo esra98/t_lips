@@ -1,0 +1,7 @@
+Spoken word: açı
+Starttime of utterance in seconds: 48.520
+Endtime of utterance in seconds: 48.840
+Duration of utterance in seconds: 0.320
+Confidence: 0.881
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

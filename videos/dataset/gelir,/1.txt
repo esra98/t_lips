@@ -1,0 +1,7 @@
+Spoken word: gelir,
+Starttime of utterance in seconds: 11.300
+Endtime of utterance in seconds: 11.500
+Duration of utterance in seconds: 0.200
+Confidence: 0.092
+Original filename: test-3
+Corresponding number in titlelist.txt: 0000

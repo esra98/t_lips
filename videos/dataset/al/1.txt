@@ -1,0 +1,7 @@
+Spoken word: al
+Starttime of utterance in seconds: 12.200
+Endtime of utterance in seconds: 12.400
+Duration of utterance in seconds: 0.200
+Confidence: 0.923
+Original filename: test-3
+Corresponding number in titlelist.txt: 0000

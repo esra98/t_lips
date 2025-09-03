@@ -1,0 +1,7 @@
+Spoken word: fark
+Starttime of utterance in seconds: 44.620
+Endtime of utterance in seconds: 45.020
+Duration of utterance in seconds: 0.400
+Confidence: 0.997
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

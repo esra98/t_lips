@@ -1,0 +1,7 @@
+Spoken word: kullanıyordu.
+Starttime of utterance in seconds: 15.580
+Endtime of utterance in seconds: 16.120
+Duration of utterance in seconds: 0.540
+Confidence: 0.991
+Original filename: test-2
+Corresponding number in titlelist.txt: 0000

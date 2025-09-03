@@ -1,0 +1,7 @@
+Spoken word: i̇ki
+Starttime of utterance in seconds: 16.940
+Endtime of utterance in seconds: 17.140
+Duration of utterance in seconds: 0.200
+Confidence: 0.894
+Original filename: test-3
+Corresponding number in titlelist.txt: 0000

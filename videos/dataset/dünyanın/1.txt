@@ -1,0 +1,7 @@
+Spoken word: dünyanın
+Starttime of utterance in seconds: 9.580
+Endtime of utterance in seconds: 10.640
+Duration of utterance in seconds: 1.060
+Confidence: 0.797
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

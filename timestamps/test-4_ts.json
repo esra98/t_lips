@@ -1,0 +1,305 @@
+{
+  "text": " Bu ülkede mafya, karo parasını pandemi döneminde toplayabilmek için Sultanbeyli İlçe Emniyet Müdürünü makam arabacıyla gezi pırları paraları topladı. Sultanbeyli İlçe Emniyet Müdürü makam aracında şoförü polis kullanıyordu.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.56,
+      "text": " Bu ülkede mafya, karo parasını pandemi döneminde toplayabilmek için",
+      "tokens": [
+        50364,
+        4078,
+        35073,
+        74,
+        4858,
+        463,
+        69,
+        3016,
+        11,
+        7917,
+        78,
+        21012,
+        7760,
+        4565,
+        13372,
+        24782,
+        443,
+        8274,
+        281,
+        2858,
+        5177,
+        13132,
+        8457,
+        50656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29801162083943683,
+      "compression_ratio": 1.447674418604651,
+      "no_speech_prob": 0.004461789503693581,
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "Bu",
+          "start": 0.0,
+          "end": 0.18,
+          "confidence": 0.719
+        },
+        {
+          "text": "ülkede",
+          "start": 0.18,
+          "end": 0.62,
+          "confidence": 0.992
+        },
+        {
+          "text": "mafya,",
+          "start": 0.62,
+          "end": 1.7,
+          "confidence": 0.92
+        },
+        {
+          "text": "karo",
+          "start": 1.86,
+          "end": 3.18,
+          "confidence": 0.618
+        },
+        {
+          "text": "parasını",
+          "start": 3.18,
+          "end": 3.66,
+          "confidence": 0.856
+        },
+        {
+          "text": "pandemi",
+          "start": 3.66,
+          "end": 4.3,
+          "confidence": 0.804
+        },
+        {
+          "text": "döneminde",
+          "start": 4.3,
+          "end": 4.66,
+          "confidence": 0.937
+        },
+        {
+          "text": "toplayabilmek",
+          "start": 4.66,
+          "end": 5.3,
+          "confidence": 0.959
+        },
+        {
+          "text": "için",
+          "start": 5.3,
+          "end": 5.56,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.24,
+      "end": 10.48,
+      "text": " Sultanbeyli İlçe Emniyet Müdürünü makam arabacıyla gezi pırları paraları topladı.",
+      "tokens": [
+        50656,
+        23528,
+        13502,
+        2081,
+        6601,
+        75,
+        32115,
+        3968,
+        3722,
+        37180,
+        21295,
+        67,
+        1655,
+        29598,
+        963,
+        335,
+        38557,
+        326,
+        25077,
+        1519,
+        3992,
+        280,
+        3702,
+        10197,
+        971,
+        47289,
+        41017,
+        35287,
+        13,
+        50896
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29801162083943683,
+      "compression_ratio": 1.447674418604651,
+      "no_speech_prob": 0.004461789503693581,
+      "confidence": 0.683,
+      "words": [
+        {
+          "text": "Sultanbeyli",
+          "start": 6.24,
+          "end": 6.86,
+          "confidence": 0.632
+        },
+        {
+          "text": "İlçe",
+          "start": 6.86,
+          "end": 7.18,
+          "confidence": 0.531
+        },
+        {
+          "text": "Emniyet",
+          "start": 7.18,
+          "end": 7.48,
+          "confidence": 0.868
+        },
+        {
+          "text": "Müdürünü",
+          "start": 7.48,
+          "end": 7.82,
+          "confidence": 0.748
+        },
+        {
+          "text": "makam",
+          "start": 7.82,
+          "end": 8.24,
+          "confidence": 0.87
+        },
+        {
+          "text": "arabacıyla",
+          "start": 8.24,
+          "end": 8.82,
+          "confidence": 0.752
+        },
+        {
+          "text": "gezi",
+          "start": 8.82,
+          "end": 9.12,
+          "confidence": 0.574
+        },
+        {
+          "text": "pırları",
+          "start": 9.12,
+          "end": 9.64,
+          "confidence": 0.605
+        },
+        {
+          "text": "paraları",
+          "start": 9.64,
+          "end": 10.08,
+          "confidence": 0.682
+        },
+        {
+          "text": "topladı.",
+          "start": 10.08,
+          "end": 10.48,
+          "confidence": 0.636
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.88,
+      "end": 16.12,
+      "text": " Sultanbeyli İlçe Emniyet Müdürü makam aracında şoförü polis kullanıyordu.",
+      "tokens": [
+        50896,
+        23528,
+        13502,
+        2081,
+        6601,
+        75,
+        32115,
+        3968,
+        3722,
+        37180,
+        21295,
+        67,
+        26481,
+        963,
+        335,
+        594,
+        326,
+        8431,
+        3382,
+        2670,
+        2311,
+        774,
+        1180,
+        271,
+        27443,
+        8472,
+        28655,
+        13,
+        51184
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29801162083943683,
+      "compression_ratio": 1.447674418604651,
+      "no_speech_prob": 0.004461789503693581,
+      "confidence": 0.957,
+      "words": [
+        {
+          "text": "Sultanbeyli",
+          "start": 10.88,
+          "end": 11.64,
+          "confidence": 0.981
+        },
+        {
+          "text": "İlçe",
+          "start": 11.64,
+          "end": 12.76,
+          "confidence": 0.949
+        },
+        {
+          "text": "Emniyet",
+          "start": 12.76,
+          "end": 13.18,
+          "confidence": 0.986
+        },
+        {
+          "text": "Müdürü",
+          "start": 13.18,
+          "end": 13.46,
+          "confidence": 0.973
+        },
+        {
+          "text": "makam",
+          "start": 13.46,
+          "end": 14.16,
+          "confidence": 0.926
+        },
+        {
+          "text": "aracında",
+          "start": 14.16,
+          "end": 14.56,
+          "confidence": 0.911
+        },
+        {
+          "text": "şoförü",
+          "start": 14.56,
+          "end": 15.06,
+          "confidence": 0.949
+        },
+        {
+          "text": "polis",
+          "start": 15.06,
+          "end": 15.58,
+          "confidence": 0.938
+        },
+        {
+          "text": "kullanıyordu.",
+          "start": 15.58,
+          "end": 16.12,
+          "confidence": 0.991
+        }
+      ]
+    }
+  ],
+  "language": "turkish"
+}

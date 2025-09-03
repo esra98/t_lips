@@ -1,0 +1,7 @@
+Spoken word: boyu
+Starttime of utterance in seconds: 43.840
+Endtime of utterance in seconds: 44.120
+Duration of utterance in seconds: 0.280
+Confidence: 0.971
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

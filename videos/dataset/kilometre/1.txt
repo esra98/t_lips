@@ -1,0 +1,7 @@
+Spoken word: kilometre
+Starttime of utterance in seconds: 27.900
+Endtime of utterance in seconds: 28.560
+Duration of utterance in seconds: 0.660
+Confidence: 0.745
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000

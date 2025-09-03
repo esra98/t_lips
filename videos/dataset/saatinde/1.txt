@@ -1,0 +1,7 @@
+Spoken word: saatinde
+Starttime of utterance in seconds: 33.480
+Endtime of utterance in seconds: 34.380
+Duration of utterance in seconds: 0.900
+Confidence: 0.967
+Original filename: test-1
+Corresponding number in titlelist.txt: 0000
