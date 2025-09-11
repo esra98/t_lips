@@ -1,0 +1,7 @@
+Spoken word: dolusunu
+Starttime of utterance in seconds: 220.320
+Endtime of utterance in seconds: 220.840
+Duration of utterance in seconds: 0.520
+Confidence: 0.767
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

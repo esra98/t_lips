@@ -1,0 +1,7 @@
+Spoken word: açlığa
+Starttime of utterance in seconds: 134.540
+Endtime of utterance in seconds: 135.560
+Duration of utterance in seconds: 1.020
+Confidence: 0.865
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

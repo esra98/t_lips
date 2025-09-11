@@ -1,0 +1,7 @@
+Spoken word: milletimizle
+Starttime of utterance in seconds: 5672.220
+Endtime of utterance in seconds: 5673.060
+Duration of utterance in seconds: 0.840
+Confidence: 0.947
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

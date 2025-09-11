@@ -1,0 +1,7 @@
+Spoken word: hasta
+Starttime of utterance in seconds: 1625.780
+Endtime of utterance in seconds: 1626.040
+Duration of utterance in seconds: 0.260
+Confidence: 0.265
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

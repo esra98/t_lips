@@ -1,0 +1,7 @@
+Spoken word: inancı
+Starttime of utterance in seconds: 5824.920
+Endtime of utterance in seconds: 5825.980
+Duration of utterance in seconds: 1.060
+Confidence: 0.940
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: günah
+Starttime of utterance in seconds: 4464.600
+Endtime of utterance in seconds: 4465.000
+Duration of utterance in seconds: 0.400
+Confidence: 0.948
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

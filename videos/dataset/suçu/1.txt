@@ -1,0 +1,7 @@
+Spoken word: suçu
+Starttime of utterance in seconds: 960.060
+Endtime of utterance in seconds: 960.290
+Duration of utterance in seconds: 0.230
+Confidence: 0.857
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

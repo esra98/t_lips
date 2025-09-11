@@ -1,0 +1,7 @@
+Spoken word: sessiz,
+Starttime of utterance in seconds: 3771.910
+Endtime of utterance in seconds: 3772.420
+Duration of utterance in seconds: 0.510
+Confidence: 0.751
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

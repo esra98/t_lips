@@ -1,0 +1,7 @@
+Spoken word: masete
+Starttime of utterance in seconds: 4721.900
+Endtime of utterance in seconds: 4722.360
+Duration of utterance in seconds: 0.460
+Confidence: 0.878
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

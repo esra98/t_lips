@@ -1,0 +1,7 @@
+Spoken word: aykırmaktadır.
+Starttime of utterance in seconds: 5629.560
+Endtime of utterance in seconds: 5630.700
+Duration of utterance in seconds: 1.140
+Confidence: 0.899
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

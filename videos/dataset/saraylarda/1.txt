@@ -1,0 +1,7 @@
+Spoken word: saraylarda
+Starttime of utterance in seconds: 4134.120
+Endtime of utterance in seconds: 4134.780
+Duration of utterance in seconds: 0.660
+Confidence: 0.863
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

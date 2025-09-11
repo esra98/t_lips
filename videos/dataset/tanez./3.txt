@@ -1,7 +1,0 @@
-Spoken word: tanez.
-Starttime of utterance in seconds: 73.120
-Endtime of utterance in seconds: 73.740
-Duration of utterance in seconds: 0.620
-Confidence: 0.993
-Original filename: test-1
-Corresponding number in titlelist.txt: 0000

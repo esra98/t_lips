@@ -1,0 +1,7 @@
+Spoken word: gür
+Starttime of utterance in seconds: 2329.200
+Endtime of utterance in seconds: 2329.400
+Duration of utterance in seconds: 0.200
+Confidence: 0.967
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

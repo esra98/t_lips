@@ -1,0 +1,7 @@
+Spoken word: vicdan
+Starttime of utterance in seconds: 2519.320
+Endtime of utterance in seconds: 2519.700
+Duration of utterance in seconds: 0.380
+Confidence: 0.982
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

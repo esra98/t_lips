@@ -1,0 +1,7 @@
+Spoken word: anlamı
+Starttime of utterance in seconds: 3743.170
+Endtime of utterance in seconds: 3743.460
+Duration of utterance in seconds: 0.290
+Confidence: 0.550
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

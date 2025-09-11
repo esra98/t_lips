@@ -1,0 +1,7 @@
+Spoken word: gönderebiliyoruz.
+Starttime of utterance in seconds: 3022.520
+Endtime of utterance in seconds: 3023.440
+Duration of utterance in seconds: 0.920
+Confidence: 0.970
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

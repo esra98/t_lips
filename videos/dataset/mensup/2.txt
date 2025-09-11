@@ -1,0 +1,7 @@
+Spoken word: mensup
+Starttime of utterance in seconds: 2824.600
+Endtime of utterance in seconds: 2824.920
+Duration of utterance in seconds: 0.320
+Confidence: 0.983
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

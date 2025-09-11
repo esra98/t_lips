@@ -1,7 +1,7 @@
 Spoken word: benden
-Starttime of utterance in seconds: 17.440
-Endtime of utterance in seconds: 17.780
-Duration of utterance in seconds: 0.340
-Confidence: 0.993
-Original filename: test-3
+Starttime of utterance in seconds: 2769.720
+Endtime of utterance in seconds: 2770.560
+Duration of utterance in seconds: 0.840
+Confidence: 0.963
+Original filename: video-1
 Corresponding number in titlelist.txt: 0000

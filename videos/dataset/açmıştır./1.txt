@@ -1,0 +1,7 @@
+Spoken word: açmıştır.
+Starttime of utterance in seconds: 230.180
+Endtime of utterance in seconds: 230.720
+Duration of utterance in seconds: 0.540
+Confidence: 0.890
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

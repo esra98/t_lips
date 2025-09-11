@@ -1,0 +1,7 @@
+Spoken word: topyekin
+Starttime of utterance in seconds: 5640.160
+Endtime of utterance in seconds: 5641.370
+Duration of utterance in seconds: 1.210
+Confidence: 0.593
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

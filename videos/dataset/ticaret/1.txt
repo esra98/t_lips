@@ -1,0 +1,7 @@
+Spoken word: ticaret
+Starttime of utterance in seconds: 2704.840
+Endtime of utterance in seconds: 2705.180
+Duration of utterance in seconds: 0.340
+Confidence: 0.926
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

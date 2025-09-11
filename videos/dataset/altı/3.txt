@@ -1,0 +1,7 @@
+Spoken word: altı
+Starttime of utterance in seconds: 2553.620
+Endtime of utterance in seconds: 2554.400
+Duration of utterance in seconds: 0.780
+Confidence: 0.782
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

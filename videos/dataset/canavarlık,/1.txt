@@ -1,0 +1,7 @@
+Spoken word: canavarlık,
+Starttime of utterance in seconds: 3911.260
+Endtime of utterance in seconds: 3911.980
+Duration of utterance in seconds: 0.720
+Confidence: 0.937
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

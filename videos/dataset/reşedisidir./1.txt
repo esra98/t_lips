@@ -1,0 +1,7 @@
+Spoken word: reşedisidir.
+Starttime of utterance in seconds: 2119.960
+Endtime of utterance in seconds: 2120.640
+Duration of utterance in seconds: 0.680
+Confidence: 0.541
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: danışma
+Starttime of utterance in seconds: 715.400
+Endtime of utterance in seconds: 716.320
+Duration of utterance in seconds: 0.920
+Confidence: 0.913
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

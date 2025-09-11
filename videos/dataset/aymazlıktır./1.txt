@@ -1,0 +1,7 @@
+Spoken word: aymazlıktır.
+Starttime of utterance in seconds: 4883.920
+Endtime of utterance in seconds: 4884.780
+Duration of utterance in seconds: 0.860
+Confidence: 0.857
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

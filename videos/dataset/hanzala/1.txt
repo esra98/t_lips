@@ -1,0 +1,7 @@
+Spoken word: hanzala
+Starttime of utterance in seconds: 2791.460
+Endtime of utterance in seconds: 2792.000
+Duration of utterance in seconds: 0.540
+Confidence: 0.673
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

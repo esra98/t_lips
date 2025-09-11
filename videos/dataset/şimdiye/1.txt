@@ -1,0 +1,7 @@
+Spoken word: şimdiye
+Starttime of utterance in seconds: 60.120
+Endtime of utterance in seconds: 61.040
+Duration of utterance in seconds: 0.920
+Confidence: 0.609
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

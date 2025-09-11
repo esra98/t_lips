@@ -1,0 +1,7 @@
+Spoken word: önemi
+Starttime of utterance in seconds: 1919.040
+Endtime of utterance in seconds: 1919.540
+Duration of utterance in seconds: 0.500
+Confidence: 0.417
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

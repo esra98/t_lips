@@ -1,0 +1,7 @@
+Spoken word: doları
+Starttime of utterance in seconds: 4555.280
+Endtime of utterance in seconds: 4555.620
+Duration of utterance in seconds: 0.340
+Confidence: 0.702
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

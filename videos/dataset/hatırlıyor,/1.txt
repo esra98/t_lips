@@ -1,0 +1,7 @@
+Spoken word: hatırlıyor,
+Starttime of utterance in seconds: 2528.580
+Endtime of utterance in seconds: 2529.020
+Duration of utterance in seconds: 0.440
+Confidence: 0.959
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

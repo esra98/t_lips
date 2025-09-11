@@ -1,0 +1,7 @@
+Spoken word: benimsemeye
+Starttime of utterance in seconds: 1768.360
+Endtime of utterance in seconds: 1769.040
+Duration of utterance in seconds: 0.680
+Confidence: 0.949
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

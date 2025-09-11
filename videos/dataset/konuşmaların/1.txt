@@ -1,0 +1,7 @@
+Spoken word: konuşmaların
+Starttime of utterance in seconds: 771.420
+Endtime of utterance in seconds: 772.000
+Duration of utterance in seconds: 0.580
+Confidence: 0.917
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

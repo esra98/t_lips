@@ -1,0 +1,7 @@
+Spoken word: neredeyse
+Starttime of utterance in seconds: 2176.880
+Endtime of utterance in seconds: 2177.390
+Duration of utterance in seconds: 0.510
+Confidence: 0.866
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

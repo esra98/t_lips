@@ -1,0 +1,7 @@
+Spoken word: sayım
+Starttime of utterance in seconds: 3746.520
+Endtime of utterance in seconds: 3747.760
+Duration of utterance in seconds: 1.240
+Confidence: 0.654
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

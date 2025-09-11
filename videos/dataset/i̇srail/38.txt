@@ -1,0 +1,7 @@
+Spoken word: i̇srail
+Starttime of utterance in seconds: 2959.100
+Endtime of utterance in seconds: 2959.640
+Duration of utterance in seconds: 0.540
+Confidence: 0.825
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

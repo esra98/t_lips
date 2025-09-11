@@ -1,0 +1,7 @@
+Spoken word: sustuğu
+Starttime of utterance in seconds: 3333.100
+Endtime of utterance in seconds: 3333.840
+Duration of utterance in seconds: 0.740
+Confidence: 0.972
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

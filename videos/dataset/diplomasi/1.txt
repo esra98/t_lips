@@ -1,0 +1,7 @@
+Spoken word: diplomasi
+Starttime of utterance in seconds: 1660.980
+Endtime of utterance in seconds: 1661.460
+Duration of utterance in seconds: 0.480
+Confidence: 0.578
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

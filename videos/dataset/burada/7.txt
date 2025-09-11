@@ -1,0 +1,7 @@
+Spoken word: burada
+Starttime of utterance in seconds: 2683.060
+Endtime of utterance in seconds: 2683.720
+Duration of utterance in seconds: 0.660
+Confidence: 0.910
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: sürdürdüğü
+Starttime of utterance in seconds: 31.940
+Endtime of utterance in seconds: 33.200
+Duration of utterance in seconds: 1.260
+Confidence: 0.869
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

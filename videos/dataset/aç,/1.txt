@@ -1,0 +1,7 @@
+Spoken word: aç,
+Starttime of utterance in seconds: 5745.020
+Endtime of utterance in seconds: 5745.500
+Duration of utterance in seconds: 0.480
+Confidence: 0.890
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

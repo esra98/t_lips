@@ -1,0 +1,7 @@
+Spoken word: sekizinci
+Starttime of utterance in seconds: 3964.060
+Endtime of utterance in seconds: 3965.500
+Duration of utterance in seconds: 1.440
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

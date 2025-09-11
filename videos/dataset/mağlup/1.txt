@@ -1,0 +1,7 @@
+Spoken word: mağlup
+Starttime of utterance in seconds: 5857.220
+Endtime of utterance in seconds: 5857.560
+Duration of utterance in seconds: 0.340
+Confidence: 0.923
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

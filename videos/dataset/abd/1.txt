@@ -1,0 +1,7 @@
+Spoken word: abd
+Starttime of utterance in seconds: 374.440
+Endtime of utterance in seconds: 375.480
+Duration of utterance in seconds: 1.040
+Confidence: 0.697
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

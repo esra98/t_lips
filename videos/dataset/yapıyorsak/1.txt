@@ -1,0 +1,7 @@
+Spoken word: yapıyorsak
+Starttime of utterance in seconds: 2982.200
+Endtime of utterance in seconds: 2982.820
+Duration of utterance in seconds: 0.620
+Confidence: 0.990
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

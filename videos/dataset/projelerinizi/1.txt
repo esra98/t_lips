@@ -1,0 +1,7 @@
+Spoken word: projelerinizi
+Starttime of utterance in seconds: 4968.080
+Endtime of utterance in seconds: 4969.000
+Duration of utterance in seconds: 0.920
+Confidence: 0.848
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

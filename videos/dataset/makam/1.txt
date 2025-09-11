@@ -1,7 +1,0 @@
-Spoken word: makam
-Starttime of utterance in seconds: 7.820
-Endtime of utterance in seconds: 8.240
-Duration of utterance in seconds: 0.420
-Confidence: 0.870
-Original filename: test-2
-Corresponding number in titlelist.txt: 0000

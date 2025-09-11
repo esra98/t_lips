@@ -1,0 +1,7 @@
+Spoken word: sessizliği
+Starttime of utterance in seconds: 3902.360
+Endtime of utterance in seconds: 3903.620
+Duration of utterance in seconds: 1.260
+Confidence: 0.923
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

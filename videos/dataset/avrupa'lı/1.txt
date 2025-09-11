@@ -1,0 +1,7 @@
+Spoken word: avrupa'lı
+Starttime of utterance in seconds: 1861.520
+Endtime of utterance in seconds: 1862.040
+Duration of utterance in seconds: 0.520
+Confidence: 0.833
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

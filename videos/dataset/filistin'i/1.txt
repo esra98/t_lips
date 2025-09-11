@@ -1,0 +1,7 @@
+Spoken word: filistin'i
+Starttime of utterance in seconds: 322.860
+Endtime of utterance in seconds: 323.380
+Duration of utterance in seconds: 0.520
+Confidence: 0.544
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

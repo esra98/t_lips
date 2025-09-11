@@ -1,0 +1,7 @@
+Spoken word: olmuş
+Starttime of utterance in seconds: 4889.180
+Endtime of utterance in seconds: 4889.500
+Duration of utterance in seconds: 0.320
+Confidence: 0.995
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

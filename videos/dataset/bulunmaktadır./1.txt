@@ -1,0 +1,7 @@
+Spoken word: bulunmaktadır.
+Starttime of utterance in seconds: 4084.830
+Endtime of utterance in seconds: 4085.760
+Duration of utterance in seconds: 0.930
+Confidence: 0.986
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

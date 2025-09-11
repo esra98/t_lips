@@ -1,0 +1,7 @@
+Spoken word: dair
+Starttime of utterance in seconds: 2650.640
+Endtime of utterance in seconds: 2650.980
+Duration of utterance in seconds: 0.340
+Confidence: 0.910
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

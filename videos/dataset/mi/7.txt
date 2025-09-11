@@ -1,0 +1,7 @@
+Spoken word: mi
+Starttime of utterance in seconds: 3973.940
+Endtime of utterance in seconds: 3974.240
+Duration of utterance in seconds: 0.300
+Confidence: 0.999
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

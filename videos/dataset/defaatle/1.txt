@@ -1,0 +1,7 @@
+Spoken word: defaatle
+Starttime of utterance in seconds: 2563.140
+Endtime of utterance in seconds: 2564.380
+Duration of utterance in seconds: 1.240
+Confidence: 0.547
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

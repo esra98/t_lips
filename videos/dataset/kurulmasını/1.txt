@@ -1,0 +1,7 @@
+Spoken word: kurulmasını
+Starttime of utterance in seconds: 628.440
+Endtime of utterance in seconds: 629.920
+Duration of utterance in seconds: 1.480
+Confidence: 0.883
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

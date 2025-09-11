@@ -1,0 +1,7 @@
+Spoken word: rezaletini
+Starttime of utterance in seconds: 5010.280
+Endtime of utterance in seconds: 5011.180
+Duration of utterance in seconds: 0.900
+Confidence: 0.968
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

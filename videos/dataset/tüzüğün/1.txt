@@ -1,0 +1,7 @@
+Spoken word: tüzüğün
+Starttime of utterance in seconds: 761.220
+Endtime of utterance in seconds: 761.620
+Duration of utterance in seconds: 0.400
+Confidence: 0.728
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

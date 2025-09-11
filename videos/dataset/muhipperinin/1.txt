@@ -1,0 +1,7 @@
+Spoken word: muhipperinin
+Starttime of utterance in seconds: 4912.640
+Endtime of utterance in seconds: 4913.920
+Duration of utterance in seconds: 1.280
+Confidence: 0.595
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: yankılanan
+Starttime of utterance in seconds: 4207.280
+Endtime of utterance in seconds: 4208.480
+Duration of utterance in seconds: 1.200
+Confidence: 0.760
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

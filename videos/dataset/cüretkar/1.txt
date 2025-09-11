@@ -1,0 +1,7 @@
+Spoken word: cüretkar
+Starttime of utterance in seconds: 1383.160
+Endtime of utterance in seconds: 1383.720
+Duration of utterance in seconds: 0.560
+Confidence: 0.883
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

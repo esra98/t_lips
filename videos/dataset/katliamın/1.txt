@@ -1,0 +1,7 @@
+Spoken word: katliamın
+Starttime of utterance in seconds: 3776.560
+Endtime of utterance in seconds: 3777.020
+Duration of utterance in seconds: 0.460
+Confidence: 0.963
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

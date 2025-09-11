@@ -1,0 +1,7 @@
+Spoken word: asıl
+Starttime of utterance in seconds: 2083.440
+Endtime of utterance in seconds: 2083.790
+Duration of utterance in seconds: 0.350
+Confidence: 0.725
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

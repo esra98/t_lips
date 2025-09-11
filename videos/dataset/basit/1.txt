@@ -1,0 +1,7 @@
+Spoken word: basit
+Starttime of utterance in seconds: 4378.880
+Endtime of utterance in seconds: 4379.860
+Duration of utterance in seconds: 0.980
+Confidence: 0.968
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

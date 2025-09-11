@@ -1,0 +1,7 @@
+Spoken word: varlık
+Starttime of utterance in seconds: 5104.120
+Endtime of utterance in seconds: 5104.720
+Duration of utterance in seconds: 0.600
+Confidence: 0.953
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

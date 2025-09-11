@@ -1,0 +1,7 @@
+Spoken word: halkı
+Starttime of utterance in seconds: 5269.720
+Endtime of utterance in seconds: 5269.980
+Duration of utterance in seconds: 0.260
+Confidence: 0.668
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

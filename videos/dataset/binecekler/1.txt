@@ -1,0 +1,7 @@
+Spoken word: binecekler
+Starttime of utterance in seconds: 3385.480
+Endtime of utterance in seconds: 3386.020
+Duration of utterance in seconds: 0.540
+Confidence: 0.873
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

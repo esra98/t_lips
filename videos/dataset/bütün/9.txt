@@ -1,0 +1,7 @@
+Spoken word: bütün
+Starttime of utterance in seconds: 4395.120
+Endtime of utterance in seconds: 4395.720
+Duration of utterance in seconds: 0.600
+Confidence: 0.989
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

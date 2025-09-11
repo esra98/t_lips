@@ -1,0 +1,7 @@
+Spoken word: halkın
+Starttime of utterance in seconds: 3253.280
+Endtime of utterance in seconds: 3253.560
+Duration of utterance in seconds: 0.280
+Confidence: 0.870
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

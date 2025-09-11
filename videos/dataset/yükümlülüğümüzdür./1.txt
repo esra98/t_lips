@@ -1,0 +1,7 @@
+Spoken word: yükümlülüğümüzdür.
+Starttime of utterance in seconds: 5697.420
+Endtime of utterance in seconds: 5698.300
+Duration of utterance in seconds: 0.880
+Confidence: 0.797
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

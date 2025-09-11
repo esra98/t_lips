@@ -1,0 +1,7 @@
+Spoken word: tablak
+Starttime of utterance in seconds: 1170.820
+Endtime of utterance in seconds: 1171.440
+Duration of utterance in seconds: 0.620
+Confidence: 0.453
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

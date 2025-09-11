@@ -1,0 +1,7 @@
+Spoken word: başkanı,
+Starttime of utterance in seconds: 683.870
+Endtime of utterance in seconds: 684.500
+Duration of utterance in seconds: 0.630
+Confidence: 0.875
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

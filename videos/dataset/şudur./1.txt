@@ -1,0 +1,7 @@
+Spoken word: şudur.
+Starttime of utterance in seconds: 4115.660
+Endtime of utterance in seconds: 4116.820
+Duration of utterance in seconds: 1.160
+Confidence: 0.954
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

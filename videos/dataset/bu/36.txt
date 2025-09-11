@@ -1,0 +1,7 @@
+Spoken word: bu
+Starttime of utterance in seconds: 1802.100
+Endtime of utterance in seconds: 1802.970
+Duration of utterance in seconds: 0.870
+Confidence: 0.962
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

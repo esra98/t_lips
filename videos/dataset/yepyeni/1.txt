@@ -1,0 +1,7 @@
+Spoken word: yepyeni
+Starttime of utterance in seconds: 2544.240
+Endtime of utterance in seconds: 2544.680
+Duration of utterance in seconds: 0.440
+Confidence: 0.808
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

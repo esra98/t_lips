@@ -1,0 +1,7 @@
+Spoken word: kınama
+Starttime of utterance in seconds: 4599.540
+Endtime of utterance in seconds: 4600.000
+Duration of utterance in seconds: 0.460
+Confidence: 0.900
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

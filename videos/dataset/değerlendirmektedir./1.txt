@@ -1,0 +1,7 @@
+Spoken word: değerlendirmektedir.
+Starttime of utterance in seconds: 5419.580
+Endtime of utterance in seconds: 5421.100
+Duration of utterance in seconds: 1.520
+Confidence: 0.977
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

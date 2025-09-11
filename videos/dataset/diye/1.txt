@@ -1,7 +1,7 @@
 Spoken word: diye
-Starttime of utterance in seconds: 12.060
-Endtime of utterance in seconds: 12.200
-Duration of utterance in seconds: 0.140
-Confidence: 0.981
-Original filename: test-3
+Starttime of utterance in seconds: 514.260
+Endtime of utterance in seconds: 515.120
+Duration of utterance in seconds: 0.860
+Confidence: 0.864
+Original filename: video-1
 Corresponding number in titlelist.txt: 0000

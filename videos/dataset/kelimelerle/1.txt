@@ -1,0 +1,7 @@
+Spoken word: kelimelerle
+Starttime of utterance in seconds: 3914.860
+Endtime of utterance in seconds: 3915.820
+Duration of utterance in seconds: 0.960
+Confidence: 0.974
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

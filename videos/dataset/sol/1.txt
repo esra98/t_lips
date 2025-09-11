@@ -1,0 +1,7 @@
+Spoken word: sol
+Starttime of utterance in seconds: 1076.520
+Endtime of utterance in seconds: 1076.680
+Duration of utterance in seconds: 0.160
+Confidence: 0.680
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

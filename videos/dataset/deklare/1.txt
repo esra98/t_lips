@@ -1,0 +1,7 @@
+Spoken word: deklare
+Starttime of utterance in seconds: 3130.100
+Endtime of utterance in seconds: 3130.540
+Duration of utterance in seconds: 0.440
+Confidence: 0.831
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

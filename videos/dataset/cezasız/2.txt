@@ -1,0 +1,7 @@
+Spoken word: cezasız
+Starttime of utterance in seconds: 5385.640
+Endtime of utterance in seconds: 5386.150
+Duration of utterance in seconds: 0.510
+Confidence: 0.817
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

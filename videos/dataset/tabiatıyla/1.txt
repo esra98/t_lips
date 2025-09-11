@@ -1,0 +1,7 @@
+Spoken word: tabiatıyla
+Starttime of utterance in seconds: 886.860
+Endtime of utterance in seconds: 888.160
+Duration of utterance in seconds: 1.300
+Confidence: 0.944
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: kullanılmaktadır.
+Starttime of utterance in seconds: 112.520
+Endtime of utterance in seconds: 113.480
+Duration of utterance in seconds: 0.960
+Confidence: 0.985
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: saygılarımla
+Starttime of utterance in seconds: 5040.060
+Endtime of utterance in seconds: 5041.360
+Duration of utterance in seconds: 1.300
+Confidence: 0.979
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

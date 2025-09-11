@@ -1,0 +1,7 @@
+Spoken word: dava
+Starttime of utterance in seconds: 849.110
+Endtime of utterance in seconds: 849.540
+Duration of utterance in seconds: 0.430
+Confidence: 0.684
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

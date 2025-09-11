@@ -1,0 +1,7 @@
+Spoken word: artmakta
+Starttime of utterance in seconds: 284.400
+Endtime of utterance in seconds: 285.420
+Duration of utterance in seconds: 1.020
+Confidence: 0.953
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

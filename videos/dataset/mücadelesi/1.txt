@@ -1,0 +1,7 @@
+Spoken word: mücadelesi
+Starttime of utterance in seconds: 1034.720
+Endtime of utterance in seconds: 1035.340
+Duration of utterance in seconds: 0.620
+Confidence: 0.940
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

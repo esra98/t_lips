@@ -1,0 +1,7 @@
+Spoken word: gündemin
+Starttime of utterance in seconds: 1464.880
+Endtime of utterance in seconds: 1465.260
+Duration of utterance in seconds: 0.380
+Confidence: 0.937
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

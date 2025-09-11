@@ -1,0 +1,7 @@
+Spoken word: başlatacak
+Starttime of utterance in seconds: 5014.800
+Endtime of utterance in seconds: 5015.700
+Duration of utterance in seconds: 0.900
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

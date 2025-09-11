@@ -1,0 +1,7 @@
+Spoken word: raporlaştırmışlardı.
+Starttime of utterance in seconds: 3378.140
+Endtime of utterance in seconds: 3379.100
+Duration of utterance in seconds: 0.960
+Confidence: 0.909
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

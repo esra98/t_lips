@@ -1,0 +1,7 @@
+Spoken word: olanların
+Starttime of utterance in seconds: 4080.540
+Endtime of utterance in seconds: 4081.200
+Duration of utterance in seconds: 0.660
+Confidence: 0.996
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: demirçelik
+Starttime of utterance in seconds: 4770.260
+Endtime of utterance in seconds: 4771.460
+Duration of utterance in seconds: 1.200
+Confidence: 0.926
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

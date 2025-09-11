@@ -1,0 +1,7 @@
+Spoken word: hatırlayacağınız
+Starttime of utterance in seconds: 897.580
+Endtime of utterance in seconds: 898.700
+Duration of utterance in seconds: 1.120
+Confidence: 0.830
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

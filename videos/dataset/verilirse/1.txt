@@ -1,0 +1,7 @@
+Spoken word: verilirse
+Starttime of utterance in seconds: 1332.520
+Endtime of utterance in seconds: 1333.060
+Duration of utterance in seconds: 0.540
+Confidence: 0.958
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

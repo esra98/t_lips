@@ -1,0 +1,7 @@
+Spoken word: değerlendirmemizin
+Starttime of utterance in seconds: 1340.140
+Endtime of utterance in seconds: 1340.980
+Duration of utterance in seconds: 0.840
+Confidence: 0.960
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

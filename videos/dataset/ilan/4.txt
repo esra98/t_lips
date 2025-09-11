@@ -1,0 +1,7 @@
+Spoken word: ilan
+Starttime of utterance in seconds: 4482.560
+Endtime of utterance in seconds: 4483.000
+Duration of utterance in seconds: 0.440
+Confidence: 0.972
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

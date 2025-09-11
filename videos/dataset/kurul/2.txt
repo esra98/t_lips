@@ -1,0 +1,7 @@
+Spoken word: kurul
+Starttime of utterance in seconds: 3035.720
+Endtime of utterance in seconds: 3035.920
+Duration of utterance in seconds: 0.200
+Confidence: 0.610
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

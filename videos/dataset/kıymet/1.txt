@@ -1,0 +1,7 @@
+Spoken word: kıymet
+Starttime of utterance in seconds: 5713.240
+Endtime of utterance in seconds: 5713.560
+Duration of utterance in seconds: 0.320
+Confidence: 0.596
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

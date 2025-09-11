@@ -1,0 +1,7 @@
+Spoken word: biz
+Starttime of utterance in seconds: 4957.960
+Endtime of utterance in seconds: 4958.520
+Duration of utterance in seconds: 0.560
+Confidence: 0.909
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

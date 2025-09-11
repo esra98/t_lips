@@ -1,0 +1,7 @@
+Spoken word: zorlayıcı
+Starttime of utterance in seconds: 1236.380
+Endtime of utterance in seconds: 1237.440
+Duration of utterance in seconds: 1.060
+Confidence: 0.972
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: hassasiyetinizden
+Starttime of utterance in seconds: 2922.580
+Endtime of utterance in seconds: 2923.460
+Duration of utterance in seconds: 0.880
+Confidence: 0.956
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: süreniz
+Starttime of utterance in seconds: 2369.640
+Endtime of utterance in seconds: 2370.380
+Duration of utterance in seconds: 0.740
+Confidence: 0.960
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

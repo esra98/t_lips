@@ -1,0 +1,7 @@
+Spoken word: algı
+Starttime of utterance in seconds: 5805.760
+Endtime of utterance in seconds: 5806.660
+Duration of utterance in seconds: 0.900
+Confidence: 0.966
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

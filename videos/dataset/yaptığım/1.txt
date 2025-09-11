@@ -1,0 +1,7 @@
+Spoken word: yaptığım
+Starttime of utterance in seconds: 896.580
+Endtime of utterance in seconds: 897.000
+Duration of utterance in seconds: 0.420
+Confidence: 0.986
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

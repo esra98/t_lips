@@ -1,0 +1,7 @@
+Spoken word: yardım
+Starttime of utterance in seconds: 5310.800
+Endtime of utterance in seconds: 5311.080
+Duration of utterance in seconds: 0.280
+Confidence: 0.952
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

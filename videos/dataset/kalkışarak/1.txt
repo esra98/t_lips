@@ -1,0 +1,7 @@
+Spoken word: kalkışarak
+Starttime of utterance in seconds: 4475.320
+Endtime of utterance in seconds: 4476.120
+Duration of utterance in seconds: 0.800
+Confidence: 0.995
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

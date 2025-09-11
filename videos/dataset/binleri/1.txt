@@ -1,0 +1,7 @@
+Spoken word: binleri
+Starttime of utterance in seconds: 2464.320
+Endtime of utterance in seconds: 2465.060
+Duration of utterance in seconds: 0.740
+Confidence: 0.936
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

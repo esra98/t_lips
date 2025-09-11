@@ -1,0 +1,7 @@
+Spoken word: buyurun
+Starttime of utterance in seconds: 687.280
+Endtime of utterance in seconds: 687.720
+Duration of utterance in seconds: 0.440
+Confidence: 0.954
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

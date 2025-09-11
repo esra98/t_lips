@@ -1,0 +1,7 @@
+Spoken word: mu
+Starttime of utterance in seconds: 4638.060
+Endtime of utterance in seconds: 4638.320
+Duration of utterance in seconds: 0.260
+Confidence: 0.887
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: sorumluluk
+Starttime of utterance in seconds: 5702.300
+Endtime of utterance in seconds: 5702.930
+Duration of utterance in seconds: 0.630
+Confidence: 0.959
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

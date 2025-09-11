@@ -1,0 +1,7 @@
+Spoken word: olamadan
+Starttime of utterance in seconds: 5752.740
+Endtime of utterance in seconds: 5753.260
+Duration of utterance in seconds: 0.520
+Confidence: 0.960
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

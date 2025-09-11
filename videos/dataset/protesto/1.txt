@@ -1,0 +1,7 @@
+Spoken word: protesto
+Starttime of utterance in seconds: 3485.620
+Endtime of utterance in seconds: 3486.060
+Duration of utterance in seconds: 0.440
+Confidence: 0.470
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

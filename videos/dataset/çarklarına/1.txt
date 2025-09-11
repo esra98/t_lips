@@ -1,0 +1,7 @@
+Spoken word: çarklarına
+Starttime of utterance in seconds: 4308.340
+Endtime of utterance in seconds: 4309.460
+Duration of utterance in seconds: 1.120
+Confidence: 0.819
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

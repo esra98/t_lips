@@ -1,0 +1,7 @@
+Spoken word: camdan
+Starttime of utterance in seconds: 4807.040
+Endtime of utterance in seconds: 4807.980
+Duration of utterance in seconds: 0.940
+Confidence: 0.902
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

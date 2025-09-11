@@ -1,0 +1,7 @@
+Spoken word: gazını
+Starttime of utterance in seconds: 3172.460
+Endtime of utterance in seconds: 3172.760
+Duration of utterance in seconds: 0.300
+Confidence: 0.774
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

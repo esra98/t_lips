@@ -1,0 +1,7 @@
+Spoken word: idrak
+Starttime of utterance in seconds: 5109.900
+Endtime of utterance in seconds: 5110.300
+Duration of utterance in seconds: 0.400
+Confidence: 0.972
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: girmişinleri
+Starttime of utterance in seconds: 5151.100
+Endtime of utterance in seconds: 5151.660
+Duration of utterance in seconds: 0.560
+Confidence: 0.841
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

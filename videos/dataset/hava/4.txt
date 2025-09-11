@@ -1,0 +1,7 @@
+Spoken word: hava
+Starttime of utterance in seconds: 2913.420
+Endtime of utterance in seconds: 2913.640
+Duration of utterance in seconds: 0.220
+Confidence: 0.724
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

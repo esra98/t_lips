@@ -1,0 +1,7 @@
+Spoken word: meclisi'ni
+Starttime of utterance in seconds: 2668.440
+Endtime of utterance in seconds: 2669.020
+Duration of utterance in seconds: 0.580
+Confidence: 0.937
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

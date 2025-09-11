@@ -1,0 +1,7 @@
+Spoken word: yerleşim
+Starttime of utterance in seconds: 5197.580
+Endtime of utterance in seconds: 5198.540
+Duration of utterance in seconds: 0.960
+Confidence: 0.996
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

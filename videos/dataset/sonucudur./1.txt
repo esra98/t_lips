@@ -1,0 +1,7 @@
+Spoken word: sonucudur.
+Starttime of utterance in seconds: 1225.060
+Endtime of utterance in seconds: 1226.040
+Duration of utterance in seconds: 0.980
+Confidence: 0.995
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

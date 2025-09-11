@@ -1,0 +1,7 @@
+Spoken word: sınalları
+Starttime of utterance in seconds: 4417.800
+Endtime of utterance in seconds: 4418.420
+Duration of utterance in seconds: 0.620
+Confidence: 0.656
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

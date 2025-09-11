@@ -1,0 +1,7 @@
+Spoken word: haline
+Starttime of utterance in seconds: 1222.360
+Endtime of utterance in seconds: 1222.580
+Duration of utterance in seconds: 0.220
+Confidence: 0.970
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

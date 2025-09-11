@@ -1,0 +1,7 @@
+Spoken word: milletin
+Starttime of utterance in seconds: 4157.160
+Endtime of utterance in seconds: 4157.800
+Duration of utterance in seconds: 0.640
+Confidence: 0.650
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

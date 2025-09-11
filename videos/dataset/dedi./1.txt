@@ -1,0 +1,7 @@
+Spoken word: dedi.
+Starttime of utterance in seconds: 2765.140
+Endtime of utterance in seconds: 2765.360
+Duration of utterance in seconds: 0.220
+Confidence: 0.954
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

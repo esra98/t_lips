@@ -1,0 +1,7 @@
+Spoken word: çoğu
+Starttime of utterance in seconds: 2453.260
+Endtime of utterance in seconds: 2454.100
+Duration of utterance in seconds: 0.840
+Confidence: 0.872
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

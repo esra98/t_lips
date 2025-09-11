@@ -1,0 +1,7 @@
+Spoken word: trajedi
+Starttime of utterance in seconds: 3913.600
+Endtime of utterance in seconds: 3914.600
+Duration of utterance in seconds: 1.000
+Confidence: 0.811
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

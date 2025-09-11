@@ -1,0 +1,7 @@
+Spoken word: buna
+Starttime of utterance in seconds: 2650.420
+Endtime of utterance in seconds: 2650.640
+Duration of utterance in seconds: 0.220
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

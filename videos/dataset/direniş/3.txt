@@ -1,0 +1,7 @@
+Spoken word: direniş
+Starttime of utterance in seconds: 2289.260
+Endtime of utterance in seconds: 2289.700
+Duration of utterance in seconds: 0.440
+Confidence: 0.945
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

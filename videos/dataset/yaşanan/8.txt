@@ -1,0 +1,7 @@
+Spoken word: yaşanan
+Starttime of utterance in seconds: 5221.940
+Endtime of utterance in seconds: 5222.840
+Duration of utterance in seconds: 0.900
+Confidence: 0.840
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

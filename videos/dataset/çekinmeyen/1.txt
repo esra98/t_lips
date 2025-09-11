@@ -1,0 +1,7 @@
+Spoken word: çekinmeyen
+Starttime of utterance in seconds: 1357.540
+Endtime of utterance in seconds: 1358.060
+Duration of utterance in seconds: 0.520
+Confidence: 0.942
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

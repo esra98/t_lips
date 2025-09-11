@@ -1,0 +1,7 @@
+Spoken word: ulusal
+Starttime of utterance in seconds: 2067.520
+Endtime of utterance in seconds: 2068.200
+Duration of utterance in seconds: 0.680
+Confidence: 0.958
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

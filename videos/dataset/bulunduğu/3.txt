@@ -1,0 +1,7 @@
+Spoken word: bulunduğu
+Starttime of utterance in seconds: 2822.920
+Endtime of utterance in seconds: 2823.660
+Duration of utterance in seconds: 0.740
+Confidence: 0.929
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

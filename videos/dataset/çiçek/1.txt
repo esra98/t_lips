@@ -1,7 +1,0 @@
-Spoken word: çiçek
-Starttime of utterance in seconds: 9.000
-Endtime of utterance in seconds: 9.440
-Duration of utterance in seconds: 0.440
-Confidence: 0.460
-Original filename: test-3
-Corresponding number in titlelist.txt: 0000

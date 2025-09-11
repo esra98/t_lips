@@ -1,0 +1,7 @@
+Spoken word: ayak
+Starttime of utterance in seconds: 4905.100
+Endtime of utterance in seconds: 4905.360
+Duration of utterance in seconds: 0.260
+Confidence: 0.959
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

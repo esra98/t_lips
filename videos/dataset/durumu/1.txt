@@ -1,0 +1,7 @@
+Spoken word: durumu
+Starttime of utterance in seconds: 1069.040
+Endtime of utterance in seconds: 1069.420
+Duration of utterance in seconds: 0.380
+Confidence: 0.980
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

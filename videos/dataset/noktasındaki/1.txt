@@ -1,0 +1,7 @@
+Spoken word: noktasındaki
+Starttime of utterance in seconds: 2930.040
+Endtime of utterance in seconds: 2930.760
+Duration of utterance in seconds: 0.720
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

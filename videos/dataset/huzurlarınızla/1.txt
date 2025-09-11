@@ -1,0 +1,7 @@
+Spoken word: huzurlarınızla
+Starttime of utterance in seconds: 1587.640
+Endtime of utterance in seconds: 1588.520
+Duration of utterance in seconds: 0.880
+Confidence: 0.911
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

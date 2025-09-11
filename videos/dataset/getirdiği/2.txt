@@ -1,0 +1,7 @@
+Spoken word: getirdiği
+Starttime of utterance in seconds: 5443.900
+Endtime of utterance in seconds: 5444.420
+Duration of utterance in seconds: 0.520
+Confidence: 0.975
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

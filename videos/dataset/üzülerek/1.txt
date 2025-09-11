@@ -1,0 +1,7 @@
+Spoken word: üzülerek
+Starttime of utterance in seconds: 917.400
+Endtime of utterance in seconds: 918.380
+Duration of utterance in seconds: 0.980
+Confidence: 0.982
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

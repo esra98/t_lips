@@ -1,0 +1,7 @@
+Spoken word: humanist
+Starttime of utterance in seconds: 3550.880
+Endtime of utterance in seconds: 3551.260
+Duration of utterance in seconds: 0.380
+Confidence: 0.358
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

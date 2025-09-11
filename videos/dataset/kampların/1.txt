@@ -1,0 +1,7 @@
+Spoken word: kampların
+Starttime of utterance in seconds: 1230.360
+Endtime of utterance in seconds: 1230.840
+Duration of utterance in seconds: 0.480
+Confidence: 0.747
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

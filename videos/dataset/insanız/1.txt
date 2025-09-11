@@ -1,0 +1,7 @@
+Spoken word: insanız
+Starttime of utterance in seconds: 5704.540
+Endtime of utterance in seconds: 5705.440
+Duration of utterance in seconds: 0.900
+Confidence: 0.639
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

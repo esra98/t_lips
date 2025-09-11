@@ -1,0 +1,7 @@
+Spoken word: açlık
+Starttime of utterance in seconds: 106.100
+Endtime of utterance in seconds: 107.100
+Duration of utterance in seconds: 1.000
+Confidence: 0.903
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: kıtlık
+Starttime of utterance in seconds: 2500.400
+Endtime of utterance in seconds: 2501.320
+Duration of utterance in seconds: 0.920
+Confidence: 0.866
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

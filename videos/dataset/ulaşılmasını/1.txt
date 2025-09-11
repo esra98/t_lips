@@ -1,0 +1,7 @@
+Spoken word: ulaşılmasını
+Starttime of utterance in seconds: 1147.620
+Endtime of utterance in seconds: 1148.360
+Duration of utterance in seconds: 0.740
+Confidence: 0.989
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

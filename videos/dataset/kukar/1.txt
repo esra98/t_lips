@@ -1,0 +1,7 @@
+Spoken word: kukar
+Starttime of utterance in seconds: 2068.380
+Endtime of utterance in seconds: 2068.720
+Duration of utterance in seconds: 0.340
+Confidence: 0.713
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

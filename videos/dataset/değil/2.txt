@@ -1,0 +1,7 @@
+Spoken word: değil
+Starttime of utterance in seconds: 2431.780
+Endtime of utterance in seconds: 2432.040
+Duration of utterance in seconds: 0.260
+Confidence: 0.999
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

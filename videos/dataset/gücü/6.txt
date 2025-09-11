@@ -1,0 +1,7 @@
+Spoken word: gücü
+Starttime of utterance in seconds: 4700.400
+Endtime of utterance in seconds: 4700.800
+Duration of utterance in seconds: 0.400
+Confidence: 0.981
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

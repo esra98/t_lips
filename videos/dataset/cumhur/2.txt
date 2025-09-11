@@ -1,0 +1,7 @@
+Spoken word: cumhur
+Starttime of utterance in seconds: 4409.440
+Endtime of utterance in seconds: 4410.420
+Duration of utterance in seconds: 0.980
+Confidence: 0.962
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

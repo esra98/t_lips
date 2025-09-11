@@ -1,0 +1,7 @@
+Spoken word: ürdün,
+Starttime of utterance in seconds: 4679.540
+Endtime of utterance in seconds: 4680.340
+Duration of utterance in seconds: 0.800
+Confidence: 0.910
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: vekili
+Starttime of utterance in seconds: 3043.970
+Endtime of utterance in seconds: 3044.400
+Duration of utterance in seconds: 0.430
+Confidence: 0.780
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: destekleyen
+Starttime of utterance in seconds: 485.490
+Endtime of utterance in seconds: 486.080
+Duration of utterance in seconds: 0.590
+Confidence: 0.993
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

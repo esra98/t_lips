@@ -1,0 +1,7 @@
+Spoken word: yüce
+Starttime of utterance in seconds: 912.120
+Endtime of utterance in seconds: 913.000
+Duration of utterance in seconds: 0.880
+Confidence: 0.918
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: bunun
+Starttime of utterance in seconds: 3765.320
+Endtime of utterance in seconds: 3765.500
+Duration of utterance in seconds: 0.180
+Confidence: 0.849
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

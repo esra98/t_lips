@@ -1,0 +1,7 @@
+Spoken word: makus
+Starttime of utterance in seconds: 4174.500
+Endtime of utterance in seconds: 4175.460
+Duration of utterance in seconds: 0.960
+Confidence: 0.831
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

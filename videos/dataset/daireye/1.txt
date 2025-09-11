@@ -1,7 +1,0 @@
-Spoken word: daireye
-Starttime of utterance in seconds: 52.520
-Endtime of utterance in seconds: 53.100
-Duration of utterance in seconds: 0.580
-Confidence: 0.977
-Original filename: test-1
-Corresponding number in titlelist.txt: 0000

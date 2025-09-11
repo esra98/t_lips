@@ -1,0 +1,7 @@
+Spoken word: sessizce
+Starttime of utterance in seconds: 2438.180
+Endtime of utterance in seconds: 2438.800
+Duration of utterance in seconds: 0.620
+Confidence: 0.910
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

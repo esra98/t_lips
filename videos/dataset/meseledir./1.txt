@@ -1,0 +1,7 @@
+Spoken word: meseledir.
+Starttime of utterance in seconds: 1512.920
+Endtime of utterance in seconds: 1514.260
+Duration of utterance in seconds: 1.340
+Confidence: 0.762
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: yazan
+Starttime of utterance in seconds: 4779.140
+Endtime of utterance in seconds: 4779.660
+Duration of utterance in seconds: 0.520
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

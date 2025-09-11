@@ -1,0 +1,7 @@
+Spoken word: soykarımın
+Starttime of utterance in seconds: 1475.990
+Endtime of utterance in seconds: 1476.640
+Duration of utterance in seconds: 0.650
+Confidence: 0.740
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

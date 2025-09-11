@@ -1,0 +1,7 @@
+Spoken word: i̇smizakere'lerinde
+Starttime of utterance in seconds: 1736.700
+Endtime of utterance in seconds: 1737.700
+Duration of utterance in seconds: 1.000
+Confidence: 0.408
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

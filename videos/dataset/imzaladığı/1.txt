@@ -1,0 +1,7 @@
+Spoken word: imzaladığı
+Starttime of utterance in seconds: 3627.420
+Endtime of utterance in seconds: 3628.340
+Duration of utterance in seconds: 0.920
+Confidence: 0.984
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

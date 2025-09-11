@@ -1,0 +1,7 @@
+Spoken word: projesine
+Starttime of utterance in seconds: 4517.540
+Endtime of utterance in seconds: 4518.240
+Duration of utterance in seconds: 0.700
+Confidence: 0.920
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

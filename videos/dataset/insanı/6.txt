@@ -1,0 +1,7 @@
+Spoken word: insanı
+Starttime of utterance in seconds: 5006.840
+Endtime of utterance in seconds: 5007.460
+Duration of utterance in seconds: 0.620
+Confidence: 0.556
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

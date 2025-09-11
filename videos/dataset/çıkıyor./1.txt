@@ -1,0 +1,7 @@
+Spoken word: çıkıyor.
+Starttime of utterance in seconds: 2812.740
+Endtime of utterance in seconds: 2813.140
+Duration of utterance in seconds: 0.400
+Confidence: 0.996
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

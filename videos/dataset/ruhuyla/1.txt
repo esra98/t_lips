@@ -1,0 +1,7 @@
+Spoken word: ruhuyla
+Starttime of utterance in seconds: 4952.820
+Endtime of utterance in seconds: 4953.340
+Duration of utterance in seconds: 0.520
+Confidence: 0.981
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

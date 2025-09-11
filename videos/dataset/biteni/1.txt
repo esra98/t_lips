@@ -1,0 +1,7 @@
+Spoken word: biteni
+Starttime of utterance in seconds: 3328.780
+Endtime of utterance in seconds: 3329.040
+Duration of utterance in seconds: 0.260
+Confidence: 0.703
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

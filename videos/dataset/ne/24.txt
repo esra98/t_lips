@@ -1,0 +1,7 @@
+Spoken word: ne
+Starttime of utterance in seconds: 4458.580
+Endtime of utterance in seconds: 4459.240
+Duration of utterance in seconds: 0.660
+Confidence: 0.612
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

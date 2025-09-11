@@ -1,0 +1,7 @@
+Spoken word: yetinmek
+Starttime of utterance in seconds: 3917.790
+Endtime of utterance in seconds: 3918.400
+Duration of utterance in seconds: 0.610
+Confidence: 0.973
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

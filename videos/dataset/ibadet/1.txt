@@ -1,0 +1,7 @@
+Spoken word: ibadet
+Starttime of utterance in seconds: 71.120
+Endtime of utterance in seconds: 72.010
+Duration of utterance in seconds: 0.890
+Confidence: 0.745
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

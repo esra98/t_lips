@@ -1,0 +1,7 @@
+Spoken word: operasyonları
+Starttime of utterance in seconds: 2482.960
+Endtime of utterance in seconds: 2483.820
+Duration of utterance in seconds: 0.860
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

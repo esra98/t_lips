@@ -1,0 +1,7 @@
+Spoken word: gelinmiştir.
+Starttime of utterance in seconds: 105.200
+Endtime of utterance in seconds: 105.800
+Duration of utterance in seconds: 0.600
+Confidence: 0.990
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

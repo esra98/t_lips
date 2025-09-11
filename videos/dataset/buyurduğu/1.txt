@@ -1,0 +1,7 @@
+Spoken word: buyurduğu
+Starttime of utterance in seconds: 5730.820
+Endtime of utterance in seconds: 5731.420
+Duration of utterance in seconds: 0.600
+Confidence: 0.982
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

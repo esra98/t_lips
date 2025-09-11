@@ -1,0 +1,7 @@
+Spoken word: meşvriyet
+Starttime of utterance in seconds: 1828.260
+Endtime of utterance in seconds: 1828.800
+Duration of utterance in seconds: 0.540
+Confidence: 0.541
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

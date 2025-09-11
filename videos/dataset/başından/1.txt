@@ -1,0 +1,7 @@
+Spoken word: başından
+Starttime of utterance in seconds: 1467.220
+Endtime of utterance in seconds: 1468.000
+Duration of utterance in seconds: 0.780
+Confidence: 0.862
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

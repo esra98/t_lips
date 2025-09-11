@@ -1,0 +1,7 @@
+Spoken word: limanlarınızı
+Starttime of utterance in seconds: 2911.040
+Endtime of utterance in seconds: 2912.120
+Duration of utterance in seconds: 1.080
+Confidence: 0.975
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

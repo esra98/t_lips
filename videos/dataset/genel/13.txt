@@ -1,0 +1,7 @@
+Spoken word: genel
+Starttime of utterance in seconds: 3419.760
+Endtime of utterance in seconds: 3419.990
+Duration of utterance in seconds: 0.230
+Confidence: 0.791
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

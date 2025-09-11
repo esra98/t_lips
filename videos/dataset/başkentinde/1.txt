@@ -1,0 +1,7 @@
+Spoken word: başkentinde
+Starttime of utterance in seconds: 300.260
+Endtime of utterance in seconds: 301.100
+Duration of utterance in seconds: 0.840
+Confidence: 0.980
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: kim
+Starttime of utterance in seconds: 612.840
+Endtime of utterance in seconds: 613.080
+Duration of utterance in seconds: 0.240
+Confidence: 0.978
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

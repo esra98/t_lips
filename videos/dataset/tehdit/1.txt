@@ -1,0 +1,7 @@
+Spoken word: tehdit
+Starttime of utterance in seconds: 1428.040
+Endtime of utterance in seconds: 1428.320
+Duration of utterance in seconds: 0.280
+Confidence: 0.891
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

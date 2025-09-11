@@ -1,0 +1,7 @@
+Spoken word: kişi
+Starttime of utterance in seconds: 3568.530
+Endtime of utterance in seconds: 3568.760
+Duration of utterance in seconds: 0.230
+Confidence: 0.301
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

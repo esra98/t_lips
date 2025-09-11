@@ -1,0 +1,7 @@
+Spoken word: mescid-i
+Starttime of utterance in seconds: 938.220
+Endtime of utterance in seconds: 938.740
+Duration of utterance in seconds: 0.520
+Confidence: 0.663
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

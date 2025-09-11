@@ -1,0 +1,7 @@
+Spoken word: parlamenter
+Starttime of utterance in seconds: 403.020
+Endtime of utterance in seconds: 404.360
+Duration of utterance in seconds: 1.340
+Confidence: 0.822
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: gözaltına
+Starttime of utterance in seconds: 3462.800
+Endtime of utterance in seconds: 3463.320
+Duration of utterance in seconds: 0.520
+Confidence: 0.709
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

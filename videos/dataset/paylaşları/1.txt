@@ -1,0 +1,7 @@
+Spoken word: paylaşları
+Starttime of utterance in seconds: 1821.480
+Endtime of utterance in seconds: 1822.040
+Duration of utterance in seconds: 0.560
+Confidence: 0.792
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: yalanıyla
+Starttime of utterance in seconds: 2493.460
+Endtime of utterance in seconds: 2494.480
+Duration of utterance in seconds: 1.020
+Confidence: 0.834
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

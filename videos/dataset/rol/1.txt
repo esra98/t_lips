@@ -1,0 +1,7 @@
+Spoken word: rol
+Starttime of utterance in seconds: 1664.860
+Endtime of utterance in seconds: 1665.560
+Duration of utterance in seconds: 0.700
+Confidence: 0.940
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

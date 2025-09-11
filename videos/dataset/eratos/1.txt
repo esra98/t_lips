@@ -1,7 +1,0 @@
-Spoken word: eratos
-Starttime of utterance in seconds: 4.900
-Endtime of utterance in seconds: 5.460
-Duration of utterance in seconds: 0.560
-Confidence: 0.412
-Original filename: test-1
-Corresponding number in titlelist.txt: 0000

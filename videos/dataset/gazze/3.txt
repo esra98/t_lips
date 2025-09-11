@@ -1,0 +1,7 @@
+Spoken word: gazze
+Starttime of utterance in seconds: 2496.060
+Endtime of utterance in seconds: 2496.600
+Duration of utterance in seconds: 0.540
+Confidence: 0.836
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

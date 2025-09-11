@@ -1,0 +1,7 @@
+Spoken word: saldırılarını
+Starttime of utterance in seconds: 5244.700
+Endtime of utterance in seconds: 5245.580
+Duration of utterance in seconds: 0.880
+Confidence: 0.936
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

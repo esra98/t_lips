@@ -1,0 +1,7 @@
+Spoken word: erdirecek
+Starttime of utterance in seconds: 5012.200
+Endtime of utterance in seconds: 5012.840
+Duration of utterance in seconds: 0.640
+Confidence: 0.966
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

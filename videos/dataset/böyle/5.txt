@@ -1,0 +1,7 @@
+Spoken word: böyle
+Starttime of utterance in seconds: 4501.980
+Endtime of utterance in seconds: 4502.380
+Duration of utterance in seconds: 0.400
+Confidence: 0.779
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

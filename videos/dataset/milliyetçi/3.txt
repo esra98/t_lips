@@ -1,0 +1,7 @@
+Spoken word: milliyetçi
+Starttime of utterance in seconds: 5082.280
+Endtime of utterance in seconds: 5082.720
+Duration of utterance in seconds: 0.440
+Confidence: 0.957
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

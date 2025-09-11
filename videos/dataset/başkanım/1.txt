@@ -1,0 +1,7 @@
+Spoken word: başkanım
+Starttime of utterance in seconds: 827.940
+Endtime of utterance in seconds: 828.480
+Duration of utterance in seconds: 0.540
+Confidence: 0.925
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

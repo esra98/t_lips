@@ -1,0 +1,7 @@
+Spoken word: siyoniz
+Starttime of utterance in seconds: 117.400
+Endtime of utterance in seconds: 118.660
+Duration of utterance in seconds: 1.260
+Confidence: 0.635
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

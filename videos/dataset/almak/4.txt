@@ -1,0 +1,7 @@
+Spoken word: almak
+Starttime of utterance in seconds: 3400.740
+Endtime of utterance in seconds: 3401.000
+Duration of utterance in seconds: 0.260
+Confidence: 0.932
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

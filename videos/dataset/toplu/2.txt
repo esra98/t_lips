@@ -1,0 +1,7 @@
+Spoken word: toplu
+Starttime of utterance in seconds: 5162.720
+Endtime of utterance in seconds: 5163.120
+Duration of utterance in seconds: 0.400
+Confidence: 0.924
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

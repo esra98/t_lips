@@ -1,0 +1,7 @@
+Spoken word: mümkün
+Starttime of utterance in seconds: 2159.460
+Endtime of utterance in seconds: 2160.660
+Duration of utterance in seconds: 1.200
+Confidence: 0.975
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

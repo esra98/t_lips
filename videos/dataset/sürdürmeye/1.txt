@@ -1,0 +1,7 @@
+Spoken word: sürdürmeye
+Starttime of utterance in seconds: 128.720
+Endtime of utterance in seconds: 129.760
+Duration of utterance in seconds: 1.040
+Confidence: 0.862
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

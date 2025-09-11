@@ -1,0 +1,7 @@
+Spoken word: alabildiyse
+Starttime of utterance in seconds: 1065.180
+Endtime of utterance in seconds: 1065.920
+Duration of utterance in seconds: 0.740
+Confidence: 0.922
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

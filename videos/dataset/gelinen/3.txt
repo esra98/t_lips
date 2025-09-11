@@ -1,0 +1,7 @@
+Spoken word: gelinen
+Starttime of utterance in seconds: 1172.840
+Endtime of utterance in seconds: 1173.980
+Duration of utterance in seconds: 1.140
+Confidence: 0.974
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

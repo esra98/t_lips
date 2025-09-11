@@ -1,0 +1,7 @@
+Spoken word: arada
+Starttime of utterance in seconds: 5099.660
+Endtime of utterance in seconds: 5099.840
+Duration of utterance in seconds: 0.180
+Confidence: 0.337
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

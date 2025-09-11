@@ -1,0 +1,7 @@
+Spoken word: yahu'nun
+Starttime of utterance in seconds: 3572.300
+Endtime of utterance in seconds: 3572.620
+Duration of utterance in seconds: 0.320
+Confidence: 0.726
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

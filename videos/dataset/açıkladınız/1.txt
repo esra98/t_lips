@@ -1,0 +1,7 @@
+Spoken word: açıkladınız
+Starttime of utterance in seconds: 2739.240
+Endtime of utterance in seconds: 2739.860
+Duration of utterance in seconds: 0.620
+Confidence: 0.892
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: milletvekilleri
+Starttime of utterance in seconds: 1985.740
+Endtime of utterance in seconds: 1986.520
+Duration of utterance in seconds: 0.780
+Confidence: 0.833
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

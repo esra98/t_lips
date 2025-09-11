@@ -1,0 +1,7 @@
+Spoken word: suçludur
+Starttime of utterance in seconds: 3936.080
+Endtime of utterance in seconds: 3937.240
+Duration of utterance in seconds: 1.160
+Confidence: 0.964
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

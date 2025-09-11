@@ -1,0 +1,7 @@
+Spoken word: diğer
+Starttime of utterance in seconds: 5189.220
+Endtime of utterance in seconds: 5190.100
+Duration of utterance in seconds: 0.880
+Confidence: 0.958
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

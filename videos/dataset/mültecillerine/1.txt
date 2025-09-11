@@ -1,0 +1,7 @@
+Spoken word: mültecillerine
+Starttime of utterance in seconds: 1597.480
+Endtime of utterance in seconds: 1598.240
+Duration of utterance in seconds: 0.760
+Confidence: 0.440
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

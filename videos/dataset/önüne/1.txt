@@ -1,0 +1,7 @@
+Spoken word: önüne
+Starttime of utterance in seconds: 2785.760
+Endtime of utterance in seconds: 2786.400
+Duration of utterance in seconds: 0.640
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

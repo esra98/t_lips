@@ -1,0 +1,7 @@
+Spoken word: mazlumun
+Starttime of utterance in seconds: 3333.840
+Endtime of utterance in seconds: 3334.370
+Duration of utterance in seconds: 0.530
+Confidence: 0.864
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

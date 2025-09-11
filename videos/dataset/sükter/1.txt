@@ -1,0 +1,7 @@
+Spoken word: sükter
+Starttime of utterance in seconds: 3453.760
+Endtime of utterance in seconds: 3454.160
+Duration of utterance in seconds: 0.400
+Confidence: 0.567
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

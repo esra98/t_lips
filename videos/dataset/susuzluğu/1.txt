@@ -1,0 +1,7 @@
+Spoken word: susuzluğu
+Starttime of utterance in seconds: 5445.700
+Endtime of utterance in seconds: 5446.620
+Duration of utterance in seconds: 0.920
+Confidence: 0.917
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: vardı.
+Starttime of utterance in seconds: 2806.980
+Endtime of utterance in seconds: 2807.240
+Duration of utterance in seconds: 0.260
+Confidence: 0.994
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

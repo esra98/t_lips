@@ -1,0 +1,7 @@
+Spoken word: hepimiz
+Starttime of utterance in seconds: 4896.020
+Endtime of utterance in seconds: 4897.040
+Duration of utterance in seconds: 1.020
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

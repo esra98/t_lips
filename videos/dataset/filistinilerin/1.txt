@@ -1,0 +1,7 @@
+Spoken word: filistinilerin
+Starttime of utterance in seconds: 5339.980
+Endtime of utterance in seconds: 5340.760
+Duration of utterance in seconds: 0.780
+Confidence: 0.948
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

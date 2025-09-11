@@ -1,0 +1,7 @@
+Spoken word: amaçlayan
+Starttime of utterance in seconds: 222.600
+Endtime of utterance in seconds: 223.260
+Duration of utterance in seconds: 0.660
+Confidence: 0.970
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

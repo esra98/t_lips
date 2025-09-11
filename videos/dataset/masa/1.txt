@@ -1,0 +1,7 @@
+Spoken word: masa
+Starttime of utterance in seconds: 3638.560
+Endtime of utterance in seconds: 3639.020
+Duration of utterance in seconds: 0.460
+Confidence: 0.817
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

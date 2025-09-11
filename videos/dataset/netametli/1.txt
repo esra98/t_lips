@@ -1,0 +1,7 @@
+Spoken word: netametli
+Starttime of utterance in seconds: 2768.200
+Endtime of utterance in seconds: 2769.160
+Duration of utterance in seconds: 0.960
+Confidence: 0.535
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

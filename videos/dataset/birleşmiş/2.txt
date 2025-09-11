@@ -1,0 +1,7 @@
+Spoken word: birleşmiş
+Starttime of utterance in seconds: 165.360
+Endtime of utterance in seconds: 166.380
+Duration of utterance in seconds: 1.020
+Confidence: 0.828
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

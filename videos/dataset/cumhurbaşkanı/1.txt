@@ -1,0 +1,7 @@
+Spoken word: cumhurbaşkanı
+Starttime of utterance in seconds: 3505.960
+Endtime of utterance in seconds: 3506.720
+Duration of utterance in seconds: 0.760
+Confidence: 0.931
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

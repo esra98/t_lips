@@ -1,0 +1,7 @@
+Spoken word: elbette
+Starttime of utterance in seconds: 2517.340
+Endtime of utterance in seconds: 2518.720
+Duration of utterance in seconds: 1.380
+Confidence: 0.987
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

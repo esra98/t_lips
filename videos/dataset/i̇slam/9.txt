@@ -1,0 +1,7 @@
+Spoken word: i̇slam
+Starttime of utterance in seconds: 2531.340
+Endtime of utterance in seconds: 2531.960
+Duration of utterance in seconds: 0.620
+Confidence: 0.985
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

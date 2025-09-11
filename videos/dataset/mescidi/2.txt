@@ -1,0 +1,7 @@
+Spoken word: mescidi
+Starttime of utterance in seconds: 1265.940
+Endtime of utterance in seconds: 1267.280
+Duration of utterance in seconds: 1.340
+Confidence: 0.984
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: büreysel
+Starttime of utterance in seconds: 5636.830
+Endtime of utterance in seconds: 5637.800
+Duration of utterance in seconds: 0.970
+Confidence: 0.751
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

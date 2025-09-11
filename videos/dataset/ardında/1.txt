@@ -1,0 +1,7 @@
+Spoken word: ardında
+Starttime of utterance in seconds: 4581.660
+Endtime of utterance in seconds: 4582.120
+Duration of utterance in seconds: 0.460
+Confidence: 0.984
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: bin
+Starttime of utterance in seconds: 3513.100
+Endtime of utterance in seconds: 3513.180
+Duration of utterance in seconds: 0.080
+Confidence: 0.676
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

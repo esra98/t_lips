@@ -1,0 +1,7 @@
+Spoken word: hatırlatmak
+Starttime of utterance in seconds: 5001.300
+Endtime of utterance in seconds: 5002.580
+Duration of utterance in seconds: 1.280
+Confidence: 0.970
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

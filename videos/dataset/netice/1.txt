@@ -1,0 +1,7 @@
+Spoken word: netice
+Starttime of utterance in seconds: 3734.140
+Endtime of utterance in seconds: 3734.620
+Duration of utterance in seconds: 0.480
+Confidence: 0.533
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

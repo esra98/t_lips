@@ -1,0 +1,7 @@
+Spoken word: komus
+Starttime of utterance in seconds: 677.160
+Endtime of utterance in seconds: 677.600
+Duration of utterance in seconds: 0.440
+Confidence: 0.646
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

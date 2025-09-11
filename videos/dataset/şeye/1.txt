@@ -1,0 +1,7 @@
+Spoken word: şeye
+Starttime of utterance in seconds: 5572.260
+Endtime of utterance in seconds: 5572.480
+Duration of utterance in seconds: 0.220
+Confidence: 0.968
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

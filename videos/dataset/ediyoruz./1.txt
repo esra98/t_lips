@@ -1,0 +1,7 @@
+Spoken word: ediyoruz.
+Starttime of utterance in seconds: 1589.000
+Endtime of utterance in seconds: 1589.540
+Duration of utterance in seconds: 0.540
+Confidence: 0.993
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

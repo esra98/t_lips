@@ -1,0 +1,7 @@
+Spoken word: on
+Starttime of utterance in seconds: 5482.740
+Endtime of utterance in seconds: 5482.830
+Duration of utterance in seconds: 0.090
+Confidence: 0.564
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

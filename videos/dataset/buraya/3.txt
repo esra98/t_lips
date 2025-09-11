@@ -1,0 +1,7 @@
+Spoken word: buraya
+Starttime of utterance in seconds: 3762.190
+Endtime of utterance in seconds: 3762.480
+Duration of utterance in seconds: 0.290
+Confidence: 0.992
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

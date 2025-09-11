@@ -1,0 +1,7 @@
+Spoken word: yakın
+Starttime of utterance in seconds: 5796.600
+Endtime of utterance in seconds: 5796.900
+Duration of utterance in seconds: 0.300
+Confidence: 0.984
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

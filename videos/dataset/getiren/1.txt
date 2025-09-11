@@ -1,0 +1,7 @@
+Spoken word: getiren
+Starttime of utterance in seconds: 1222.580
+Endtime of utterance in seconds: 1223.000
+Duration of utterance in seconds: 0.420
+Confidence: 0.956
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

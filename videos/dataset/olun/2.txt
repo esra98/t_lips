@@ -1,0 +1,7 @@
+Spoken word: olun
+Starttime of utterance in seconds: 2870.620
+Endtime of utterance in seconds: 2870.760
+Duration of utterance in seconds: 0.140
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: karşılanacaktır.
+Starttime of utterance in seconds: 679.740
+Endtime of utterance in seconds: 680.760
+Duration of utterance in seconds: 1.020
+Confidence: 0.935
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: dahili
+Starttime of utterance in seconds: 4332.920
+Endtime of utterance in seconds: 4333.840
+Duration of utterance in seconds: 0.920
+Confidence: 0.782
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

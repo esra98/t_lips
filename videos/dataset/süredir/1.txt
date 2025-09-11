@@ -1,0 +1,7 @@
+Spoken word: süredir
+Starttime of utterance in seconds: 5403.520
+Endtime of utterance in seconds: 5403.860
+Duration of utterance in seconds: 0.340
+Confidence: 0.882
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

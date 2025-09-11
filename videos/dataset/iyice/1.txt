@@ -1,0 +1,7 @@
+Spoken word: iyice
+Starttime of utterance in seconds: 1713.200
+Endtime of utterance in seconds: 1714.160
+Duration of utterance in seconds: 0.960
+Confidence: 0.996
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

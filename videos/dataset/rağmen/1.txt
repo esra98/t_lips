@@ -1,0 +1,7 @@
+Spoken word: rağmen
+Starttime of utterance in seconds: 1758.080
+Endtime of utterance in seconds: 1758.460
+Duration of utterance in seconds: 0.380
+Confidence: 0.985
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

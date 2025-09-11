@@ -1,0 +1,7 @@
+Spoken word: bilin
+Starttime of utterance in seconds: 4974.080
+Endtime of utterance in seconds: 4974.830
+Duration of utterance in seconds: 0.750
+Confidence: 0.751
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

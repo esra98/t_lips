@@ -1,0 +1,7 @@
+Spoken word: düşünen
+Starttime of utterance in seconds: 2054.620
+Endtime of utterance in seconds: 2055.040
+Duration of utterance in seconds: 0.420
+Confidence: 0.954
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

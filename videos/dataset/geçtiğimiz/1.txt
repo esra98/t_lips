@@ -1,0 +1,7 @@
+Spoken word: geçtiğimiz
+Starttime of utterance in seconds: 171.560
+Endtime of utterance in seconds: 172.100
+Duration of utterance in seconds: 0.540
+Confidence: 0.994
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

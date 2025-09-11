@@ -1,0 +1,7 @@
+Spoken word: bilgilendirmek
+Starttime of utterance in seconds: 2674.840
+Endtime of utterance in seconds: 2675.520
+Duration of utterance in seconds: 0.680
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

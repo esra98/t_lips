@@ -1,0 +1,7 @@
+Spoken word: yanılıyorsam
+Starttime of utterance in seconds: 3750.320
+Endtime of utterance in seconds: 3750.780
+Duration of utterance in seconds: 0.460
+Confidence: 0.761
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

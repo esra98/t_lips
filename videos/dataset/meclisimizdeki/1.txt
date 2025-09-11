@@ -1,0 +1,7 @@
+Spoken word: meclisimizdeki
+Starttime of utterance in seconds: 2232.680
+Endtime of utterance in seconds: 2233.380
+Duration of utterance in seconds: 0.700
+Confidence: 0.853
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

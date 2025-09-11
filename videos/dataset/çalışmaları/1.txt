@@ -1,0 +1,7 @@
+Spoken word: çalışmaları
+Starttime of utterance in seconds: 1059.200
+Endtime of utterance in seconds: 1059.780
+Duration of utterance in seconds: 0.580
+Confidence: 0.987
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

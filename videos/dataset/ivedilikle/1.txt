@@ -1,0 +1,7 @@
+Spoken word: ivedilikle
+Starttime of utterance in seconds: 185.560
+Endtime of utterance in seconds: 186.720
+Duration of utterance in seconds: 1.160
+Confidence: 0.662
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

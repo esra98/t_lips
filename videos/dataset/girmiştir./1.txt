@@ -1,0 +1,7 @@
+Spoken word: girmiştir.
+Starttime of utterance in seconds: 1385.080
+Endtime of utterance in seconds: 1385.860
+Duration of utterance in seconds: 0.780
+Confidence: 0.959
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

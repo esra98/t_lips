@@ -1,0 +1,7 @@
+Spoken word: insanlık
+Starttime of utterance in seconds: 2268.760
+Endtime of utterance in seconds: 2269.520
+Duration of utterance in seconds: 0.760
+Confidence: 0.687
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

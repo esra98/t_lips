@@ -1,0 +1,7 @@
+Spoken word: yapmak,
+Starttime of utterance in seconds: 2587.760
+Endtime of utterance in seconds: 2588.180
+Duration of utterance in seconds: 0.420
+Confidence: 0.999
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: geçirdik.
+Starttime of utterance in seconds: 1526.220
+Endtime of utterance in seconds: 1526.800
+Duration of utterance in seconds: 0.580
+Confidence: 0.996
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

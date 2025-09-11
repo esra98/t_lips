@@ -1,0 +1,7 @@
+Spoken word: onlar
+Starttime of utterance in seconds: 4838.460
+Endtime of utterance in seconds: 4838.720
+Duration of utterance in seconds: 0.260
+Confidence: 0.796
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

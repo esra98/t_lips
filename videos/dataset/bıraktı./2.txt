@@ -1,0 +1,7 @@
+Spoken word: bıraktı.
+Starttime of utterance in seconds: 2775.280
+Endtime of utterance in seconds: 2775.720
+Duration of utterance in seconds: 0.440
+Confidence: 0.986
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: anlam
+Starttime of utterance in seconds: 2487.020
+Endtime of utterance in seconds: 2487.240
+Duration of utterance in seconds: 0.220
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

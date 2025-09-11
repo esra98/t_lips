@@ -1,0 +1,7 @@
+Spoken word: savunmak
+Starttime of utterance in seconds: 604.600
+Endtime of utterance in seconds: 605.100
+Duration of utterance in seconds: 0.500
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

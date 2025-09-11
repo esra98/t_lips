@@ -1,0 +1,7 @@
+Spoken word: sevinç
+Starttime of utterance in seconds: 5097.820
+Endtime of utterance in seconds: 5098.840
+Duration of utterance in seconds: 1.020
+Confidence: 0.707
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

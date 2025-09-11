@@ -1,0 +1,7 @@
+Spoken word: motivasyon
+Starttime of utterance in seconds: 3665.960
+Endtime of utterance in seconds: 3666.460
+Duration of utterance in seconds: 0.500
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

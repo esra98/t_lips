@@ -1,0 +1,7 @@
+Spoken word: çaba
+Starttime of utterance in seconds: 1585.040
+Endtime of utterance in seconds: 1585.360
+Duration of utterance in seconds: 0.320
+Confidence: 0.938
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

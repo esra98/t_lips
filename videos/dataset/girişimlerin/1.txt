@@ -1,0 +1,7 @@
+Spoken word: girişimlerin
+Starttime of utterance in seconds: 2595.960
+Endtime of utterance in seconds: 2597.620
+Duration of utterance in seconds: 1.660
+Confidence: 0.970
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

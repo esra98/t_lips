@@ -1,0 +1,7 @@
+Spoken word: i̇yi̇
+Starttime of utterance in seconds: 3826.040
+Endtime of utterance in seconds: 3826.840
+Duration of utterance in seconds: 0.800
+Confidence: 0.720
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

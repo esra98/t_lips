@@ -1,0 +1,7 @@
+Spoken word: kuruluşlar
+Starttime of utterance in seconds: 140.440
+Endtime of utterance in seconds: 141.020
+Duration of utterance in seconds: 0.580
+Confidence: 0.966
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: uğratmayı
+Starttime of utterance in seconds: 5803.720
+Endtime of utterance in seconds: 5804.240
+Duration of utterance in seconds: 0.520
+Confidence: 0.870
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

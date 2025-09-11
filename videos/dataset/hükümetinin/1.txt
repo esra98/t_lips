@@ -1,0 +1,7 @@
+Spoken word: hükümetinin
+Starttime of utterance in seconds: 1293.740
+Endtime of utterance in seconds: 1294.240
+Duration of utterance in seconds: 0.500
+Confidence: 0.915
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

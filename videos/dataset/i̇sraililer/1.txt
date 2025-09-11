@@ -1,0 +1,7 @@
+Spoken word: i̇sraililer
+Starttime of utterance in seconds: 3723.340
+Endtime of utterance in seconds: 3723.920
+Duration of utterance in seconds: 0.580
+Confidence: 0.763
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

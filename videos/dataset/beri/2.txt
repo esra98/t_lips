@@ -1,0 +1,7 @@
+Spoken word: beri
+Starttime of utterance in seconds: 1468.040
+Endtime of utterance in seconds: 1468.280
+Duration of utterance in seconds: 0.240
+Confidence: 0.841
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

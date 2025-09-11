@@ -1,0 +1,7 @@
+Spoken word: verebildi
+Starttime of utterance in seconds: 3732.860
+Endtime of utterance in seconds: 3733.120
+Duration of utterance in seconds: 0.260
+Confidence: 0.968
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

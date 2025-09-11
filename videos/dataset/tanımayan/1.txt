@@ -1,0 +1,7 @@
+Spoken word: tanımayan
+Starttime of utterance in seconds: 2097.380
+Endtime of utterance in seconds: 2097.780
+Duration of utterance in seconds: 0.400
+Confidence: 0.856
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

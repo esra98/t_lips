@@ -1,0 +1,7 @@
+Spoken word: milletim
+Starttime of utterance in seconds: 3195.840
+Endtime of utterance in seconds: 3196.260
+Duration of utterance in seconds: 0.420
+Confidence: 0.663
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

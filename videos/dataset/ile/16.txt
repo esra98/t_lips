@@ -1,0 +1,7 @@
+Spoken word: ile
+Starttime of utterance in seconds: 4095.780
+Endtime of utterance in seconds: 4096.040
+Duration of utterance in seconds: 0.260
+Confidence: 0.930
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

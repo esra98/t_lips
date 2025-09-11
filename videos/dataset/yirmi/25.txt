@@ -1,0 +1,7 @@
+Spoken word: yirmi
+Starttime of utterance in seconds: 4038.360
+Endtime of utterance in seconds: 4039.060
+Duration of utterance in seconds: 0.700
+Confidence: 0.835
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

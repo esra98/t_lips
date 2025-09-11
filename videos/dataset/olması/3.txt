@@ -1,0 +1,7 @@
+Spoken word: olması
+Starttime of utterance in seconds: 2329.600
+Endtime of utterance in seconds: 2330.820
+Duration of utterance in seconds: 1.220
+Confidence: 0.745
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

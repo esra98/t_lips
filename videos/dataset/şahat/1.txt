@@ -1,0 +1,7 @@
+Spoken word: şahat
+Starttime of utterance in seconds: 3424.380
+Endtime of utterance in seconds: 3424.660
+Duration of utterance in seconds: 0.280
+Confidence: 0.475
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: yapan
+Starttime of utterance in seconds: 3634.240
+Endtime of utterance in seconds: 3634.540
+Duration of utterance in seconds: 0.300
+Confidence: 0.989
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

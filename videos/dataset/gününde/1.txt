@@ -1,0 +1,7 @@
+Spoken word: gününde
+Starttime of utterance in seconds: 3352.040
+Endtime of utterance in seconds: 3352.340
+Duration of utterance in seconds: 0.300
+Confidence: 0.928
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

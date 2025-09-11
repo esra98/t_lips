@@ -1,0 +1,7 @@
+Spoken word: şey
+Starttime of utterance in seconds: 4919.020
+Endtime of utterance in seconds: 4919.320
+Duration of utterance in seconds: 0.300
+Confidence: 0.994
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

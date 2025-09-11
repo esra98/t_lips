@@ -1,0 +1,7 @@
+Spoken word: avustralya'nın
+Starttime of utterance in seconds: 1786.020
+Endtime of utterance in seconds: 1786.620
+Duration of utterance in seconds: 0.600
+Confidence: 0.902
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

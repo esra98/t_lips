@@ -1,0 +1,7 @@
+Spoken word: söküp
+Starttime of utterance in seconds: 1993.020
+Endtime of utterance in seconds: 1993.300
+Duration of utterance in seconds: 0.280
+Confidence: 0.959
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

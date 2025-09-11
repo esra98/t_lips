@@ -1,0 +1,7 @@
+Spoken word: daha
+Starttime of utterance in seconds: 416.140
+Endtime of utterance in seconds: 416.860
+Duration of utterance in seconds: 0.720
+Confidence: 0.924
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: gazede
+Starttime of utterance in seconds: 1006.860
+Endtime of utterance in seconds: 1007.920
+Duration of utterance in seconds: 1.060
+Confidence: 0.670
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

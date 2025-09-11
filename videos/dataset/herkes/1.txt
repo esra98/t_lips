@@ -1,0 +1,7 @@
+Spoken word: herkes
+Starttime of utterance in seconds: 3307.820
+Endtime of utterance in seconds: 3308.160
+Duration of utterance in seconds: 0.340
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

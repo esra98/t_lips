@@ -1,0 +1,7 @@
+Spoken word: lahide'ki
+Starttime of utterance in seconds: 4606.300
+Endtime of utterance in seconds: 4607.680
+Duration of utterance in seconds: 1.380
+Confidence: 0.620
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

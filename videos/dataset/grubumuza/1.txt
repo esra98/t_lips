@@ -1,0 +1,7 @@
+Spoken word: grubumuza
+Starttime of utterance in seconds: 2820.540
+Endtime of utterance in seconds: 2821.440
+Duration of utterance in seconds: 0.900
+Confidence: 0.822
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

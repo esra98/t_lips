@@ -1,0 +1,7 @@
+Spoken word: direnen
+Starttime of utterance in seconds: 4655.300
+Endtime of utterance in seconds: 4655.880
+Duration of utterance in seconds: 0.580
+Confidence: 0.708
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: öncülüğünde
+Starttime of utterance in seconds: 481.200
+Endtime of utterance in seconds: 481.820
+Duration of utterance in seconds: 0.620
+Confidence: 0.962
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

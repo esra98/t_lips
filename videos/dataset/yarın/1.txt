@@ -1,0 +1,7 @@
+Spoken word: yarın
+Starttime of utterance in seconds: 3344.060
+Endtime of utterance in seconds: 3344.500
+Duration of utterance in seconds: 0.440
+Confidence: 0.728
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

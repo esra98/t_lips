@@ -1,0 +1,7 @@
+Spoken word: tamamen
+Starttime of utterance in seconds: 3121.030
+Endtime of utterance in seconds: 3121.440
+Duration of utterance in seconds: 0.410
+Confidence: 0.998
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: kullanan
+Starttime of utterance in seconds: 2578.740
+Endtime of utterance in seconds: 2579.240
+Duration of utterance in seconds: 0.500
+Confidence: 0.983
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

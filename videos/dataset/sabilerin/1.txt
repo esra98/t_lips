@@ -1,0 +1,7 @@
+Spoken word: sabilerin
+Starttime of utterance in seconds: 5754.600
+Endtime of utterance in seconds: 5755.240
+Duration of utterance in seconds: 0.640
+Confidence: 0.909
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: gerek
+Starttime of utterance in seconds: 1739.540
+Endtime of utterance in seconds: 1739.820
+Duration of utterance in seconds: 0.280
+Confidence: 0.579
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

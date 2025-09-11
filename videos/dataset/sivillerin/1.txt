@@ -1,0 +1,7 @@
+Spoken word: sivillerin
+Starttime of utterance in seconds: 3779.540
+Endtime of utterance in seconds: 3779.940
+Duration of utterance in seconds: 0.400
+Confidence: 0.691
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

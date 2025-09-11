@@ -1,0 +1,7 @@
+Spoken word: bölgemizde
+Starttime of utterance in seconds: 2179.780
+Endtime of utterance in seconds: 2180.840
+Duration of utterance in seconds: 1.060
+Confidence: 0.670
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

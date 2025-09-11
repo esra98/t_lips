@@ -1,0 +1,7 @@
+Spoken word: dokuz
+Starttime of utterance in seconds: 4669.120
+Endtime of utterance in seconds: 4669.940
+Duration of utterance in seconds: 0.820
+Confidence: 0.977
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: maddesinin
+Starttime of utterance in seconds: 762.100
+Endtime of utterance in seconds: 762.620
+Duration of utterance in seconds: 0.520
+Confidence: 0.925
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

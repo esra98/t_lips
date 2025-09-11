@@ -1,0 +1,7 @@
+Spoken word: kurulu
+Starttime of utterance in seconds: 721.220
+Endtime of utterance in seconds: 721.500
+Duration of utterance in seconds: 0.280
+Confidence: 0.770
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

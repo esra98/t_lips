@@ -1,7 +1,0 @@
-Spoken word: boylarını
-Starttime of utterance in seconds: 39.860
-Endtime of utterance in seconds: 40.320
-Duration of utterance in seconds: 0.460
-Confidence: 0.943
-Original filename: test-1
-Corresponding number in titlelist.txt: 0000

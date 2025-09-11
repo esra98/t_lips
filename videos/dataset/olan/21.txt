@@ -1,0 +1,7 @@
+Spoken word: olan
+Starttime of utterance in seconds: 4627.900
+Endtime of utterance in seconds: 4628.160
+Duration of utterance in seconds: 0.260
+Confidence: 0.998
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

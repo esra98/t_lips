@@ -1,0 +1,7 @@
+Spoken word: bırakmıştır.
+Starttime of utterance in seconds: 1071.900
+Endtime of utterance in seconds: 1072.900
+Duration of utterance in seconds: 1.000
+Confidence: 0.996
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: ayı
+Starttime of utterance in seconds: 550.460
+Endtime of utterance in seconds: 550.660
+Duration of utterance in seconds: 0.200
+Confidence: 0.592
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: ticaretin
+Starttime of utterance in seconds: 2040.560
+Endtime of utterance in seconds: 2041.060
+Duration of utterance in seconds: 0.500
+Confidence: 0.966
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

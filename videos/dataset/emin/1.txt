@@ -1,0 +1,7 @@
+Spoken word: emin
+Starttime of utterance in seconds: 2869.920
+Endtime of utterance in seconds: 2870.620
+Duration of utterance in seconds: 0.700
+Confidence: 0.968
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

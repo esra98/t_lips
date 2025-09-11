@@ -1,0 +1,7 @@
+Spoken word: dünyaya
+Starttime of utterance in seconds: 3111.240
+Endtime of utterance in seconds: 3111.560
+Duration of utterance in seconds: 0.320
+Confidence: 0.757
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: komisyondan
+Starttime of utterance in seconds: 4791.720
+Endtime of utterance in seconds: 4793.300
+Duration of utterance in seconds: 1.580
+Confidence: 0.815
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

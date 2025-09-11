@@ -1,0 +1,7 @@
+Spoken word: kurmak
+Starttime of utterance in seconds: 1497.160
+Endtime of utterance in seconds: 1497.420
+Duration of utterance in seconds: 0.260
+Confidence: 0.963
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

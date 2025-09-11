@@ -1,0 +1,7 @@
+Spoken word: değneksiz
+Starttime of utterance in seconds: 3661.740
+Endtime of utterance in seconds: 3662.180
+Duration of utterance in seconds: 0.440
+Confidence: 0.895
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

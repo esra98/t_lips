@@ -1,0 +1,7 @@
+Spoken word: yanındayım
+Starttime of utterance in seconds: 4585.420
+Endtime of utterance in seconds: 4586.240
+Duration of utterance in seconds: 0.820
+Confidence: 0.993
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

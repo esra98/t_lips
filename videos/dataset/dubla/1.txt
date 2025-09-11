@@ -1,7 +1,0 @@
-Spoken word: dubla
-Starttime of utterance in seconds: 17.140
-Endtime of utterance in seconds: 17.440
-Duration of utterance in seconds: 0.300
-Confidence: 0.543
-Original filename: test-3
-Corresponding number in titlelist.txt: 0000

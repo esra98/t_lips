@@ -1,0 +1,7 @@
+Spoken word: gaspcı
+Starttime of utterance in seconds: 199.380
+Endtime of utterance in seconds: 199.980
+Duration of utterance in seconds: 0.600
+Confidence: 0.657
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

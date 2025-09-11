@@ -1,0 +1,7 @@
+Spoken word: hangi
+Starttime of utterance in seconds: 3924.580
+Endtime of utterance in seconds: 3925.880
+Duration of utterance in seconds: 1.300
+Confidence: 0.984
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

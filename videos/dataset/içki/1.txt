@@ -1,7 +1,0 @@
-Spoken word: içki
-Starttime of utterance in seconds: 2.100
-Endtime of utterance in seconds: 2.620
-Duration of utterance in seconds: 0.520
-Confidence: 0.552
-Original filename: test-3
-Corresponding number in titlelist.txt: 0000

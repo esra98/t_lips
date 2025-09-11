@@ -1,0 +1,7 @@
+Spoken word: anlayışla
+Starttime of utterance in seconds: 846.880
+Endtime of utterance in seconds: 847.420
+Duration of utterance in seconds: 0.540
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: suçlamasıyla
+Starttime of utterance in seconds: 444.930
+Endtime of utterance in seconds: 445.720
+Duration of utterance in seconds: 0.790
+Confidence: 0.990
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

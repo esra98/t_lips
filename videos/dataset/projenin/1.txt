@@ -1,0 +1,7 @@
+Spoken word: projenin
+Starttime of utterance in seconds: 4484.940
+Endtime of utterance in seconds: 4485.700
+Duration of utterance in seconds: 0.760
+Confidence: 0.964
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

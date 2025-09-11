@@ -1,0 +1,7 @@
+Spoken word: vermek
+Starttime of utterance in seconds: 2245.920
+Endtime of utterance in seconds: 2246.340
+Duration of utterance in seconds: 0.420
+Confidence: 0.887
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

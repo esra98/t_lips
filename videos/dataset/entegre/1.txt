@@ -1,0 +1,7 @@
+Spoken word: entegre
+Starttime of utterance in seconds: 5489.300
+Endtime of utterance in seconds: 5489.840
+Duration of utterance in seconds: 0.540
+Confidence: 0.771
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

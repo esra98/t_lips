@@ -1,0 +1,7 @@
+Spoken word: aldığını
+Starttime of utterance in seconds: 3169.400
+Endtime of utterance in seconds: 3169.780
+Duration of utterance in seconds: 0.380
+Confidence: 0.915
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

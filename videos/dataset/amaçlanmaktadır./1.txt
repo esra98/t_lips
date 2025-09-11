@@ -1,0 +1,7 @@
+Spoken word: amaçlanmaktadır.
+Starttime of utterance in seconds: 1040.160
+Endtime of utterance in seconds: 1041.500
+Duration of utterance in seconds: 1.340
+Confidence: 0.964
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: azalmaktadır.
+Starttime of utterance in seconds: 393.440
+Endtime of utterance in seconds: 394.240
+Duration of utterance in seconds: 0.800
+Confidence: 0.979
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

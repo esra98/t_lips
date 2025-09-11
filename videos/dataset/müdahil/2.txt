@@ -1,0 +1,7 @@
+Spoken word: müdahil
+Starttime of utterance in seconds: 1925.800
+Endtime of utterance in seconds: 1926.680
+Duration of utterance in seconds: 0.880
+Confidence: 0.939
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

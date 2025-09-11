@@ -1,0 +1,7 @@
+Spoken word: yoksa
+Starttime of utterance in seconds: 4702.840
+Endtime of utterance in seconds: 4703.720
+Duration of utterance in seconds: 0.880
+Confidence: 0.995
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

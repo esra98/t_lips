@@ -1,0 +1,7 @@
+Spoken word: diğerini
+Starttime of utterance in seconds: 4140.540
+Endtime of utterance in seconds: 4141.680
+Duration of utterance in seconds: 1.140
+Confidence: 0.813
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

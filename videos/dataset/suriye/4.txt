@@ -1,0 +1,7 @@
+Spoken word: suriye
+Starttime of utterance in seconds: 1396.300
+Endtime of utterance in seconds: 1396.740
+Duration of utterance in seconds: 0.440
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

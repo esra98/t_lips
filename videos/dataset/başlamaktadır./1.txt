@@ -1,0 +1,7 @@
+Spoken word: başlamaktadır.
+Starttime of utterance in seconds: 2283.280
+Endtime of utterance in seconds: 2284.240
+Duration of utterance in seconds: 0.960
+Confidence: 0.990
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

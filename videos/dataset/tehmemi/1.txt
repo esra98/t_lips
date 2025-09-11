@@ -1,0 +1,7 @@
+Spoken word: tehmemi
+Starttime of utterance in seconds: 1696.810
+Endtime of utterance in seconds: 1697.260
+Duration of utterance in seconds: 0.450
+Confidence: 0.342
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

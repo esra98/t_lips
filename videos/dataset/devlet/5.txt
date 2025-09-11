@@ -1,0 +1,7 @@
+Spoken word: devlet
+Starttime of utterance in seconds: 3551.360
+Endtime of utterance in seconds: 3551.640
+Duration of utterance in seconds: 0.280
+Confidence: 0.991
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

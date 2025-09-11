@@ -1,0 +1,7 @@
+Spoken word: çocuk
+Starttime of utterance in seconds: 2454.100
+Endtime of utterance in seconds: 2454.420
+Duration of utterance in seconds: 0.320
+Confidence: 0.998
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: ümmetin
+Starttime of utterance in seconds: 4784.520
+Endtime of utterance in seconds: 4786.400
+Duration of utterance in seconds: 1.880
+Confidence: 0.934
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

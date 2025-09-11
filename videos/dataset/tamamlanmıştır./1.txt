@@ -1,0 +1,7 @@
+Spoken word: tamamlanmıştır.
+Starttime of utterance in seconds: 2358.280
+Endtime of utterance in seconds: 2359.060
+Duration of utterance in seconds: 0.780
+Confidence: 0.975
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

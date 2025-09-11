@@ -1,0 +1,7 @@
+Spoken word: gerekmekte.
+Starttime of utterance in seconds: 2195.560
+Endtime of utterance in seconds: 2196.480
+Duration of utterance in seconds: 0.920
+Confidence: 0.909
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: canına
+Starttime of utterance in seconds: 4888.360
+Endtime of utterance in seconds: 4888.860
+Duration of utterance in seconds: 0.500
+Confidence: 0.725
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

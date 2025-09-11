@@ -1,0 +1,7 @@
+Spoken word: konuda
+Starttime of utterance in seconds: 340.240
+Endtime of utterance in seconds: 340.640
+Duration of utterance in seconds: 0.400
+Confidence: 0.992
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

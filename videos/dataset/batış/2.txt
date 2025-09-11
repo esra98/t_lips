@@ -1,0 +1,7 @@
+Spoken word: batış
+Starttime of utterance in seconds: 220.840
+Endtime of utterance in seconds: 221.680
+Duration of utterance in seconds: 0.840
+Confidence: 0.767
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: netanyahu
+Starttime of utterance in seconds: 276.240
+Endtime of utterance in seconds: 276.840
+Duration of utterance in seconds: 0.600
+Confidence: 0.807
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

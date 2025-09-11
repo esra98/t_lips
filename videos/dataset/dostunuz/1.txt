@@ -1,0 +1,7 @@
+Spoken word: dostunuz
+Starttime of utterance in seconds: 3139.360
+Endtime of utterance in seconds: 3139.840
+Duration of utterance in seconds: 0.480
+Confidence: 0.981
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

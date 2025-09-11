@@ -1,0 +1,7 @@
+Spoken word: giderken
+Starttime of utterance in seconds: 2771.400
+Endtime of utterance in seconds: 2771.920
+Duration of utterance in seconds: 0.520
+Confidence: 0.994
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: dönüştürülmüştür.
+Starttime of utterance in seconds: 121.460
+Endtime of utterance in seconds: 122.380
+Duration of utterance in seconds: 0.920
+Confidence: 0.983
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: getirerek
+Starttime of utterance in seconds: 5284.040
+Endtime of utterance in seconds: 5284.580
+Duration of utterance in seconds: 0.540
+Confidence: 0.739
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

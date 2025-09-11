@@ -1,0 +1,7 @@
+Spoken word: faturası
+Starttime of utterance in seconds: 4772.560
+Endtime of utterance in seconds: 4773.730
+Duration of utterance in seconds: 1.170
+Confidence: 0.675
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

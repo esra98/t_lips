@@ -1,0 +1,7 @@
+Spoken word: çomak
+Starttime of utterance in seconds: 4446.460
+Endtime of utterance in seconds: 4447.420
+Duration of utterance in seconds: 0.960
+Confidence: 0.956
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

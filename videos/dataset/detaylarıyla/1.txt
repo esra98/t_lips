@@ -1,0 +1,7 @@
+Spoken word: detaylarıyla
+Starttime of utterance in seconds: 1902.040
+Endtime of utterance in seconds: 1903.160
+Duration of utterance in seconds: 1.120
+Confidence: 0.971
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

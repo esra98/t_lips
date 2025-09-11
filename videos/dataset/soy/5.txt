@@ -1,0 +1,7 @@
+Spoken word: soy
+Starttime of utterance in seconds: 443.900
+Endtime of utterance in seconds: 444.200
+Duration of utterance in seconds: 0.300
+Confidence: 0.943
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

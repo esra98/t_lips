@@ -1,7 +1,0 @@
-Spoken word: kostümlerimizle
-Starttime of utterance in seconds: 7.580
-Endtime of utterance in seconds: 8.500
-Duration of utterance in seconds: 0.920
-Confidence: 0.938
-Original filename: test-3
-Corresponding number in titlelist.txt: 0000

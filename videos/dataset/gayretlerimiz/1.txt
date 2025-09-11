@@ -1,0 +1,7 @@
+Spoken word: gayretlerimiz
+Starttime of utterance in seconds: 1823.040
+Endtime of utterance in seconds: 1824.100
+Duration of utterance in seconds: 1.060
+Confidence: 0.972
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

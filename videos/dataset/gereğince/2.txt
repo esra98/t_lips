@@ -1,0 +1,7 @@
+Spoken word: gereğince
+Starttime of utterance in seconds: 791.000
+Endtime of utterance in seconds: 791.440
+Duration of utterance in seconds: 0.440
+Confidence: 0.733
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

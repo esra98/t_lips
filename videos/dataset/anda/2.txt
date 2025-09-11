@@ -1,0 +1,7 @@
+Spoken word: anda
+Starttime of utterance in seconds: 3426.700
+Endtime of utterance in seconds: 3426.840
+Duration of utterance in seconds: 0.140
+Confidence: 0.996
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

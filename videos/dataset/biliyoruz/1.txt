@@ -1,0 +1,7 @@
+Spoken word: biliyoruz
+Starttime of utterance in seconds: 4049.500
+Endtime of utterance in seconds: 4050.100
+Duration of utterance in seconds: 0.600
+Confidence: 0.999
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: dışişleri
+Starttime of utterance in seconds: 672.920
+Endtime of utterance in seconds: 673.360
+Duration of utterance in seconds: 0.440
+Confidence: 0.941
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

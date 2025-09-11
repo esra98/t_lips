@@ -1,0 +1,7 @@
+Spoken word: dokuzuncu
+Starttime of utterance in seconds: 666.960
+Endtime of utterance in seconds: 667.480
+Duration of utterance in seconds: 0.520
+Confidence: 0.983
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

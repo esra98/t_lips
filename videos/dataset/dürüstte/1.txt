@@ -1,0 +1,7 @@
+Spoken word: dürüstte
+Starttime of utterance in seconds: 5838.720
+Endtime of utterance in seconds: 5839.120
+Duration of utterance in seconds: 0.400
+Confidence: 0.627
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

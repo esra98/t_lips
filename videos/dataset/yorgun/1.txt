@@ -1,0 +1,7 @@
+Spoken word: yorgun
+Starttime of utterance in seconds: 5132.120
+Endtime of utterance in seconds: 5132.960
+Duration of utterance in seconds: 0.840
+Confidence: 0.973
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

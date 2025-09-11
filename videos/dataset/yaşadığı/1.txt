@@ -1,0 +1,7 @@
+Spoken word: yaşadığı
+Starttime of utterance in seconds: 2647.990
+Endtime of utterance in seconds: 2648.440
+Duration of utterance in seconds: 0.450
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

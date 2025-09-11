@@ -1,0 +1,7 @@
+Spoken word: değerlerden
+Starttime of utterance in seconds: 4128.600
+Endtime of utterance in seconds: 4129.420
+Duration of utterance in seconds: 0.820
+Confidence: 0.975
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

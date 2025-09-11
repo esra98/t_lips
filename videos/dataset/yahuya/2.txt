@@ -1,0 +1,7 @@
+Spoken word: yahuya
+Starttime of utterance in seconds: 4609.540
+Endtime of utterance in seconds: 4609.980
+Duration of utterance in seconds: 0.440
+Confidence: 0.302
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

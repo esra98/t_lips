@@ -1,0 +1,7 @@
+Spoken word: konulu
+Starttime of utterance in seconds: 3445.800
+Endtime of utterance in seconds: 3446.060
+Duration of utterance in seconds: 0.260
+Confidence: 0.611
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

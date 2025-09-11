@@ -1,0 +1,7 @@
+Spoken word: itibariyle
+Starttime of utterance in seconds: 1851.860
+Endtime of utterance in seconds: 1852.620
+Duration of utterance in seconds: 0.760
+Confidence: 0.990
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: dünyası
+Starttime of utterance in seconds: 1892.840
+Endtime of utterance in seconds: 1893.310
+Duration of utterance in seconds: 0.470
+Confidence: 0.931
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

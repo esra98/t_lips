@@ -1,0 +1,7 @@
+Spoken word: gemideki
+Starttime of utterance in seconds: 2856.920
+Endtime of utterance in seconds: 2857.380
+Duration of utterance in seconds: 0.460
+Confidence: 0.916
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

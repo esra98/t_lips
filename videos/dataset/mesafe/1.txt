@@ -1,7 +1,0 @@
-Spoken word: mesafe
-Starttime of utterance in seconds: 26.360
-Endtime of utterance in seconds: 26.980
-Duration of utterance in seconds: 0.620
-Confidence: 0.951
-Original filename: test-1
-Corresponding number in titlelist.txt: 0000

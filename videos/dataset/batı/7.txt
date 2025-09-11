@@ -1,0 +1,7 @@
+Spoken word: batı
+Starttime of utterance in seconds: 5511.040
+Endtime of utterance in seconds: 5511.280
+Duration of utterance in seconds: 0.240
+Confidence: 0.594
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

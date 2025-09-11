@@ -1,7 +1,7 @@
 Spoken word: kaç
-Starttime of utterance in seconds: 54.080
-Endtime of utterance in seconds: 54.960
-Duration of utterance in seconds: 0.880
-Confidence: 0.572
-Original filename: test-1
+Starttime of utterance in seconds: 76.740
+Endtime of utterance in seconds: 77.020
+Duration of utterance in seconds: 0.280
+Confidence: 0.862
+Original filename: video-1
 Corresponding number in titlelist.txt: 0000

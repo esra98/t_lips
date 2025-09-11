@@ -1,0 +1,7 @@
+Spoken word: yükünden
+Starttime of utterance in seconds: 4801.600
+Endtime of utterance in seconds: 4802.080
+Duration of utterance in seconds: 0.480
+Confidence: 0.805
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

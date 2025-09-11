@@ -1,0 +1,7 @@
+Spoken word: müteciler
+Starttime of utterance in seconds: 241.380
+Endtime of utterance in seconds: 242.100
+Duration of utterance in seconds: 0.720
+Confidence: 0.519
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

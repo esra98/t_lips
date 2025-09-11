@@ -1,0 +1,7 @@
+Spoken word: öneriyi
+Starttime of utterance in seconds: 783.520
+Endtime of utterance in seconds: 783.980
+Duration of utterance in seconds: 0.460
+Confidence: 0.765
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

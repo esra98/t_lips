@@ -1,0 +1,7 @@
+Spoken word: midir?
+Starttime of utterance in seconds: 4694.040
+Endtime of utterance in seconds: 4694.340
+Duration of utterance in seconds: 0.300
+Confidence: 0.716
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

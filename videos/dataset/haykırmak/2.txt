@@ -1,0 +1,7 @@
+Spoken word: haykırmak
+Starttime of utterance in seconds: 4318.240
+Endtime of utterance in seconds: 4318.780
+Duration of utterance in seconds: 0.540
+Confidence: 0.972
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

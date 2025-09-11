@@ -1,0 +1,7 @@
+Spoken word: bağlamda
+Starttime of utterance in seconds: 5236.820
+Endtime of utterance in seconds: 5237.360
+Duration of utterance in seconds: 0.540
+Confidence: 0.788
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

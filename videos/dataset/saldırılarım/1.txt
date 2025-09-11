@@ -1,0 +1,7 @@
+Spoken word: saldırılarım
+Starttime of utterance in seconds: 3425.560
+Endtime of utterance in seconds: 3426.300
+Duration of utterance in seconds: 0.740
+Confidence: 0.673
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

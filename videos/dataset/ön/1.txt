@@ -1,0 +1,7 @@
+Spoken word: ön
+Starttime of utterance in seconds: 914.120
+Endtime of utterance in seconds: 914.340
+Duration of utterance in seconds: 0.220
+Confidence: 0.748
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

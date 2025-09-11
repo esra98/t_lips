@@ -1,0 +1,7 @@
+Spoken word: taraflı
+Starttime of utterance in seconds: 1658.780
+Endtime of utterance in seconds: 1659.200
+Duration of utterance in seconds: 0.420
+Confidence: 0.958
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

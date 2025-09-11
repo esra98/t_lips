@@ -1,0 +1,7 @@
+Spoken word: gelecek
+Starttime of utterance in seconds: 3441.380
+Endtime of utterance in seconds: 3441.920
+Duration of utterance in seconds: 0.540
+Confidence: 0.860
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

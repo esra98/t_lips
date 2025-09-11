@@ -1,0 +1,7 @@
+Spoken word: türkiye
+Starttime of utterance in seconds: 2673.160
+Endtime of utterance in seconds: 2673.920
+Duration of utterance in seconds: 0.760
+Confidence: 0.950
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

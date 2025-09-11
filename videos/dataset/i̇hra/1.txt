@@ -1,0 +1,7 @@
+Spoken word: i̇hra
+Starttime of utterance in seconds: 924.220
+Endtime of utterance in seconds: 924.440
+Duration of utterance in seconds: 0.220
+Confidence: 0.310
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: filistin'deki
+Starttime of utterance in seconds: 432.900
+Endtime of utterance in seconds: 433.700
+Duration of utterance in seconds: 0.800
+Confidence: 0.787
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

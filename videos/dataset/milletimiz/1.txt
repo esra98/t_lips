@@ -1,0 +1,7 @@
+Spoken word: milletimiz
+Starttime of utterance in seconds: 616.780
+Endtime of utterance in seconds: 617.320
+Duration of utterance in seconds: 0.540
+Confidence: 0.903
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

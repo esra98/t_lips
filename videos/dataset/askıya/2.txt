@@ -1,0 +1,7 @@
+Spoken word: askıya
+Starttime of utterance in seconds: 546.560
+Endtime of utterance in seconds: 547.180
+Duration of utterance in seconds: 0.620
+Confidence: 0.852
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

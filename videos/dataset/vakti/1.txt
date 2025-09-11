@@ -1,0 +1,7 @@
+Spoken word: vakti
+Starttime of utterance in seconds: 512.820
+Endtime of utterance in seconds: 513.680
+Duration of utterance in seconds: 0.860
+Confidence: 0.964
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

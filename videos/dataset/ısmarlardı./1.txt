@@ -1,7 +1,0 @@
-Spoken word: ısmarlardı.
-Starttime of utterance in seconds: 4.080
-Endtime of utterance in seconds: 4.760
-Duration of utterance in seconds: 0.680
-Confidence: 0.930
-Original filename: test-3
-Corresponding number in titlelist.txt: 0000

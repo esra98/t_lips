@@ -1,0 +1,7 @@
+Spoken word: kimi
+Starttime of utterance in seconds: 3560.220
+Endtime of utterance in seconds: 3560.500
+Duration of utterance in seconds: 0.280
+Confidence: 0.358
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

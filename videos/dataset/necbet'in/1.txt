@@ -1,0 +1,7 @@
+Spoken word: necbet'in
+Starttime of utterance in seconds: 3384.060
+Endtime of utterance in seconds: 3384.500
+Duration of utterance in seconds: 0.440
+Confidence: 0.689
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

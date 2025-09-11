@@ -1,0 +1,7 @@
+Spoken word: bugünkü
+Starttime of utterance in seconds: 594.660
+Endtime of utterance in seconds: 595.540
+Duration of utterance in seconds: 0.880
+Confidence: 0.956
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

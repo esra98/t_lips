@@ -1,0 +1,7 @@
+Spoken word: durum
+Starttime of utterance in seconds: 863.930
+Endtime of utterance in seconds: 864.260
+Duration of utterance in seconds: 0.330
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

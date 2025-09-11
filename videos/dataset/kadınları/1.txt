@@ -1,0 +1,7 @@
+Spoken word: kadınları
+Starttime of utterance in seconds: 924.440
+Endtime of utterance in seconds: 924.860
+Duration of utterance in seconds: 0.420
+Confidence: 0.579
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

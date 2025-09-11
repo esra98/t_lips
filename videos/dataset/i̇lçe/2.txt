@@ -1,7 +1,0 @@
-Spoken word: i̇lçe
-Starttime of utterance in seconds: 11.640
-Endtime of utterance in seconds: 12.760
-Duration of utterance in seconds: 1.120
-Confidence: 0.949
-Original filename: test-2
-Corresponding number in titlelist.txt: 0000

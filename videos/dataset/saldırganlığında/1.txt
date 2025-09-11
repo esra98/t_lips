@@ -1,0 +1,7 @@
+Spoken word: saldırganlığında
+Starttime of utterance in seconds: 880.510
+Endtime of utterance in seconds: 881.300
+Duration of utterance in seconds: 0.790
+Confidence: 0.930
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

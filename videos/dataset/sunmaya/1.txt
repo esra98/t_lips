@@ -1,0 +1,7 @@
+Spoken word: sunmaya
+Starttime of utterance in seconds: 591.400
+Endtime of utterance in seconds: 591.740
+Duration of utterance in seconds: 0.340
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

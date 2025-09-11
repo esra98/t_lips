@@ -1,0 +1,7 @@
+Spoken word: gevşetme
+Starttime of utterance in seconds: 5815.920
+Endtime of utterance in seconds: 5816.520
+Duration of utterance in seconds: 0.600
+Confidence: 0.845
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

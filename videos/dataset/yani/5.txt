@@ -1,0 +1,7 @@
+Spoken word: yani
+Starttime of utterance in seconds: 3548.740
+Endtime of utterance in seconds: 3548.940
+Duration of utterance in seconds: 0.200
+Confidence: 0.967
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

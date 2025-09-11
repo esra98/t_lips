@@ -1,0 +1,7 @@
+Spoken word: hamaset
+Starttime of utterance in seconds: 4214.100
+Endtime of utterance in seconds: 4215.300
+Duration of utterance in seconds: 1.200
+Confidence: 0.936
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

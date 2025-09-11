@@ -1,0 +1,7 @@
+Spoken word: öneriler,
+Starttime of utterance in seconds: 754.920
+Endtime of utterance in seconds: 755.920
+Duration of utterance in seconds: 1.000
+Confidence: 0.990
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

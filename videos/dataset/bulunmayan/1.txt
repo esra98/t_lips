@@ -1,0 +1,7 @@
+Spoken word: bulunmayan
+Starttime of utterance in seconds: 704.720
+Endtime of utterance in seconds: 705.140
+Duration of utterance in seconds: 0.420
+Confidence: 0.913
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

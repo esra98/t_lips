@@ -1,7 +1,0 @@
-Spoken word: emniyet
-Starttime of utterance in seconds: 7.180
-Endtime of utterance in seconds: 7.480
-Duration of utterance in seconds: 0.300
-Confidence: 0.868
-Original filename: test-2
-Corresponding number in titlelist.txt: 0000

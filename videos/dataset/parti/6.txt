@@ -1,0 +1,7 @@
+Spoken word: parti
+Starttime of utterance in seconds: 2655.440
+Endtime of utterance in seconds: 2655.660
+Duration of utterance in seconds: 0.220
+Confidence: 0.363
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

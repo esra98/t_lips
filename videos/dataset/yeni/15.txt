@@ -1,0 +1,7 @@
+Spoken word: yeni
+Starttime of utterance in seconds: 5373.600
+Endtime of utterance in seconds: 5374.080
+Duration of utterance in seconds: 0.480
+Confidence: 0.436
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: mars
+Starttime of utterance in seconds: 2719.980
+Endtime of utterance in seconds: 2720.180
+Duration of utterance in seconds: 0.200
+Confidence: 0.709
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

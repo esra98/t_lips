@@ -1,0 +1,7 @@
+Spoken word: gazillerin
+Starttime of utterance in seconds: 4284.380
+Endtime of utterance in seconds: 4285.240
+Duration of utterance in seconds: 0.860
+Confidence: 0.591
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

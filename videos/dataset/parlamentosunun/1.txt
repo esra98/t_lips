@@ -1,0 +1,7 @@
+Spoken word: parlamentosunun
+Starttime of utterance in seconds: 364.260
+Endtime of utterance in seconds: 365.160
+Duration of utterance in seconds: 0.900
+Confidence: 0.730
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

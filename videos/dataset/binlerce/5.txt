@@ -1,0 +1,7 @@
+Spoken word: binlerce
+Starttime of utterance in seconds: 2907.520
+Endtime of utterance in seconds: 2908.040
+Duration of utterance in seconds: 0.520
+Confidence: 0.958
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

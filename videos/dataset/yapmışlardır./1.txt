@@ -1,0 +1,7 @@
+Spoken word: yapmışlardır.
+Starttime of utterance in seconds: 2603.340
+Endtime of utterance in seconds: 2604.340
+Duration of utterance in seconds: 1.000
+Confidence: 0.975
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

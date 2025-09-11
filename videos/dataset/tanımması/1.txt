@@ -1,0 +1,7 @@
+Spoken word: tanımması
+Starttime of utterance in seconds: 1907.740
+Endtime of utterance in seconds: 1908.180
+Duration of utterance in seconds: 0.440
+Confidence: 0.706
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

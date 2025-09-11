@@ -1,0 +1,7 @@
+Spoken word: yargıdan
+Starttime of utterance in seconds: 5654.580
+Endtime of utterance in seconds: 5655.020
+Duration of utterance in seconds: 0.440
+Confidence: 0.976
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

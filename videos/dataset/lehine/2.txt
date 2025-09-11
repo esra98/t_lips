@@ -1,0 +1,7 @@
+Spoken word: lehine
+Starttime of utterance in seconds: 4224.640
+Endtime of utterance in seconds: 4225.300
+Duration of utterance in seconds: 0.660
+Confidence: 0.520
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: çarpan
+Starttime of utterance in seconds: 5641.370
+Endtime of utterance in seconds: 5641.720
+Duration of utterance in seconds: 0.350
+Confidence: 0.954
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: kolu
+Starttime of utterance in seconds: 2471.700
+Endtime of utterance in seconds: 2472.120
+Duration of utterance in seconds: 0.420
+Confidence: 0.858
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

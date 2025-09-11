@@ -1,0 +1,7 @@
+Spoken word: komisyonu
+Starttime of utterance in seconds: 3393.900
+Endtime of utterance in seconds: 3394.420
+Duration of utterance in seconds: 0.520
+Confidence: 0.930
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

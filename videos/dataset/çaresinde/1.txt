@@ -1,0 +1,7 @@
+Spoken word: çaresinde
+Starttime of utterance in seconds: 257.580
+Endtime of utterance in seconds: 258.100
+Duration of utterance in seconds: 0.520
+Confidence: 0.923
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

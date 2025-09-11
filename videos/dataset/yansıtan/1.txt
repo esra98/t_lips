@@ -1,0 +1,7 @@
+Spoken word: yansıtan
+Starttime of utterance in seconds: 1063.300
+Endtime of utterance in seconds: 1063.840
+Duration of utterance in seconds: 0.540
+Confidence: 0.972
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

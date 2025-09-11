@@ -1,0 +1,7 @@
+Spoken word: yaşlısıyla
+Starttime of utterance in seconds: 523.820
+Endtime of utterance in seconds: 524.960
+Duration of utterance in seconds: 1.140
+Confidence: 0.849
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

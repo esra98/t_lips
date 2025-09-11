@@ -1,0 +1,7 @@
+Spoken word: yok
+Starttime of utterance in seconds: 111.180
+Endtime of utterance in seconds: 111.480
+Duration of utterance in seconds: 0.300
+Confidence: 0.994
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

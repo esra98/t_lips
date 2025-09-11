@@ -1,0 +1,7 @@
+Spoken word: masal
+Starttime of utterance in seconds: 3560.500
+Endtime of utterance in seconds: 3561.020
+Duration of utterance in seconds: 0.520
+Confidence: 0.393
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

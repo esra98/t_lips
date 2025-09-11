@@ -1,0 +1,7 @@
+Spoken word: olursak
+Starttime of utterance in seconds: 3931.100
+Endtime of utterance in seconds: 3931.660
+Duration of utterance in seconds: 0.560
+Confidence: 0.967
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

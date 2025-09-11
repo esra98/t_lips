@@ -1,0 +1,7 @@
+Spoken word: gün
+Starttime of utterance in seconds: 4129.420
+Endtime of utterance in seconds: 4130.200
+Duration of utterance in seconds: 0.780
+Confidence: 0.770
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

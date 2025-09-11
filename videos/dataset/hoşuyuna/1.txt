@@ -1,7 +1,0 @@
-Spoken word: hoşuyuna
-Starttime of utterance in seconds: 12.960
-Endtime of utterance in seconds: 13.400
-Duration of utterance in seconds: 0.440
-Confidence: 0.756
-Original filename: test-3
-Corresponding number in titlelist.txt: 0000

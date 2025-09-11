@@ -1,7 +1,0 @@
-Spoken word: müdürü
-Starttime of utterance in seconds: 13.180
-Endtime of utterance in seconds: 13.460
-Duration of utterance in seconds: 0.280
-Confidence: 0.973
-Original filename: test-2
-Corresponding number in titlelist.txt: 0000

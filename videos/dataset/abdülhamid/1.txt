@@ -1,0 +1,7 @@
+Spoken word: abdülhamid
+Starttime of utterance in seconds: 734.040
+Endtime of utterance in seconds: 734.410
+Duration of utterance in seconds: 0.370
+Confidence: 0.658
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

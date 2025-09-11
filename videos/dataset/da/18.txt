@@ -1,0 +1,7 @@
+Spoken word: da
+Starttime of utterance in seconds: 1911.860
+Endtime of utterance in seconds: 1912.060
+Duration of utterance in seconds: 0.200
+Confidence: 0.990
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

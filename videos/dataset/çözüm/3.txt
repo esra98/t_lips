@@ -1,0 +1,7 @@
+Spoken word: çözüm
+Starttime of utterance in seconds: 1690.570
+Endtime of utterance in seconds: 1690.900
+Duration of utterance in seconds: 0.330
+Confidence: 0.986
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

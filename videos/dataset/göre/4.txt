@@ -1,0 +1,7 @@
+Spoken word: göre
+Starttime of utterance in seconds: 3221.190
+Endtime of utterance in seconds: 3221.420
+Duration of utterance in seconds: 0.230
+Confidence: 0.996
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

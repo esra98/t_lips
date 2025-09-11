@@ -1,0 +1,7 @@
+Spoken word: yükselmekte,
+Starttime of utterance in seconds: 351.400
+Endtime of utterance in seconds: 352.180
+Duration of utterance in seconds: 0.780
+Confidence: 0.992
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

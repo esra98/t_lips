@@ -1,0 +1,7 @@
+Spoken word: manifesto
+Starttime of utterance in seconds: 1654.800
+Endtime of utterance in seconds: 1655.520
+Duration of utterance in seconds: 0.720
+Confidence: 0.878
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

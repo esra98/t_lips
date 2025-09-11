@@ -1,0 +1,7 @@
+Spoken word: olmaktan
+Starttime of utterance in seconds: 5642.700
+Endtime of utterance in seconds: 5643.180
+Duration of utterance in seconds: 0.480
+Confidence: 0.994
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

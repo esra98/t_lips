@@ -1,0 +1,7 @@
+Spoken word: engellememenin
+Starttime of utterance in seconds: 4437.420
+Endtime of utterance in seconds: 4439.480
+Duration of utterance in seconds: 2.060
+Confidence: 0.887
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

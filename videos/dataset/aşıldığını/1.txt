@@ -1,0 +1,7 @@
+Spoken word: aşıldığını
+Starttime of utterance in seconds: 2448.300
+Endtime of utterance in seconds: 2448.980
+Duration of utterance in seconds: 0.680
+Confidence: 0.869
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

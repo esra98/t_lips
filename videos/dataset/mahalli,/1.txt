@@ -1,0 +1,7 @@
+Spoken word: mahalli,
+Starttime of utterance in seconds: 5762.780
+Endtime of utterance in seconds: 5763.660
+Duration of utterance in seconds: 0.880
+Confidence: 0.913
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

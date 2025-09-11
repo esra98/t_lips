@@ -1,0 +1,7 @@
+Spoken word: çevresinde
+Starttime of utterance in seconds: 4493.120
+Endtime of utterance in seconds: 4494.400
+Duration of utterance in seconds: 1.280
+Confidence: 0.989
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

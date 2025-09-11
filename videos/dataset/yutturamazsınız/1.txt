@@ -1,0 +1,7 @@
+Spoken word: yutturamazsınız
+Starttime of utterance in seconds: 4971.980
+Endtime of utterance in seconds: 4973.260
+Duration of utterance in seconds: 1.280
+Confidence: 0.832
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

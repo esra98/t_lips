@@ -1,0 +1,7 @@
+Spoken word: bizzat
+Starttime of utterance in seconds: 4222.520
+Endtime of utterance in seconds: 4223.860
+Duration of utterance in seconds: 1.340
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

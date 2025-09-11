@@ -1,0 +1,7 @@
+Spoken word: güvenliğini
+Starttime of utterance in seconds: 1315.840
+Endtime of utterance in seconds: 1316.360
+Duration of utterance in seconds: 0.520
+Confidence: 0.928
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

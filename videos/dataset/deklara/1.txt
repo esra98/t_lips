@@ -1,0 +1,7 @@
+Spoken word: deklara
+Starttime of utterance in seconds: 3356.900
+Endtime of utterance in seconds: 3357.200
+Duration of utterance in seconds: 0.300
+Confidence: 0.667
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

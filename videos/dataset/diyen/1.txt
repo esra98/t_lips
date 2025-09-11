@@ -1,0 +1,7 @@
+Spoken word: diyen
+Starttime of utterance in seconds: 3677.760
+Endtime of utterance in seconds: 3678.060
+Duration of utterance in seconds: 0.300
+Confidence: 0.976
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

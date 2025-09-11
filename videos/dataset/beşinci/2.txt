@@ -1,0 +1,7 @@
+Spoken word: beşinci
+Starttime of utterance in seconds: 5501.300
+Endtime of utterance in seconds: 5501.740
+Duration of utterance in seconds: 0.440
+Confidence: 0.965
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

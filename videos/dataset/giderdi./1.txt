@@ -1,7 +1,0 @@
-Spoken word: giderdi.
-Starttime of utterance in seconds: 13.400
-Endtime of utterance in seconds: 13.940
-Duration of utterance in seconds: 0.540
-Confidence: 0.978
-Original filename: test-3
-Corresponding number in titlelist.txt: 0000

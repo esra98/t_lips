@@ -1,0 +1,7 @@
+Spoken word: söylemesinin
+Starttime of utterance in seconds: 3574.300
+Endtime of utterance in seconds: 3574.840
+Duration of utterance in seconds: 0.540
+Confidence: 0.824
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: çığlığı
+Starttime of utterance in seconds: 2314.920
+Endtime of utterance in seconds: 2315.420
+Duration of utterance in seconds: 0.500
+Confidence: 0.966
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

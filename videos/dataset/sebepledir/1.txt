@@ -1,0 +1,7 @@
+Spoken word: sebepledir
+Starttime of utterance in seconds: 305.160
+Endtime of utterance in seconds: 305.820
+Duration of utterance in seconds: 0.660
+Confidence: 0.711
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

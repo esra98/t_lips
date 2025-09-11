@@ -1,0 +1,7 @@
+Spoken word: kaynaklarına
+Starttime of utterance in seconds: 1257.920
+Endtime of utterance in seconds: 1258.600
+Duration of utterance in seconds: 0.680
+Confidence: 0.993
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

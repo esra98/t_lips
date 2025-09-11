@@ -1,0 +1,7 @@
+Spoken word: ettim.
+Starttime of utterance in seconds: 1471.520
+Endtime of utterance in seconds: 1471.860
+Duration of utterance in seconds: 0.340
+Confidence: 0.943
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

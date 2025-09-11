@@ -1,0 +1,7 @@
+Spoken word: yaptıklarının
+Starttime of utterance in seconds: 48.780
+Endtime of utterance in seconds: 49.840
+Duration of utterance in seconds: 1.060
+Confidence: 0.934
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

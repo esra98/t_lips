@@ -1,0 +1,7 @@
+Spoken word: kabul
+Starttime of utterance in seconds: 5621.100
+Endtime of utterance in seconds: 5621.360
+Duration of utterance in seconds: 0.260
+Confidence: 0.812
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

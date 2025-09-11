@@ -1,0 +1,7 @@
+Spoken word: devleti
+Starttime of utterance in seconds: 1441.140
+Endtime of utterance in seconds: 1441.630
+Duration of utterance in seconds: 0.490
+Confidence: 0.815
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

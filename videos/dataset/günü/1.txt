@@ -1,0 +1,7 @@
+Spoken word: günü
+Starttime of utterance in seconds: 725.760
+Endtime of utterance in seconds: 726.660
+Duration of utterance in seconds: 0.900
+Confidence: 0.887
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

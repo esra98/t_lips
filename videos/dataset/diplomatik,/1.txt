@@ -1,0 +1,7 @@
+Spoken word: diplomatik,
+Starttime of utterance in seconds: 4051.600
+Endtime of utterance in seconds: 4053.000
+Duration of utterance in seconds: 1.400
+Confidence: 0.849
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: ak
+Starttime of utterance in seconds: 4614.580
+Endtime of utterance in seconds: 4615.440
+Duration of utterance in seconds: 0.860
+Confidence: 0.792
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

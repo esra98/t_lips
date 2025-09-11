@@ -1,7 +1,7 @@
 Spoken word: fakat
-Starttime of utterance in seconds: 15.740
-Endtime of utterance in seconds: 16.060
-Duration of utterance in seconds: 0.320
-Confidence: 0.789
-Original filename: test-3
+Starttime of utterance in seconds: 1810.040
+Endtime of utterance in seconds: 1811.240
+Duration of utterance in seconds: 1.200
+Confidence: 0.932
+Original filename: video-1
 Corresponding number in titlelist.txt: 0000

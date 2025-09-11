@@ -1,0 +1,7 @@
+Spoken word: attındaki
+Starttime of utterance in seconds: 926.900
+Endtime of utterance in seconds: 927.360
+Duration of utterance in seconds: 0.460
+Confidence: 0.697
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

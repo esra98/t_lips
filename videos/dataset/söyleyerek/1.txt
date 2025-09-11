@@ -1,0 +1,7 @@
+Spoken word: söyleyerek
+Starttime of utterance in seconds: 4799.720
+Endtime of utterance in seconds: 4800.500
+Duration of utterance in seconds: 0.780
+Confidence: 0.979
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

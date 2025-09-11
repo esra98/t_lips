@@ -1,0 +1,7 @@
+Spoken word: meydan
+Starttime of utterance in seconds: 4787.960
+Endtime of utterance in seconds: 4788.460
+Duration of utterance in seconds: 0.500
+Confidence: 0.813
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

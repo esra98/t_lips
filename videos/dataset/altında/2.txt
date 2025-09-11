@@ -1,0 +1,7 @@
+Spoken word: altında
+Starttime of utterance in seconds: 996.640
+Endtime of utterance in seconds: 996.980
+Duration of utterance in seconds: 0.340
+Confidence: 0.993
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

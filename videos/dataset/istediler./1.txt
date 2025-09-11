@@ -1,0 +1,7 @@
+Spoken word: istediler.
+Starttime of utterance in seconds: 3587.440
+Endtime of utterance in seconds: 3587.900
+Duration of utterance in seconds: 0.460
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

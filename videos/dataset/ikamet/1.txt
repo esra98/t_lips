@@ -1,0 +1,7 @@
+Spoken word: ikamet
+Starttime of utterance in seconds: 4134.800
+Endtime of utterance in seconds: 4135.240
+Duration of utterance in seconds: 0.440
+Confidence: 0.951
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

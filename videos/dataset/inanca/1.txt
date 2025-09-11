@@ -1,0 +1,7 @@
+Spoken word: inanca
+Starttime of utterance in seconds: 5829.720
+Endtime of utterance in seconds: 5830.180
+Duration of utterance in seconds: 0.460
+Confidence: 0.853
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

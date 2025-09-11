@@ -1,0 +1,7 @@
+Spoken word: raporları
+Starttime of utterance in seconds: 5260.190
+Endtime of utterance in seconds: 5260.720
+Duration of utterance in seconds: 0.530
+Confidence: 0.983
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

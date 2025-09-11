@@ -1,0 +1,7 @@
+Spoken word: sözde
+Starttime of utterance in seconds: 4830.540
+Endtime of utterance in seconds: 4831.680
+Duration of utterance in seconds: 1.140
+Confidence: 0.902
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

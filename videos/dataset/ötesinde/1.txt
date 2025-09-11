@@ -1,0 +1,7 @@
+Spoken word: ötesinde
+Starttime of utterance in seconds: 986.220
+Endtime of utterance in seconds: 986.740
+Duration of utterance in seconds: 0.520
+Confidence: 0.992
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

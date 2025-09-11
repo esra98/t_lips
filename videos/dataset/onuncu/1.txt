@@ -1,0 +1,7 @@
+Spoken word: onuncu
+Starttime of utterance in seconds: 3351.260
+Endtime of utterance in seconds: 3352.040
+Duration of utterance in seconds: 0.780
+Confidence: 0.947
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

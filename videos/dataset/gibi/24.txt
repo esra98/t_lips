@@ -1,0 +1,7 @@
+Spoken word: gibi
+Starttime of utterance in seconds: 5734.060
+Endtime of utterance in seconds: 5734.280
+Duration of utterance in seconds: 0.220
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

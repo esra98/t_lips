@@ -1,0 +1,7 @@
+Spoken word: başta
+Starttime of utterance in seconds: 334.220
+Endtime of utterance in seconds: 335.160
+Duration of utterance in seconds: 0.940
+Confidence: 0.954
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: kuşağı
+Starttime of utterance in seconds: 4491.720
+Endtime of utterance in seconds: 4492.100
+Duration of utterance in seconds: 0.380
+Confidence: 0.841
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

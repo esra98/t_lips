@@ -1,0 +1,7 @@
+Spoken word: yaptıkları
+Starttime of utterance in seconds: 4425.220
+Endtime of utterance in seconds: 4426.460
+Duration of utterance in seconds: 1.240
+Confidence: 0.995
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

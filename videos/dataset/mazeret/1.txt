@@ -1,0 +1,7 @@
+Spoken word: mazeret
+Starttime of utterance in seconds: 2997.220
+Endtime of utterance in seconds: 2997.800
+Duration of utterance in seconds: 0.580
+Confidence: 0.918
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

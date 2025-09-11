@@ -1,0 +1,7 @@
+Spoken word: gazetekentindeki
+Starttime of utterance in seconds: 5497.240
+Endtime of utterance in seconds: 5498.840
+Duration of utterance in seconds: 1.600
+Confidence: 0.722
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: etmedi
+Starttime of utterance in seconds: 3760.220
+Endtime of utterance in seconds: 3760.480
+Duration of utterance in seconds: 0.260
+Confidence: 0.958
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

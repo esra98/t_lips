@@ -1,0 +1,7 @@
+Spoken word: müdahaleyi
+Starttime of utterance in seconds: 2895.680
+Endtime of utterance in seconds: 2896.420
+Duration of utterance in seconds: 0.740
+Confidence: 0.743
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

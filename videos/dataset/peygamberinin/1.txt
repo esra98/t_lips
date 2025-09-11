@@ -1,0 +1,7 @@
+Spoken word: peygamberinin
+Starttime of utterance in seconds: 5728.620
+Endtime of utterance in seconds: 5729.340
+Duration of utterance in seconds: 0.720
+Confidence: 0.661
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

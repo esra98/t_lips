@@ -1,0 +1,7 @@
+Spoken word: yaraştırmak
+Starttime of utterance in seconds: 2636.380
+Endtime of utterance in seconds: 2636.960
+Duration of utterance in seconds: 0.580
+Confidence: 0.813
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

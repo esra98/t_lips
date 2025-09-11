@@ -1,0 +1,7 @@
+Spoken word: yönetenlerin
+Starttime of utterance in seconds: 4704.360
+Endtime of utterance in seconds: 4705.240
+Duration of utterance in seconds: 0.880
+Confidence: 0.967
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

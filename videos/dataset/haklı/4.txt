@@ -1,0 +1,7 @@
+Spoken word: haklı
+Starttime of utterance in seconds: 3272.820
+Endtime of utterance in seconds: 3273.500
+Duration of utterance in seconds: 0.680
+Confidence: 0.789
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

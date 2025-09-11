@@ -1,0 +1,7 @@
+Spoken word: uluslararası
+Starttime of utterance in seconds: 543.460
+Endtime of utterance in seconds: 544.300
+Duration of utterance in seconds: 0.840
+Confidence: 0.962
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

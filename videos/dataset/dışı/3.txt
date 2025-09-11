@@ -1,0 +1,7 @@
+Spoken word: dışı
+Starttime of utterance in seconds: 670.370
+Endtime of utterance in seconds: 670.720
+Duration of utterance in seconds: 0.350
+Confidence: 0.990
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: ülkelerinin
+Starttime of utterance in seconds: 2189.690
+Endtime of utterance in seconds: 2190.300
+Duration of utterance in seconds: 0.610
+Confidence: 0.980
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

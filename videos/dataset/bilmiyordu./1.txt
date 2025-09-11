@@ -1,0 +1,7 @@
+Spoken word: bilmiyordu.
+Starttime of utterance in seconds: 3306.840
+Endtime of utterance in seconds: 3307.440
+Duration of utterance in seconds: 0.600
+Confidence: 0.957
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

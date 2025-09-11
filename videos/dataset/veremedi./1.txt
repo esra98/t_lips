@@ -1,0 +1,7 @@
+Spoken word: veremedi.
+Starttime of utterance in seconds: 3733.460
+Endtime of utterance in seconds: 3734.000
+Duration of utterance in seconds: 0.540
+Confidence: 0.653
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

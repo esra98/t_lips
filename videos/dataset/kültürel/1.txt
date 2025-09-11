@@ -1,0 +1,7 @@
+Spoken word: kültürel
+Starttime of utterance in seconds: 5827.420
+Endtime of utterance in seconds: 5827.860
+Duration of utterance in seconds: 0.440
+Confidence: 0.880
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

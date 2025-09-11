@@ -1,0 +1,7 @@
+Spoken word: izinin,
+Starttime of utterance in seconds: 3282.740
+Endtime of utterance in seconds: 3283.080
+Duration of utterance in seconds: 0.340
+Confidence: 0.918
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

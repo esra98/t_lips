@@ -1,0 +1,7 @@
+Spoken word: tarihinde,
+Starttime of utterance in seconds: 501.140
+Endtime of utterance in seconds: 501.680
+Duration of utterance in seconds: 0.540
+Confidence: 0.738
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

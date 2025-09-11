@@ -1,7 +1,0 @@
-Spoken word: çağırır.
-Starttime of utterance in seconds: 12.400
-Endtime of utterance in seconds: 12.750
-Duration of utterance in seconds: 0.350
-Confidence: 0.562
-Original filename: test-3
-Corresponding number in titlelist.txt: 0000

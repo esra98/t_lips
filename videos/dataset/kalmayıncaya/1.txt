@@ -1,0 +1,7 @@
+Spoken word: kalmayıncaya
+Starttime of utterance in seconds: 3151.620
+Endtime of utterance in seconds: 3152.580
+Duration of utterance in seconds: 0.960
+Confidence: 0.811
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: özet
+Starttime of utterance in seconds: 2587.380
+Endtime of utterance in seconds: 2587.760
+Duration of utterance in seconds: 0.380
+Confidence: 0.865
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

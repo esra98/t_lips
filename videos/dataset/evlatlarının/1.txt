@@ -1,0 +1,7 @@
+Spoken word: evlatlarının
+Starttime of utterance in seconds: 4729.240
+Endtime of utterance in seconds: 4730.140
+Duration of utterance in seconds: 0.900
+Confidence: 0.960
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

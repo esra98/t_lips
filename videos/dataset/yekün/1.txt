@@ -1,0 +1,7 @@
+Spoken word: yekün
+Starttime of utterance in seconds: 1303.920
+Endtime of utterance in seconds: 1304.260
+Duration of utterance in seconds: 0.340
+Confidence: 0.597
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

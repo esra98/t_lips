@@ -1,0 +1,7 @@
+Spoken word: üyesi
+Starttime of utterance in seconds: 5587.200
+Endtime of utterance in seconds: 5588.240
+Duration of utterance in seconds: 1.040
+Confidence: 0.690
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

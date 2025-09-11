@@ -1,0 +1,7 @@
+Spoken word: oylarıyla
+Starttime of utterance in seconds: 3367.340
+Endtime of utterance in seconds: 3367.720
+Duration of utterance in seconds: 0.380
+Confidence: 0.940
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

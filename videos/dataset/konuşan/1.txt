@@ -1,0 +1,7 @@
+Spoken word: konuşan
+Starttime of utterance in seconds: 4844.280
+Endtime of utterance in seconds: 4845.240
+Duration of utterance in seconds: 0.960
+Confidence: 0.998
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

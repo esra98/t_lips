@@ -1,0 +1,7 @@
+Spoken word: aşmıştır.
+Starttime of utterance in seconds: 5315.880
+Endtime of utterance in seconds: 5316.360
+Duration of utterance in seconds: 0.480
+Confidence: 0.828
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

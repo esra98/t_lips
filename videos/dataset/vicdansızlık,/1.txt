@@ -1,0 +1,7 @@
+Spoken word: vicdansızlık,
+Starttime of utterance in seconds: 3907.120
+Endtime of utterance in seconds: 3908.120
+Duration of utterance in seconds: 1.000
+Confidence: 0.986
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

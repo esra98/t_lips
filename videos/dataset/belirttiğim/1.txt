@@ -1,0 +1,7 @@
+Spoken word: belirttiğim
+Starttime of utterance in seconds: 4595.760
+Endtime of utterance in seconds: 4596.450
+Duration of utterance in seconds: 0.690
+Confidence: 0.889
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

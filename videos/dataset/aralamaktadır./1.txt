@@ -1,0 +1,7 @@
+Spoken word: aralamaktadır.
+Starttime of utterance in seconds: 1048.640
+Endtime of utterance in seconds: 1049.380
+Duration of utterance in seconds: 0.740
+Confidence: 0.938
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: yönettiği
+Starttime of utterance in seconds: 4616.080
+Endtime of utterance in seconds: 4616.730
+Duration of utterance in seconds: 0.650
+Confidence: 0.976
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

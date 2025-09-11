@@ -1,0 +1,7 @@
+Spoken word: siz
+Starttime of utterance in seconds: 2227.740
+Endtime of utterance in seconds: 2228.210
+Duration of utterance in seconds: 0.470
+Confidence: 0.803
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

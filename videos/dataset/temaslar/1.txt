@@ -1,0 +1,7 @@
+Spoken word: temaslar
+Starttime of utterance in seconds: 1150.360
+Endtime of utterance in seconds: 1152.620
+Duration of utterance in seconds: 2.260
+Confidence: 0.865
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

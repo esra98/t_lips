@@ -1,0 +1,7 @@
+Spoken word: sürdüreceğiz.
+Starttime of utterance in seconds: 2338.680
+Endtime of utterance in seconds: 2339.380
+Duration of utterance in seconds: 0.700
+Confidence: 0.958
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

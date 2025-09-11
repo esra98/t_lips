@@ -1,0 +1,7 @@
+Spoken word: ettik.
+Starttime of utterance in seconds: 3257.820
+Endtime of utterance in seconds: 3258.080
+Duration of utterance in seconds: 0.260
+Confidence: 0.998
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

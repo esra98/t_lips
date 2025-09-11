@@ -1,7 +1,0 @@
-Spoken word: karo
-Starttime of utterance in seconds: 1.860
-Endtime of utterance in seconds: 3.180
-Duration of utterance in seconds: 1.320
-Confidence: 0.618
-Original filename: test-2
-Corresponding number in titlelist.txt: 0000

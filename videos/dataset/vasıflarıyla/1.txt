@@ -1,0 +1,7 @@
+Spoken word: vasıflarıyla
+Starttime of utterance in seconds: 5007.460
+Endtime of utterance in seconds: 5008.340
+Duration of utterance in seconds: 0.880
+Confidence: 0.855
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: içinde
+Starttime of utterance in seconds: 1372.620
+Endtime of utterance in seconds: 1372.960
+Duration of utterance in seconds: 0.340
+Confidence: 0.702
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

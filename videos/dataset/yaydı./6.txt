@@ -1,0 +1,7 @@
+Spoken word: yaydı.
+Starttime of utterance in seconds: 2424.480
+Endtime of utterance in seconds: 2424.820
+Duration of utterance in seconds: 0.340
+Confidence: 0.976
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: boyutu
+Starttime of utterance in seconds: 3986.680
+Endtime of utterance in seconds: 3987.360
+Duration of utterance in seconds: 0.680
+Confidence: 0.970
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

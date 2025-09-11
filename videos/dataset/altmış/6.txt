@@ -1,0 +1,7 @@
+Spoken word: altmış
+Starttime of utterance in seconds: 4032.020
+Endtime of utterance in seconds: 4032.260
+Duration of utterance in seconds: 0.240
+Confidence: 0.680
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

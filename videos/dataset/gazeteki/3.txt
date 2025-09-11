@@ -1,0 +1,7 @@
+Spoken word: gazeteki
+Starttime of utterance in seconds: 2012.460
+Endtime of utterance in seconds: 2013.200
+Duration of utterance in seconds: 0.740
+Confidence: 0.700
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

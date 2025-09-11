@@ -1,0 +1,7 @@
+Spoken word: buradayız
+Starttime of utterance in seconds: 3340.470
+Endtime of utterance in seconds: 3341.200
+Duration of utterance in seconds: 0.730
+Confidence: 0.994
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

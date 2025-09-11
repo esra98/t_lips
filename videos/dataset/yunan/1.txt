@@ -1,7 +1,0 @@
-Spoken word: yunan
-Starttime of utterance in seconds: 3.420
-Endtime of utterance in seconds: 4.300
-Duration of utterance in seconds: 0.880
-Confidence: 0.837
-Original filename: test-1
-Corresponding number in titlelist.txt: 0000

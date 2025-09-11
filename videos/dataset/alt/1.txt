@@ -1,0 +1,7 @@
+Spoken word: alt
+Starttime of utterance in seconds: 67.700
+Endtime of utterance in seconds: 67.980
+Duration of utterance in seconds: 0.280
+Confidence: 0.519
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

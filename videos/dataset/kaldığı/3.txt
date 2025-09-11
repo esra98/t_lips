@@ -1,0 +1,7 @@
+Spoken word: kaldığı
+Starttime of utterance in seconds: 3334.840
+Endtime of utterance in seconds: 3335.240
+Duration of utterance in seconds: 0.400
+Confidence: 0.888
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: ilk
+Starttime of utterance in seconds: 2940.240
+Endtime of utterance in seconds: 2940.500
+Duration of utterance in seconds: 0.260
+Confidence: 0.988
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

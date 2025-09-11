@@ -1,0 +1,7 @@
+Spoken word: bilmenin
+Starttime of utterance in seconds: 4293.400
+Endtime of utterance in seconds: 4294.420
+Duration of utterance in seconds: 1.020
+Confidence: 0.983
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

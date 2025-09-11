@@ -1,0 +1,7 @@
+Spoken word: kimlerdir?
+Starttime of utterance in seconds: 4572.440
+Endtime of utterance in seconds: 4573.500
+Duration of utterance in seconds: 1.060
+Confidence: 0.992
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

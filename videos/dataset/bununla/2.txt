@@ -1,0 +1,7 @@
+Spoken word: bununla
+Starttime of utterance in seconds: 3916.740
+Endtime of utterance in seconds: 3917.790
+Duration of utterance in seconds: 1.050
+Confidence: 0.754
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

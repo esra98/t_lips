@@ -1,0 +1,7 @@
+Spoken word: zorla
+Starttime of utterance in seconds: 5369.320
+Endtime of utterance in seconds: 5370.200
+Duration of utterance in seconds: 0.880
+Confidence: 0.991
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

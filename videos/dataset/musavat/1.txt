@@ -1,0 +1,7 @@
+Spoken word: musavat
+Starttime of utterance in seconds: 3830.080
+Endtime of utterance in seconds: 3830.500
+Duration of utterance in seconds: 0.420
+Confidence: 0.538
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

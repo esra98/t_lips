@@ -1,0 +1,7 @@
+Spoken word: binden
+Starttime of utterance in seconds: 1009.940
+Endtime of utterance in seconds: 1010.180
+Duration of utterance in seconds: 0.240
+Confidence: 0.789
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

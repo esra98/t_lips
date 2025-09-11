@@ -1,7 +1,0 @@
-Spoken word: çubuk
-Starttime of utterance in seconds: 8.760
-Endtime of utterance in seconds: 9.160
-Duration of utterance in seconds: 0.400
-Confidence: 0.991
-Original filename: test-1
-Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: mayıs
+Starttime of utterance in seconds: 5317.820
+Endtime of utterance in seconds: 5319.080
+Duration of utterance in seconds: 1.260
+Confidence: 0.780
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

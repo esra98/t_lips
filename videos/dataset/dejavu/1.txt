@@ -1,0 +1,7 @@
+Spoken word: dejavu
+Starttime of utterance in seconds: 2837.340
+Endtime of utterance in seconds: 2838.300
+Duration of utterance in seconds: 0.960
+Confidence: 0.454
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

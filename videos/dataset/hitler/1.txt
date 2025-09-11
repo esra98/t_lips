@@ -1,0 +1,7 @@
+Spoken word: hitler
+Starttime of utterance in seconds: 3287.520
+Endtime of utterance in seconds: 3287.740
+Duration of utterance in seconds: 0.220
+Confidence: 0.762
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: yeniden
+Starttime of utterance in seconds: 157.580
+Endtime of utterance in seconds: 158.080
+Duration of utterance in seconds: 0.500
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

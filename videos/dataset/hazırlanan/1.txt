@@ -1,0 +1,7 @@
+Spoken word: hazırlanan
+Starttime of utterance in seconds: 150.040
+Endtime of utterance in seconds: 151.380
+Duration of utterance in seconds: 1.340
+Confidence: 0.975
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

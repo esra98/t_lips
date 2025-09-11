@@ -1,0 +1,7 @@
+Spoken word: tarihin
+Starttime of utterance in seconds: 3937.520
+Endtime of utterance in seconds: 3938.520
+Duration of utterance in seconds: 1.000
+Confidence: 0.852
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

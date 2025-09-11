@@ -1,0 +1,7 @@
+Spoken word: uygulamayı
+Starttime of utterance in seconds: 3256.900
+Endtime of utterance in seconds: 3257.420
+Duration of utterance in seconds: 0.520
+Confidence: 0.984
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

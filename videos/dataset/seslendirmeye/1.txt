@@ -1,0 +1,7 @@
+Spoken word: seslendirmeye
+Starttime of utterance in seconds: 5568.200
+Endtime of utterance in seconds: 5568.940
+Duration of utterance in seconds: 0.740
+Confidence: 0.887
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

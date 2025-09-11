@@ -1,7 +1,0 @@
-Spoken word: pırları
-Starttime of utterance in seconds: 9.120
-Endtime of utterance in seconds: 9.640
-Duration of utterance in seconds: 0.520
-Confidence: 0.605
-Original filename: test-2
-Corresponding number in titlelist.txt: 0000

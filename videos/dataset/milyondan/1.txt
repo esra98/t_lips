@@ -1,0 +1,7 @@
+Spoken word: milyondan
+Starttime of utterance in seconds: 1036.220
+Endtime of utterance in seconds: 1036.760
+Duration of utterance in seconds: 0.540
+Confidence: 0.961
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

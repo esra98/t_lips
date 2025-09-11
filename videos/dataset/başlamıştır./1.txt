@@ -1,0 +1,7 @@
+Spoken word: başlamıştır.
+Starttime of utterance in seconds: 1769.040
+Endtime of utterance in seconds: 1769.980
+Duration of utterance in seconds: 0.940
+Confidence: 0.994
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: çarpı
+Starttime of utterance in seconds: 1404.040
+Endtime of utterance in seconds: 1404.610
+Duration of utterance in seconds: 0.570
+Confidence: 0.721
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

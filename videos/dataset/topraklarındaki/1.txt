@@ -1,0 +1,7 @@
+Spoken word: topraklarındaki
+Starttime of utterance in seconds: 263.960
+Endtime of utterance in seconds: 264.840
+Duration of utterance in seconds: 0.880
+Confidence: 0.954
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

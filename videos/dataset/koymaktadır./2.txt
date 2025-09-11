@@ -1,0 +1,7 @@
+Spoken word: koymaktadır.
+Starttime of utterance in seconds: 5267.330
+Endtime of utterance in seconds: 5268.080
+Duration of utterance in seconds: 0.750
+Confidence: 0.964
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

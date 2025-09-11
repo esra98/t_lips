@@ -1,0 +1,7 @@
+Spoken word: hedef
+Starttime of utterance in seconds: 5158.760
+Endtime of utterance in seconds: 5159.360
+Duration of utterance in seconds: 0.600
+Confidence: 0.982
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

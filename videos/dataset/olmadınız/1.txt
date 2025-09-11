@@ -1,0 +1,7 @@
+Spoken word: olmadınız
+Starttime of utterance in seconds: 4265.360
+Endtime of utterance in seconds: 4265.940
+Duration of utterance in seconds: 0.580
+Confidence: 0.892
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

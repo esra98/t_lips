@@ -1,0 +1,7 @@
+Spoken word: bazı
+Starttime of utterance in seconds: 5464.260
+Endtime of utterance in seconds: 5465.120
+Duration of utterance in seconds: 0.860
+Confidence: 0.973
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

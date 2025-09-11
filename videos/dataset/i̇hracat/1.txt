@@ -1,0 +1,7 @@
+Spoken word: i̇hracat
+Starttime of utterance in seconds: 3537.380
+Endtime of utterance in seconds: 3537.960
+Duration of utterance in seconds: 0.580
+Confidence: 0.721
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

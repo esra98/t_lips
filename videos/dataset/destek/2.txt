@@ -1,0 +1,7 @@
+Spoken word: destek
+Starttime of utterance in seconds: 401.800
+Endtime of utterance in seconds: 402.220
+Duration of utterance in seconds: 0.420
+Confidence: 0.999
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

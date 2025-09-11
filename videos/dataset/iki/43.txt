@@ -1,0 +1,7 @@
+Spoken word: iki
+Starttime of utterance in seconds: 5388.740
+Endtime of utterance in seconds: 5389.200
+Duration of utterance in seconds: 0.460
+Confidence: 0.959
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: anlaşmaları
+Starttime of utterance in seconds: 2962.040
+Endtime of utterance in seconds: 2962.780
+Duration of utterance in seconds: 0.740
+Confidence: 0.867
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

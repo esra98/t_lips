@@ -1,0 +1,7 @@
+Spoken word: hukukun
+Starttime of utterance in seconds: 267.760
+Endtime of utterance in seconds: 268.380
+Duration of utterance in seconds: 0.620
+Confidence: 0.964
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

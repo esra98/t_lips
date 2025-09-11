@@ -1,0 +1,7 @@
+Spoken word: kendisine
+Starttime of utterance in seconds: 1320.580
+Endtime of utterance in seconds: 1321.180
+Duration of utterance in seconds: 0.600
+Confidence: 0.793
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

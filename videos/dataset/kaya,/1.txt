@@ -1,0 +1,7 @@
+Spoken word: kaya,
+Starttime of utterance in seconds: 752.740
+Endtime of utterance in seconds: 753.020
+Duration of utterance in seconds: 0.280
+Confidence: 0.885
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

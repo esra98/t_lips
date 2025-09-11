@@ -1,0 +1,7 @@
+Spoken word: öne
+Starttime of utterance in seconds: 1881.080
+Endtime of utterance in seconds: 1881.370
+Duration of utterance in seconds: 0.290
+Confidence: 0.944
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

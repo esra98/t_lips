@@ -1,0 +1,7 @@
+Spoken word: yollardan
+Starttime of utterance in seconds: 3541.420
+Endtime of utterance in seconds: 3541.820
+Duration of utterance in seconds: 0.400
+Confidence: 0.965
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

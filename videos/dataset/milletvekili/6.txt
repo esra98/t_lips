@@ -1,0 +1,7 @@
+Spoken word: milletvekili
+Starttime of utterance in seconds: 3373.940
+Endtime of utterance in seconds: 3374.480
+Duration of utterance in seconds: 0.540
+Confidence: 0.642
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

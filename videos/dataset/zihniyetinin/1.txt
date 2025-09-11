@@ -1,0 +1,7 @@
+Spoken word: zihniyetinin
+Starttime of utterance in seconds: 1441.630
+Endtime of utterance in seconds: 1442.340
+Duration of utterance in seconds: 0.710
+Confidence: 0.992
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

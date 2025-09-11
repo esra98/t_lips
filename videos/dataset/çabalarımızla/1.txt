@@ -1,0 +1,7 @@
+Spoken word: çabalarımızla
+Starttime of utterance in seconds: 1815.640
+Endtime of utterance in seconds: 1816.400
+Duration of utterance in seconds: 0.760
+Confidence: 0.957
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

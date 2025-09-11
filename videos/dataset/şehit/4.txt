@@ -1,0 +1,7 @@
+Spoken word: şehit
+Starttime of utterance in seconds: 5753.260
+Endtime of utterance in seconds: 5754.280
+Duration of utterance in seconds: 1.020
+Confidence: 0.918
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

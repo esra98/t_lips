@@ -1,0 +1,7 @@
+Spoken word: antisemitizm
+Starttime of utterance in seconds: 5819.360
+Endtime of utterance in seconds: 5820.260
+Duration of utterance in seconds: 0.900
+Confidence: 0.566
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

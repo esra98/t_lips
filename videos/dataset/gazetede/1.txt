@@ -1,0 +1,7 @@
+Spoken word: gazetede
+Starttime of utterance in seconds: 877.140
+Endtime of utterance in seconds: 878.200
+Duration of utterance in seconds: 1.060
+Confidence: 0.540
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

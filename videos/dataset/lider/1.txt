@@ -1,0 +1,7 @@
+Spoken word: lider
+Starttime of utterance in seconds: 4088.760
+Endtime of utterance in seconds: 4089.100
+Duration of utterance in seconds: 0.340
+Confidence: 0.981
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

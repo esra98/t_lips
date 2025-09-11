@@ -1,0 +1,7 @@
+Spoken word: sivilleri
+Starttime of utterance in seconds: 5251.420
+Endtime of utterance in seconds: 5251.880
+Duration of utterance in seconds: 0.460
+Confidence: 0.774
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

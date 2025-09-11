@@ -1,0 +1,7 @@
+Spoken word: müydü?
+Starttime of utterance in seconds: 4645.400
+Endtime of utterance in seconds: 4646.160
+Duration of utterance in seconds: 0.760
+Confidence: 0.792
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

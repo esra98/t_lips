@@ -1,0 +1,7 @@
+Spoken word: netanyahu'yu
+Starttime of utterance in seconds: 4183.840
+Endtime of utterance in seconds: 4185.380
+Duration of utterance in seconds: 1.540
+Confidence: 0.911
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

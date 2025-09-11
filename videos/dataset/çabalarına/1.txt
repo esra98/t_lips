@@ -1,0 +1,7 @@
+Spoken word: çabalarına
+Starttime of utterance in seconds: 2545.840
+Endtime of utterance in seconds: 2546.800
+Duration of utterance in seconds: 0.960
+Confidence: 0.981
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

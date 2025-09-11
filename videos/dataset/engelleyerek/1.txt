@@ -1,0 +1,7 @@
+Spoken word: engelleyerek
+Starttime of utterance in seconds: 1197.880
+Endtime of utterance in seconds: 1198.500
+Duration of utterance in seconds: 0.620
+Confidence: 0.897
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

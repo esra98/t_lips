@@ -1,0 +1,7 @@
+Spoken word: katıldık.
+Starttime of utterance in seconds: 1952.600
+Endtime of utterance in seconds: 1953.060
+Duration of utterance in seconds: 0.460
+Confidence: 0.958
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

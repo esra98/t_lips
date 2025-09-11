@@ -1,0 +1,7 @@
+Spoken word: hatırlarsanız
+Starttime of utterance in seconds: 3028.720
+Endtime of utterance in seconds: 3029.280
+Duration of utterance in seconds: 0.560
+Confidence: 0.356
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

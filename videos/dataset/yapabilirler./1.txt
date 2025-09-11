@@ -1,0 +1,7 @@
+Spoken word: yapabilirler.
+Starttime of utterance in seconds: 3754.380
+Endtime of utterance in seconds: 3754.980
+Duration of utterance in seconds: 0.600
+Confidence: 0.977
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

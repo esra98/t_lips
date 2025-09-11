@@ -1,0 +1,7 @@
+Spoken word: bombalara
+Starttime of utterance in seconds: 4552.940
+Endtime of utterance in seconds: 4553.560
+Duration of utterance in seconds: 0.620
+Confidence: 0.885
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

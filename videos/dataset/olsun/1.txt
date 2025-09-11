@@ -1,0 +1,7 @@
+Spoken word: olsun
+Starttime of utterance in seconds: 1126.940
+Endtime of utterance in seconds: 1127.160
+Duration of utterance in seconds: 0.220
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

@@ -1,0 +1,7 @@
+Spoken word: meselenin
+Starttime of utterance in seconds: 4321.620
+Endtime of utterance in seconds: 4322.940
+Duration of utterance in seconds: 1.320
+Confidence: 0.778
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

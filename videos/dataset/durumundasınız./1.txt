@@ -1,0 +1,7 @@
+Spoken word: durumundasınız.
+Starttime of utterance in seconds: 2957.800
+Endtime of utterance in seconds: 2958.420
+Duration of utterance in seconds: 0.620
+Confidence: 0.973
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000

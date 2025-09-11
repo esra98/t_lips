@@ -1,0 +1,7 @@
+Spoken word: mevcut
+Starttime of utterance in seconds: 1086.720
+Endtime of utterance in seconds: 1087.340
+Duration of utterance in seconds: 0.620
+Confidence: 0.851
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000
