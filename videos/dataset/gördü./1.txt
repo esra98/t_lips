@@ -1,7 +1,0 @@
-Spoken word: gördü.
-Starttime of utterance in seconds: 3464.980
-Endtime of utterance in seconds: 3465.420
-Duration of utterance in seconds: 0.440
-Confidence: 0.935
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

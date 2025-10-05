@@ -1,7 +1,0 @@
-Spoken word: sorunlara
-Starttime of utterance in seconds: 2085.120
-Endtime of utterance in seconds: 2085.660
-Duration of utterance in seconds: 0.540
-Confidence: 0.978
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

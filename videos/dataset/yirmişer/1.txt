@@ -1,7 +1,0 @@
-Spoken word: yirmişer
-Starttime of utterance in seconds: 772.940
-Endtime of utterance in seconds: 773.380
-Duration of utterance in seconds: 0.440
-Confidence: 0.585
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

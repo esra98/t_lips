@@ -1,7 +1,0 @@
-Spoken word: yapabilecek
-Starttime of utterance in seconds: 4699.660
-Endtime of utterance in seconds: 4700.400
-Duration of utterance in seconds: 0.740
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

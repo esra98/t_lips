@@ -1,7 +1,0 @@
-Spoken word: iradenin
-Starttime of utterance in seconds: 5027.340
-Endtime of utterance in seconds: 5028.720
-Duration of utterance in seconds: 1.380
-Confidence: 0.818
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

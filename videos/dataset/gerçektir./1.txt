@@ -1,7 +1,0 @@
-Spoken word: gerçektir.
-Starttime of utterance in seconds: 5175.720
-Endtime of utterance in seconds: 5176.400
-Duration of utterance in seconds: 0.680
-Confidence: 0.972
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

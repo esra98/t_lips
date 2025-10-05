@@ -1,7 +1,0 @@
-Spoken word: deklarasyonunu
-Starttime of utterance in seconds: 3626.640
-Endtime of utterance in seconds: 3627.420
-Duration of utterance in seconds: 0.780
-Confidence: 0.849
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

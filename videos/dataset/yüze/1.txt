@@ -1,7 +1,0 @@
-Spoken word: yüze
-Starttime of utterance in seconds: 5589.020
-Endtime of utterance in seconds: 5589.200
-Duration of utterance in seconds: 0.180
-Confidence: 0.830
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

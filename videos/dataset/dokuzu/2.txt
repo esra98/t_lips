@@ -1,7 +1,0 @@
-Spoken word: dokuzu
-Starttime of utterance in seconds: 5482.830
-Endtime of utterance in seconds: 5483.260
-Duration of utterance in seconds: 0.430
-Confidence: 0.924
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

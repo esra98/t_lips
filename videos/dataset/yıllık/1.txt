@@ -1,7 +1,0 @@
-Spoken word: yıllık
-Starttime of utterance in seconds: 1606.020
-Endtime of utterance in seconds: 1606.360
-Duration of utterance in seconds: 0.340
-Confidence: 0.924
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

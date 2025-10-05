@@ -1,7 +1,0 @@
-Spoken word: çok
-Starttime of utterance in seconds: 4998.600
-Endtime of utterance in seconds: 4998.900
-Duration of utterance in seconds: 0.300
-Confidence: 0.984
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

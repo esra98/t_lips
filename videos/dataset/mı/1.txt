@@ -1,7 +1,0 @@
-Spoken word: mı
-Starttime of utterance in seconds: 3697.760
-Endtime of utterance in seconds: 3697.880
-Duration of utterance in seconds: 0.120
-Confidence: 0.668
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

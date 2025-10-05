@@ -1,7 +1,0 @@
-Spoken word: perspektifinin
-Starttime of utterance in seconds: 571.560
-Endtime of utterance in seconds: 572.780
-Duration of utterance in seconds: 1.220
-Confidence: 0.905
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

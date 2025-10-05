@@ -1,7 +1,0 @@
-Spoken word: yardımı,
-Starttime of utterance in seconds: 3019.840
-Endtime of utterance in seconds: 3020.360
-Duration of utterance in seconds: 0.520
-Confidence: 0.691
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

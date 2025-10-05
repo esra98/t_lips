@@ -1,7 +1,0 @@
-Spoken word: tanıma
-Starttime of utterance in seconds: 323.380
-Endtime of utterance in seconds: 323.720
-Duration of utterance in seconds: 0.340
-Confidence: 0.964
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

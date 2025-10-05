@@ -1,7 +1,0 @@
-Spoken word: aralık
-Starttime of utterance in seconds: 3500.780
-Endtime of utterance in seconds: 3501.100
-Duration of utterance in seconds: 0.320
-Confidence: 0.951
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

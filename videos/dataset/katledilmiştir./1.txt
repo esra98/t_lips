@@ -1,7 +1,0 @@
-Spoken word: katledilmiştir.
-Starttime of utterance in seconds: 65.300
-Endtime of utterance in seconds: 66.420
-Duration of utterance in seconds: 1.120
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

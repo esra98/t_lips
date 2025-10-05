@@ -1,7 +1,0 @@
-Spoken word: noktalarını
-Starttime of utterance in seconds: 5157.900
-Endtime of utterance in seconds: 5158.620
-Duration of utterance in seconds: 0.720
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

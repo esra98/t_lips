@@ -1,7 +1,0 @@
-Spoken word: geldiğini
-Starttime of utterance in seconds: 5472.720
-Endtime of utterance in seconds: 5473.280
-Duration of utterance in seconds: 0.560
-Confidence: 0.971
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

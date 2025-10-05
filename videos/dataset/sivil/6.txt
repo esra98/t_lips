@@ -1,7 +1,0 @@
-Spoken word: sivil
-Starttime of utterance in seconds: 2884.840
-Endtime of utterance in seconds: 2885.120
-Duration of utterance in seconds: 0.280
-Confidence: 0.570
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

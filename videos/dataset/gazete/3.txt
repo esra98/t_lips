@@ -1,7 +1,0 @@
-Spoken word: gazete
-Starttime of utterance in seconds: 919.760
-Endtime of utterance in seconds: 920.820
-Duration of utterance in seconds: 1.060
-Confidence: 0.671
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

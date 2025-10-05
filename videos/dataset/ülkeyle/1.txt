@@ -1,7 +1,0 @@
-Spoken word: ülkeyle
-Starttime of utterance in seconds: 1686.680
-Endtime of utterance in seconds: 1687.120
-Duration of utterance in seconds: 0.440
-Confidence: 0.954
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

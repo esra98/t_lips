@@ -1,7 +1,0 @@
-Spoken word: sahası
-Starttime of utterance in seconds: 4371.080
-Endtime of utterance in seconds: 4371.700
-Duration of utterance in seconds: 0.620
-Confidence: 0.587
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

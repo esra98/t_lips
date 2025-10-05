@@ -1,7 +1,0 @@
-Spoken word: itibaren
-Starttime of utterance in seconds: 3949.580
-Endtime of utterance in seconds: 3950.200
-Duration of utterance in seconds: 0.620
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

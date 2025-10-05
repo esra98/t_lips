@@ -1,7 +1,0 @@
-Spoken word: acıları
-Starttime of utterance in seconds: 4012.560
-Endtime of utterance in seconds: 4013.080
-Duration of utterance in seconds: 0.520
-Confidence: 0.985
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

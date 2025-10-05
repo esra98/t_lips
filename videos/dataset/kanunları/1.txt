@@ -1,7 +1,0 @@
-Spoken word: kanunları
-Starttime of utterance in seconds: 253.650
-Endtime of utterance in seconds: 254.380
-Duration of utterance in seconds: 0.730
-Confidence: 0.988
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

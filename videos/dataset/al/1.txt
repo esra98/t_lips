@@ -1,7 +1,0 @@
-Spoken word: al
-Starttime of utterance in seconds: 1884.860
-Endtime of utterance in seconds: 1885.000
-Duration of utterance in seconds: 0.140
-Confidence: 0.155
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

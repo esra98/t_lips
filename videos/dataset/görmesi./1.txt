@@ -1,7 +1,0 @@
-Spoken word: görmesi.
-Starttime of utterance in seconds: 1489.400
-Endtime of utterance in seconds: 1489.860
-Duration of utterance in seconds: 0.460
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

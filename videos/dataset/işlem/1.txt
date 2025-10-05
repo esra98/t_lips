@@ -1,7 +1,0 @@
-Spoken word: işlem
-Starttime of utterance in seconds: 3754.160
-Endtime of utterance in seconds: 3754.380
-Duration of utterance in seconds: 0.220
-Confidence: 0.844
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

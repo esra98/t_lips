@@ -1,7 +1,0 @@
-Spoken word: telin
-Starttime of utterance in seconds: 302.580
-Endtime of utterance in seconds: 303.340
-Duration of utterance in seconds: 0.760
-Confidence: 0.723
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

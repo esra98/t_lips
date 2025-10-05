@@ -1,7 +1,0 @@
-Spoken word: imzaladık.
-Starttime of utterance in seconds: 1983.480
-Endtime of utterance in seconds: 1984.020
-Duration of utterance in seconds: 0.540
-Confidence: 0.951
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: ajansının
-Starttime of utterance in seconds: 243.440
-Endtime of utterance in seconds: 244.060
-Duration of utterance in seconds: 0.620
-Confidence: 0.935
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

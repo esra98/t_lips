@@ -1,7 +1,0 @@
-Spoken word: ülkesine
-Starttime of utterance in seconds: 3595.000
-Endtime of utterance in seconds: 3595.460
-Duration of utterance in seconds: 0.460
-Confidence: 0.993
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

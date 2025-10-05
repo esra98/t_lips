@@ -1,7 +1,0 @@
-Spoken word: gemide
-Starttime of utterance in seconds: 2865.600
-Endtime of utterance in seconds: 2865.970
-Duration of utterance in seconds: 0.370
-Confidence: 0.970
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

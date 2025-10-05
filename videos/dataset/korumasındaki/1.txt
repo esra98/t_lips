@@ -1,7 +1,0 @@
-Spoken word: korumasındaki
-Starttime of utterance in seconds: 1254.740
-Endtime of utterance in seconds: 1255.340
-Duration of utterance in seconds: 0.600
-Confidence: 0.973
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

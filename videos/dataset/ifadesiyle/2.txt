@@ -1,7 +1,0 @@
-Spoken word: ifadesiyle
-Starttime of utterance in seconds: 5127.940
-Endtime of utterance in seconds: 5128.660
-Duration of utterance in seconds: 0.720
-Confidence: 0.988
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: kongresinde
-Starttime of utterance in seconds: 375.480
-Endtime of utterance in seconds: 376.120
-Duration of utterance in seconds: 0.640
-Confidence: 0.802
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

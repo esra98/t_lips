@@ -1,7 +1,0 @@
-Spoken word: acı
-Starttime of utterance in seconds: 1757.460
-Endtime of utterance in seconds: 1757.700
-Duration of utterance in seconds: 0.240
-Confidence: 0.738
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

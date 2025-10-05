@@ -1,7 +1,0 @@
-Spoken word: sağlamması
-Starttime of utterance in seconds: 180.160
-Endtime of utterance in seconds: 180.760
-Duration of utterance in seconds: 0.600
-Confidence: 0.638
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

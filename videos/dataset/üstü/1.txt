@@ -1,7 +1,0 @@
-Spoken word: üstü
-Starttime of utterance in seconds: 834.320
-Endtime of utterance in seconds: 834.620
-Duration of utterance in seconds: 0.300
-Confidence: 0.181
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

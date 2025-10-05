@@ -1,7 +1,0 @@
-Spoken word: yardımlar
-Starttime of utterance in seconds: 1567.960
-Endtime of utterance in seconds: 1568.360
-Duration of utterance in seconds: 0.400
-Confidence: 0.901
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

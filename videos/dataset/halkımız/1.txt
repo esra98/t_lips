@@ -1,7 +1,0 @@
-Spoken word: halkımız
-Starttime of utterance in seconds: 3452.720
-Endtime of utterance in seconds: 3453.520
-Duration of utterance in seconds: 0.800
-Confidence: 0.961
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

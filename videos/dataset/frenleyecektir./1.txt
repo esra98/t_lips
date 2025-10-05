@@ -1,7 +1,0 @@
-Spoken word: frenleyecektir.
-Starttime of utterance in seconds: 1120.020
-Endtime of utterance in seconds: 1121.100
-Duration of utterance in seconds: 1.080
-Confidence: 0.902
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: dinimiz
-Starttime of utterance in seconds: 5727.100
-Endtime of utterance in seconds: 5727.860
-Duration of utterance in seconds: 0.760
-Confidence: 0.766
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

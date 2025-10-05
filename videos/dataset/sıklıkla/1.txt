@@ -1,7 +1,0 @@
-Spoken word: sıklıkla
-Starttime of utterance in seconds: 3154.540
-Endtime of utterance in seconds: 3154.940
-Duration of utterance in seconds: 0.400
-Confidence: 0.928
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: başkan,
-Starttime of utterance in seconds: 3849.340
-Endtime of utterance in seconds: 3849.720
-Duration of utterance in seconds: 0.380
-Confidence: 0.886
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

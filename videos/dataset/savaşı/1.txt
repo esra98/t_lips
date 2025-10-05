@@ -1,7 +1,0 @@
-Spoken word: savaşı
-Starttime of utterance in seconds: 1096.960
-Endtime of utterance in seconds: 1097.400
-Duration of utterance in seconds: 0.440
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

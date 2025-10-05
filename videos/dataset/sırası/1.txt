@@ -1,7 +1,0 @@
-Spoken word: sırası
-Starttime of utterance in seconds: 3825.540
-Endtime of utterance in seconds: 3826.040
-Duration of utterance in seconds: 0.500
-Confidence: 0.987
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

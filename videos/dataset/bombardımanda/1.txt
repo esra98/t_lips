@@ -1,7 +1,0 @@
-Spoken word: bombardımanda
-Starttime of utterance in seconds: 2460.340
-Endtime of utterance in seconds: 2461.380
-Duration of utterance in seconds: 1.040
-Confidence: 0.629
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

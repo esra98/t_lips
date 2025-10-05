@@ -1,7 +1,0 @@
-Spoken word: açıkça
-Starttime of utterance in seconds: 5399.060
-Endtime of utterance in seconds: 5399.940
-Duration of utterance in seconds: 0.880
-Confidence: 0.979
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

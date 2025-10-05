@@ -1,7 +1,0 @@
-Spoken word: iç
-Starttime of utterance in seconds: 4469.260
-Endtime of utterance in seconds: 4469.480
-Duration of utterance in seconds: 0.220
-Confidence: 0.533
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

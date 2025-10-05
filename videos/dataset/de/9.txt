@@ -1,7 +1,0 @@
-Spoken word: de
-Starttime of utterance in seconds: 1145.520
-Endtime of utterance in seconds: 1145.680
-Duration of utterance in seconds: 0.160
-Confidence: 0.977
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

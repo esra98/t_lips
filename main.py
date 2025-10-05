@@ -31,12 +31,16 @@ def process_videos(csv_file, log_file):
         print(f"Processing {video_path.name}...")
 
         try:
-            generate_timestamp_json(video_path)
+            # generate_timestamp_json(video_path)
 
             crop_clips(
                 video_path=video_path,
                 json_path=json_path,
-                output_root="videos/dataset",
+                output_roots = {
+                    "standart": Path("videos/dataset/standart"),
+                    "standart_lip": Path("videos/dataset/standart_lip"),
+                    "lip": Path("videos/dataset/lip")
+                },
                 original_filename=video_path.stem,
                 titlelist_number="0000"  # later replace with your own index
             )

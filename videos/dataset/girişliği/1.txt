@@ -1,7 +1,0 @@
-Spoken word: girişliği
-Starttime of utterance in seconds: 3353.800
-Endtime of utterance in seconds: 3354.320
-Duration of utterance in seconds: 0.520
-Confidence: 0.812
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

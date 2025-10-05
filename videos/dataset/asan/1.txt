@@ -1,7 +1,0 @@
-Spoken word: asan
-Starttime of utterance in seconds: 4610.760
-Endtime of utterance in seconds: 4611.280
-Duration of utterance in seconds: 0.520
-Confidence: 0.628
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

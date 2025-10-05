@@ -1,7 +1,0 @@
-Spoken word: olduğunu
-Starttime of utterance in seconds: 4688.240
-Endtime of utterance in seconds: 4688.620
-Duration of utterance in seconds: 0.380
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

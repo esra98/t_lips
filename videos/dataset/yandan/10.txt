@@ -1,7 +1,0 @@
-Spoken word: yandan
-Starttime of utterance in seconds: 5725.680
-Endtime of utterance in seconds: 5725.940
-Duration of utterance in seconds: 0.260
-Confidence: 0.946
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

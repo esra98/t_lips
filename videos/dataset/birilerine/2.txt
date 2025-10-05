@@ -1,7 +1,0 @@
-Spoken word: birilerine
-Starttime of utterance in seconds: 3220.820
-Endtime of utterance in seconds: 3221.190
-Duration of utterance in seconds: 0.370
-Confidence: 0.835
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

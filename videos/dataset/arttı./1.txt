@@ -1,7 +1,0 @@
-Spoken word: arttı.
-Starttime of utterance in seconds: 3988.880
-Endtime of utterance in seconds: 3989.340
-Duration of utterance in seconds: 0.460
-Confidence: 0.944
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

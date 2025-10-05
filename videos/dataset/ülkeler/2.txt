@@ -1,7 +1,0 @@
-Spoken word: ülkeler
-Starttime of utterance in seconds: 1575.940
-Endtime of utterance in seconds: 1577.140
-Duration of utterance in seconds: 1.200
-Confidence: 0.991
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

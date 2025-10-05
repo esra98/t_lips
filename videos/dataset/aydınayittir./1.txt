@@ -1,7 +1,0 @@
-Spoken word: aydınayittir.
-Starttime of utterance in seconds: 5059.260
-Endtime of utterance in seconds: 5059.920
-Duration of utterance in seconds: 0.660
-Confidence: 0.669
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

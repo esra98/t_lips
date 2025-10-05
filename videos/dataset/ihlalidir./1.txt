@@ -1,7 +1,0 @@
-Spoken word: ihlalidir.
-Starttime of utterance in seconds: 269.340
-Endtime of utterance in seconds: 270.060
-Duration of utterance in seconds: 0.720
-Confidence: 0.938
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

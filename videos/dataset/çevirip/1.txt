@@ -1,7 +1,0 @@
-Spoken word: çevirip
-Starttime of utterance in seconds: 4582.640
-Endtime of utterance in seconds: 4583.520
-Duration of utterance in seconds: 0.880
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

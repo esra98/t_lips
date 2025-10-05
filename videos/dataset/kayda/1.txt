@@ -1,7 +1,0 @@
-Spoken word: kayda
-Starttime of utterance in seconds: 2273.200
-Endtime of utterance in seconds: 2273.760
-Duration of utterance in seconds: 0.560
-Confidence: 0.926
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: kemiğe,
-Starttime of utterance in seconds: 3381.000
-Endtime of utterance in seconds: 3381.620
-Duration of utterance in seconds: 0.620
-Confidence: 0.915
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

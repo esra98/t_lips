@@ -1,7 +1,0 @@
-Spoken word: toplantımızda
-Starttime of utterance in seconds: 5080.940
-Endtime of utterance in seconds: 5081.760
-Duration of utterance in seconds: 0.820
-Confidence: 0.963
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

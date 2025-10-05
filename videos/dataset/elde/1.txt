@@ -1,7 +1,0 @@
-Spoken word: elde
-Starttime of utterance in seconds: 4693.160
-Endtime of utterance in seconds: 4693.480
-Duration of utterance in seconds: 0.320
-Confidence: 0.989
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

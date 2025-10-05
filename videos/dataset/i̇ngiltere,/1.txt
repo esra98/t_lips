@@ -1,7 +1,0 @@
-Spoken word: i̇ngiltere,
-Starttime of utterance in seconds: 1781.160
-Endtime of utterance in seconds: 1781.720
-Duration of utterance in seconds: 0.560
-Confidence: 0.937
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

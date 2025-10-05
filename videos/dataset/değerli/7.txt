@@ -1,7 +1,0 @@
-Spoken word: değerli
-Starttime of utterance in seconds: 1309.600
-Endtime of utterance in seconds: 1311.420
-Duration of utterance in seconds: 1.820
-Confidence: 0.950
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

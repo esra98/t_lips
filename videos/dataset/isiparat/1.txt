@@ -1,7 +1,0 @@
-Spoken word: isiparat
-Starttime of utterance in seconds: 1738.360
-Endtime of utterance in seconds: 1738.880
-Duration of utterance in seconds: 0.520
-Confidence: 0.522
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

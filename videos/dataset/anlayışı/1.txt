@@ -1,7 +1,0 @@
-Spoken word: anlayışı
-Starttime of utterance in seconds: 4131.920
-Endtime of utterance in seconds: 4132.640
-Duration of utterance in seconds: 0.720
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

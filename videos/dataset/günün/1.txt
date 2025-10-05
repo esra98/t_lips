@@ -1,7 +1,0 @@
-Spoken word: günün
-Starttime of utterance in seconds: 2609.440
-Endtime of utterance in seconds: 2609.820
-Duration of utterance in seconds: 0.380
-Confidence: 0.969
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

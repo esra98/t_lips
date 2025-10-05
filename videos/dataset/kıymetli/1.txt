@@ -1,7 +1,0 @@
-Spoken word: kıymetli
-Starttime of utterance in seconds: 394.440
-Endtime of utterance in seconds: 395.480
-Duration of utterance in seconds: 1.040
-Confidence: 0.965
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

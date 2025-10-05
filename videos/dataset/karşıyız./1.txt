@@ -1,7 +1,0 @@
-Spoken word: karşıyız.
-Starttime of utterance in seconds: 1130.040
-Endtime of utterance in seconds: 1130.640
-Duration of utterance in seconds: 0.600
-Confidence: 0.906
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: ismiyle
-Starttime of utterance in seconds: 1601.040
-Endtime of utterance in seconds: 1601.660
-Duration of utterance in seconds: 0.620
-Confidence: 0.747
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

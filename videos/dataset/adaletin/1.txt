@@ -1,7 +1,0 @@
-Spoken word: adaletin
-Starttime of utterance in seconds: 2327.800
-Endtime of utterance in seconds: 2328.500
-Duration of utterance in seconds: 0.700
-Confidence: 0.822
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

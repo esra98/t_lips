@@ -1,7 +1,0 @@
-Spoken word: halinde
-Starttime of utterance in seconds: 5620.060
-Endtime of utterance in seconds: 5620.400
-Duration of utterance in seconds: 0.340
-Confidence: 0.983
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

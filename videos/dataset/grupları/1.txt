@@ -1,7 +1,0 @@
-Spoken word: grupları
-Starttime of utterance in seconds: 795.900
-Endtime of utterance in seconds: 796.390
-Duration of utterance in seconds: 0.490
-Confidence: 0.897
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

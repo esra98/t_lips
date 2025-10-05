@@ -1,7 +1,0 @@
-Spoken word: diye
-Starttime of utterance in seconds: 2516.220
-Endtime of utterance in seconds: 2516.420
-Duration of utterance in seconds: 0.200
-Confidence: 0.967
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

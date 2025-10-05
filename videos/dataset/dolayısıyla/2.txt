@@ -1,7 +1,0 @@
-Spoken word: dolayısıyla
-Starttime of utterance in seconds: 2633.140
-Endtime of utterance in seconds: 2634.020
-Duration of utterance in seconds: 0.880
-Confidence: 0.993
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

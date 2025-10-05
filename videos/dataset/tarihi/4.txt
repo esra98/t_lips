@@ -1,7 +1,0 @@
-Spoken word: tarihi
-Starttime of utterance in seconds: 1651.120
-Endtime of utterance in seconds: 1651.520
-Duration of utterance in seconds: 0.400
-Confidence: 0.981
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

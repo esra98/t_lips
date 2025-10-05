@@ -1,7 +1,0 @@
-Spoken word: emridir
-Starttime of utterance in seconds: 5865.760
-Endtime of utterance in seconds: 5866.300
-Duration of utterance in seconds: 0.540
-Confidence: 0.989
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: rant
-Starttime of utterance in seconds: 4474.160
-Endtime of utterance in seconds: 4474.560
-Duration of utterance in seconds: 0.400
-Confidence: 0.403
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

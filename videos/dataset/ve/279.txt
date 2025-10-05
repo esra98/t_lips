@@ -1,7 +1,0 @@
-Spoken word: ve
-Starttime of utterance in seconds: 5219.000
-Endtime of utterance in seconds: 5219.200
-Duration of utterance in seconds: 0.200
-Confidence: 0.998
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: menzilinden
-Starttime of utterance in seconds: 4380.540
-Endtime of utterance in seconds: 4381.280
-Duration of utterance in seconds: 0.740
-Confidence: 0.834
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

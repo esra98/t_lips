@@ -1,7 +1,0 @@
-Spoken word: arkadaşlarım.
-Starttime of utterance in seconds: 4401.720
-Endtime of utterance in seconds: 4402.420
-Duration of utterance in seconds: 0.700
-Confidence: 0.915
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

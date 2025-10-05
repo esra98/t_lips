@@ -1,7 +1,0 @@
-Spoken word: toprak
-Starttime of utterance in seconds: 1394.860
-Endtime of utterance in seconds: 1395.240
-Duration of utterance in seconds: 0.380
-Confidence: 0.719
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

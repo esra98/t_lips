@@ -1,7 +1,0 @@
-Spoken word: attığımız
-Starttime of utterance in seconds: 1503.360
-Endtime of utterance in seconds: 1504.220
-Duration of utterance in seconds: 0.860
-Confidence: 0.653
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

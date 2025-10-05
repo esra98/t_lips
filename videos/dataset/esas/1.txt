@@ -1,7 +1,0 @@
-Spoken word: esas
-Starttime of utterance in seconds: 1175.020
-Endtime of utterance in seconds: 1175.320
-Duration of utterance in seconds: 0.300
-Confidence: 0.526
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

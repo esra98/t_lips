@@ -1,7 +1,0 @@
-Spoken word: ki
-Starttime of utterance in seconds: 3104.920
-Endtime of utterance in seconds: 3105.180
-Duration of utterance in seconds: 0.260
-Confidence: 0.979
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

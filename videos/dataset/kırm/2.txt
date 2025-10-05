@@ -1,7 +1,0 @@
-Spoken word: kırm
-Starttime of utterance in seconds: 3299.100
-Endtime of utterance in seconds: 3299.340
-Duration of utterance in seconds: 0.240
-Confidence: 0.875
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

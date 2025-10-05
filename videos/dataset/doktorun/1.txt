@@ -1,7 +1,0 @@
-Spoken word: doktorun
-Starttime of utterance in seconds: 2505.240
-Endtime of utterance in seconds: 2505.500
-Duration of utterance in seconds: 0.260
-Confidence: 0.962
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: kurtarmamanın
-Starttime of utterance in seconds: 4442.220
-Endtime of utterance in seconds: 4443.760
-Duration of utterance in seconds: 1.540
-Confidence: 0.897
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

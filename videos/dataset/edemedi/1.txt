@@ -1,7 +1,0 @@
-Spoken word: edemedi
-Starttime of utterance in seconds: 2684.240
-Endtime of utterance in seconds: 2684.700
-Duration of utterance in seconds: 0.460
-Confidence: 0.987
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

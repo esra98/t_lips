@@ -1,7 +1,0 @@
-Spoken word: hemen.
-Starttime of utterance in seconds: 1480.040
-Endtime of utterance in seconds: 1480.340
-Duration of utterance in seconds: 0.300
-Confidence: 0.534
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

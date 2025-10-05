@@ -1,7 +1,0 @@
-Spoken word: sıçlamış
-Starttime of utterance in seconds: 934.360
-Endtime of utterance in seconds: 934.940
-Duration of utterance in seconds: 0.580
-Confidence: 0.757
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

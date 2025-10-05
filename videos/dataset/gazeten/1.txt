@@ -1,7 +1,0 @@
-Spoken word: gazeten
-Starttime of utterance in seconds: 1127.160
-Endtime of utterance in seconds: 1128.100
-Duration of utterance in seconds: 0.940
-Confidence: 0.737
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

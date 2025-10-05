@@ -1,7 +1,0 @@
-Spoken word: edilmesine
-Starttime of utterance in seconds: 1406.000
-Endtime of utterance in seconds: 1406.620
-Duration of utterance in seconds: 0.620
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

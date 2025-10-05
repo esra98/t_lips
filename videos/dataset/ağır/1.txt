@@ -1,7 +1,0 @@
-Spoken word: ağır
-Starttime of utterance in seconds: 98.680
-Endtime of utterance in seconds: 99.050
-Duration of utterance in seconds: 0.370
-Confidence: 0.981
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

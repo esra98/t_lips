@@ -1,7 +1,0 @@
-Spoken word: sevdiği
-Starttime of utterance in seconds: 3089.120
-Endtime of utterance in seconds: 3089.660
-Duration of utterance in seconds: 0.540
-Confidence: 0.967
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

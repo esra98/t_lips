@@ -1,7 +1,0 @@
-Spoken word: halledilmeden
-Starttime of utterance in seconds: 2155.970
-Endtime of utterance in seconds: 2156.680
-Duration of utterance in seconds: 0.710
-Confidence: 0.909
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: aksi
-Starttime of utterance in seconds: 353.160
-Endtime of utterance in seconds: 353.600
-Duration of utterance in seconds: 0.440
-Confidence: 0.962
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

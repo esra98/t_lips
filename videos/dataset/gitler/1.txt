@@ -1,7 +1,0 @@
-Spoken word: gitler
-Starttime of utterance in seconds: 3725.340
-Endtime of utterance in seconds: 3725.600
-Duration of utterance in seconds: 0.260
-Confidence: 0.526
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

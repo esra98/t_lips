@@ -1,7 +1,0 @@
-Spoken word: kararı
-Starttime of utterance in seconds: 3192.300
-Endtime of utterance in seconds: 3192.920
-Duration of utterance in seconds: 0.620
-Confidence: 0.955
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: alımadıysa
-Starttime of utterance in seconds: 3741.000
-Endtime of utterance in seconds: 3741.880
-Duration of utterance in seconds: 0.880
-Confidence: 0.859
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

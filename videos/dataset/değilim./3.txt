@@ -1,7 +1,0 @@
-Spoken word: değilim.
-Starttime of utterance in seconds: 4047.720
-Endtime of utterance in seconds: 4048.180
-Duration of utterance in seconds: 0.460
-Confidence: 0.989
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

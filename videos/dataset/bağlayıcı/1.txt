@@ -1,7 +1,0 @@
-Spoken word: bağlayıcı
-Starttime of utterance in seconds: 1066.860
-Endtime of utterance in seconds: 1067.440
-Duration of utterance in seconds: 0.580
-Confidence: 0.928
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

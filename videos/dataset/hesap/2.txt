@@ -1,7 +1,0 @@
-Spoken word: hesap
-Starttime of utterance in seconds: 3344.740
-Endtime of utterance in seconds: 3345.100
-Duration of utterance in seconds: 0.360
-Confidence: 0.977
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

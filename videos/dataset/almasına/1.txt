@@ -1,7 +1,0 @@
-Spoken word: almasına
-Starttime of utterance in seconds: 1291.060
-Endtime of utterance in seconds: 1291.590
-Duration of utterance in seconds: 0.530
-Confidence: 0.939
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

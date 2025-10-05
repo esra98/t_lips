@@ -1,7 +1,0 @@
-Spoken word: sonra
-Starttime of utterance in seconds: 3200.020
-Endtime of utterance in seconds: 3200.180
-Duration of utterance in seconds: 0.160
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

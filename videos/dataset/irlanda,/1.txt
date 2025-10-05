@@ -1,7 +1,0 @@
-Spoken word: irlanda,
-Starttime of utterance in seconds: 5556.420
-Endtime of utterance in seconds: 5557.040
-Duration of utterance in seconds: 0.620
-Confidence: 0.915
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

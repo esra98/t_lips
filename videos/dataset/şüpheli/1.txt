@@ -1,7 +1,0 @@
-Spoken word: şüpheli
-Starttime of utterance in seconds: 4674.140
-Endtime of utterance in seconds: 4674.660
-Duration of utterance in seconds: 0.520
-Confidence: 0.991
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: çağrısın
-Starttime of utterance in seconds: 3624.600
-Endtime of utterance in seconds: 3625.180
-Duration of utterance in seconds: 0.580
-Confidence: 0.843
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: noktada
-Starttime of utterance in seconds: 1173.980
-Endtime of utterance in seconds: 1174.420
-Duration of utterance in seconds: 0.440
-Confidence: 0.971
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

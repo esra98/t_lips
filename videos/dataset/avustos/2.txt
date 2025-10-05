@@ -1,7 +1,0 @@
-Spoken word: avustos
-Starttime of utterance in seconds: 5494.950
-Endtime of utterance in seconds: 5495.520
-Duration of utterance in seconds: 0.570
-Confidence: 0.727
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

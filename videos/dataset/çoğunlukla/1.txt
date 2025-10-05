@@ -1,7 +1,0 @@
-Spoken word: çoğunlukla
-Starttime of utterance in seconds: 5384.420
-Endtime of utterance in seconds: 5385.640
-Duration of utterance in seconds: 1.220
-Confidence: 0.939
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

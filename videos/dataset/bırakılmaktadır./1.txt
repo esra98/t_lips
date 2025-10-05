@@ -1,7 +1,0 @@
-Spoken word: bırakılmaktadır.
-Starttime of utterance in seconds: 5386.150
-Endtime of utterance in seconds: 5386.940
-Duration of utterance in seconds: 0.790
-Confidence: 0.964
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

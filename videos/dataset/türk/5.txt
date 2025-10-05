@@ -1,7 +1,0 @@
-Spoken word: türk
-Starttime of utterance in seconds: 4027.140
-Endtime of utterance in seconds: 4027.340
-Duration of utterance in seconds: 0.200
-Confidence: 0.964
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

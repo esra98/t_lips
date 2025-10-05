@@ -1,7 +1,0 @@
-Spoken word: soykırımı
-Starttime of utterance in seconds: 5217.300
-Endtime of utterance in seconds: 5218.600
-Duration of utterance in seconds: 1.300
-Confidence: 0.667
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

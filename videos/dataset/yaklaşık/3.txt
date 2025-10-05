@@ -1,7 +1,0 @@
-Spoken word: yaklaşık
-Starttime of utterance in seconds: 3533.880
-Endtime of utterance in seconds: 3534.640
-Duration of utterance in seconds: 0.760
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

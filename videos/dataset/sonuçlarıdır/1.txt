@@ -1,7 +1,0 @@
-Spoken word: sonuçlarıdır
-Starttime of utterance in seconds: 4520.200
-Endtime of utterance in seconds: 4521.040
-Duration of utterance in seconds: 0.840
-Confidence: 0.747
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: sahipsizler
-Starttime of utterance in seconds: 3265.560
-Endtime of utterance in seconds: 3265.970
-Duration of utterance in seconds: 0.410
-Confidence: 0.575
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

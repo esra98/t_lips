@@ -1,7 +1,0 @@
-Spoken word: okukta
-Starttime of utterance in seconds: 5357.180
-Endtime of utterance in seconds: 5357.520
-Duration of utterance in seconds: 0.340
-Confidence: 0.558
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: inisiyatifle
-Starttime of utterance in seconds: 2753.440
-Endtime of utterance in seconds: 2754.220
-Duration of utterance in seconds: 0.780
-Confidence: 0.596
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

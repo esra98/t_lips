@@ -1,7 +1,0 @@
-Spoken word: haykıran
-Starttime of utterance in seconds: 5859.640
-Endtime of utterance in seconds: 5861.060
-Duration of utterance in seconds: 1.420
-Confidence: 0.850
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

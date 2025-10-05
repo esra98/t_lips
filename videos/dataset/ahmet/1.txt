@@ -1,7 +1,0 @@
-Spoken word: ahmet
-Starttime of utterance in seconds: 3443.100
-Endtime of utterance in seconds: 3443.320
-Duration of utterance in seconds: 0.220
-Confidence: 0.680
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

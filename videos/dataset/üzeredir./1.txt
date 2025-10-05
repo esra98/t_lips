@@ -1,7 +1,0 @@
-Spoken word: üzeredir.
-Starttime of utterance in seconds: 332.420
-Endtime of utterance in seconds: 332.940
-Duration of utterance in seconds: 0.520
-Confidence: 0.879
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

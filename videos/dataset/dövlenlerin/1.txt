@@ -1,7 +1,0 @@
-Spoken word: dövlenlerin
-Starttime of utterance in seconds: 3218.460
-Endtime of utterance in seconds: 3218.900
-Duration of utterance in seconds: 0.440
-Confidence: 0.564
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

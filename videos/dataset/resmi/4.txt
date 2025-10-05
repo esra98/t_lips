@@ -1,7 +1,0 @@
-Spoken word: resmi
-Starttime of utterance in seconds: 5792.420
-Endtime of utterance in seconds: 5792.760
-Duration of utterance in seconds: 0.340
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

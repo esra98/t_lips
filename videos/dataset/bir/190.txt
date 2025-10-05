@@ -1,7 +1,0 @@
-Spoken word: bir
-Starttime of utterance in seconds: 4883.680
-Endtime of utterance in seconds: 4883.920
-Duration of utterance in seconds: 0.240
-Confidence: 0.926
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

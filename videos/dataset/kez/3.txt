@@ -1,7 +1,0 @@
-Spoken word: kez
-Starttime of utterance in seconds: 2106.480
-Endtime of utterance in seconds: 2106.760
-Duration of utterance in seconds: 0.280
-Confidence: 0.759
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

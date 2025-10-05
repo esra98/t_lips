@@ -1,7 +1,0 @@
-Spoken word: ülkemiz
-Starttime of utterance in seconds: 5781.080
-Endtime of utterance in seconds: 5782.040
-Duration of utterance in seconds: 0.960
-Confidence: 0.958
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

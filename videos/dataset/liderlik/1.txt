@@ -1,7 +1,0 @@
-Spoken word: liderlik
-Starttime of utterance in seconds: 4131.380
-Endtime of utterance in seconds: 4131.920
-Duration of utterance in seconds: 0.540
-Confidence: 0.975
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

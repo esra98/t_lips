@@ -1,7 +1,0 @@
-Spoken word: ötesinden
-Starttime of utterance in seconds: 2758.820
-Endtime of utterance in seconds: 2759.340
-Duration of utterance in seconds: 0.520
-Confidence: 0.976
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

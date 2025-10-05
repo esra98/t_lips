@@ -1,7 +1,0 @@
-Spoken word: partisi
-Starttime of utterance in seconds: 5632.320
-Endtime of utterance in seconds: 5632.680
-Duration of utterance in seconds: 0.360
-Confidence: 0.978
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

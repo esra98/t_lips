@@ -1,7 +1,0 @@
-Spoken word: düşünce
-Starttime of utterance in seconds: 5122.940
-Endtime of utterance in seconds: 5124.000
-Duration of utterance in seconds: 1.060
-Confidence: 0.909
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

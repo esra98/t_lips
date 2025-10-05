@@ -1,7 +1,0 @@
-Spoken word: sütatikoyu
-Starttime of utterance in seconds: 1284.370
-Endtime of utterance in seconds: 1284.940
-Duration of utterance in seconds: 0.570
-Confidence: 0.489
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

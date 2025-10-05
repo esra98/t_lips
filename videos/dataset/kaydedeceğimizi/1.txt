@@ -1,7 +1,0 @@
-Spoken word: kaydedeceğimizi
-Starttime of utterance in seconds: 4872.540
-Endtime of utterance in seconds: 4874.320
-Duration of utterance in seconds: 1.780
-Confidence: 0.792
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

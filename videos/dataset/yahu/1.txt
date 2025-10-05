@@ -1,7 +1,0 @@
-Spoken word: yahu
-Starttime of utterance in seconds: 3563.780
-Endtime of utterance in seconds: 3564.060
-Duration of utterance in seconds: 0.280
-Confidence: 0.827
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

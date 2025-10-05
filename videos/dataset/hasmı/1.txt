@@ -1,7 +1,0 @@
-Spoken word: hasmı
-Starttime of utterance in seconds: 2342.840
-Endtime of utterance in seconds: 2343.260
-Duration of utterance in seconds: 0.420
-Confidence: 0.741
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

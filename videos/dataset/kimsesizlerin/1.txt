@@ -1,7 +1,0 @@
-Spoken word: kimsesizlerin
-Starttime of utterance in seconds: 5607.440
-Endtime of utterance in seconds: 5608.120
-Duration of utterance in seconds: 0.680
-Confidence: 0.985
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

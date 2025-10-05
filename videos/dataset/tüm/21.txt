@@ -1,7 +1,0 @@
-Spoken word: tüm
-Starttime of utterance in seconds: 3099.740
-Endtime of utterance in seconds: 3100.360
-Duration of utterance in seconds: 0.620
-Confidence: 0.983
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

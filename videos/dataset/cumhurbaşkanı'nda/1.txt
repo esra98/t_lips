@@ -1,7 +1,0 @@
-Spoken word: cumhurbaşkanı'nda
-Starttime of utterance in seconds: 174.380
-Endtime of utterance in seconds: 175.420
-Duration of utterance in seconds: 1.040
-Confidence: 0.950
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: istikrarlığı
-Starttime of utterance in seconds: 1389.360
-Endtime of utterance in seconds: 1390.620
-Duration of utterance in seconds: 1.260
-Confidence: 0.840
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

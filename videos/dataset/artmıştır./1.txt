@@ -1,7 +1,0 @@
-Spoken word: artmıştır.
-Starttime of utterance in seconds: 941.960
-Endtime of utterance in seconds: 942.520
-Duration of utterance in seconds: 0.560
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

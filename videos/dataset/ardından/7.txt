@@ -1,7 +1,0 @@
-Spoken word: ardından
-Starttime of utterance in seconds: 4562.460
-Endtime of utterance in seconds: 4563.020
-Duration of utterance in seconds: 0.560
-Confidence: 0.986
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: kurulunun
-Starttime of utterance in seconds: 722.860
-Endtime of utterance in seconds: 723.280
-Duration of utterance in seconds: 0.420
-Confidence: 0.934
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

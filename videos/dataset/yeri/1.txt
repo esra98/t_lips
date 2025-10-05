@@ -1,7 +1,0 @@
-Spoken word: yeri
-Starttime of utterance in seconds: 225.120
-Endtime of utterance in seconds: 225.340
-Duration of utterance in seconds: 0.220
-Confidence: 0.979
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

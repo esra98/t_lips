@@ -1,7 +1,0 @@
-Spoken word: krizliyoruz.
-Starttime of utterance in seconds: 1107.840
-Endtime of utterance in seconds: 1108.520
-Duration of utterance in seconds: 0.680
-Confidence: 0.628
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

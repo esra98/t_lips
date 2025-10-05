@@ -1,7 +1,0 @@
-Spoken word: felaket
-Starttime of utterance in seconds: 5499.400
-Endtime of utterance in seconds: 5500.300
-Duration of utterance in seconds: 0.900
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: imha
-Starttime of utterance in seconds: 5163.120
-Endtime of utterance in seconds: 5163.460
-Duration of utterance in seconds: 0.340
-Confidence: 0.989
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

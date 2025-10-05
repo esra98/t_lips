@@ -1,7 +1,0 @@
-Spoken word: atamamaktadır.
-Starttime of utterance in seconds: 4149.500
-Endtime of utterance in seconds: 4151.960
-Duration of utterance in seconds: 2.460
-Confidence: 0.793
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

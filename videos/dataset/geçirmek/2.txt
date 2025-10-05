@@ -1,7 +1,0 @@
-Spoken word: geçirmek
-Starttime of utterance in seconds: 4922.920
-Endtime of utterance in seconds: 4923.520
-Duration of utterance in seconds: 0.600
-Confidence: 0.882
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

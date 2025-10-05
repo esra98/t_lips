@@ -1,7 +1,0 @@
-Spoken word: ders
-Starttime of utterance in seconds: 613.320
-Endtime of utterance in seconds: 613.520
-Duration of utterance in seconds: 0.200
-Confidence: 0.530
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

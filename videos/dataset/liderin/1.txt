@@ -1,7 +1,0 @@
-Spoken word: liderin
-Starttime of utterance in seconds: 4813.440
-Endtime of utterance in seconds: 4814.380
-Duration of utterance in seconds: 0.940
-Confidence: 0.968
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

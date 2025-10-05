@@ -1,7 +1,0 @@
-Spoken word: sizleri
-Starttime of utterance in seconds: 839.640
-Endtime of utterance in seconds: 840.180
-Duration of utterance in seconds: 0.540
-Confidence: 0.917
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

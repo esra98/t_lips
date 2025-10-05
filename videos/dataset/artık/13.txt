@@ -1,7 +1,0 @@
-Spoken word: artık
-Starttime of utterance in seconds: 2618.810
-Endtime of utterance in seconds: 2619.180
-Duration of utterance in seconds: 0.370
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

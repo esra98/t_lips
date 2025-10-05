@@ -1,7 +1,0 @@
-Spoken word: gemi
-Starttime of utterance in seconds: 2809.580
-Endtime of utterance in seconds: 2810.020
-Duration of utterance in seconds: 0.440
-Confidence: 0.933
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

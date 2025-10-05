@@ -1,7 +1,0 @@
-Spoken word: ateşkisi
-Starttime of utterance in seconds: 378.160
-Endtime of utterance in seconds: 378.840
-Duration of utterance in seconds: 0.680
-Confidence: 0.599
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

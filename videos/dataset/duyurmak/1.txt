@@ -1,7 +1,0 @@
-Spoken word: duyurmak
-Starttime of utterance in seconds: 3111.560
-Endtime of utterance in seconds: 3111.980
-Duration of utterance in seconds: 0.420
-Confidence: 0.987
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

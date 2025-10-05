@@ -1,7 +1,0 @@
-Spoken word: eğlen
-Starttime of utterance in seconds: 3613.820
-Endtime of utterance in seconds: 3614.120
-Duration of utterance in seconds: 0.300
-Confidence: 0.426
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

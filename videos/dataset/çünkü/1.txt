@@ -1,7 +1,0 @@
-Spoken word: çünkü
-Starttime of utterance in seconds: 2932.840
-Endtime of utterance in seconds: 2933.260
-Duration of utterance in seconds: 0.420
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

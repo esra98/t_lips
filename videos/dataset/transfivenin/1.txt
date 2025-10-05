@@ -1,7 +1,0 @@
-Spoken word: transfivenin
-Starttime of utterance in seconds: 1710.880
-Endtime of utterance in seconds: 1711.500
-Duration of utterance in seconds: 0.620
-Confidence: 0.308
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

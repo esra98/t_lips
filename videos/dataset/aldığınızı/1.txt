@@ -1,7 +1,0 @@
-Spoken word: aldığınızı
-Starttime of utterance in seconds: 3184.960
-Endtime of utterance in seconds: 3185.400
-Duration of utterance in seconds: 0.440
-Confidence: 0.925
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

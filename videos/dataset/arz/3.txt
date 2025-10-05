@@ -1,7 +1,0 @@
-Spoken word: arz
-Starttime of utterance in seconds: 5810.180
-Endtime of utterance in seconds: 5810.680
-Duration of utterance in seconds: 0.500
-Confidence: 0.959
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

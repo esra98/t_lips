@@ -1,7 +1,0 @@
-Spoken word: işlediği
-Starttime of utterance in seconds: 3498.900
-Endtime of utterance in seconds: 3499.200
-Duration of utterance in seconds: 0.300
-Confidence: 0.616
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

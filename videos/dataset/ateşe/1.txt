@@ -1,7 +1,0 @@
-Spoken word: ateşe
-Starttime of utterance in seconds: 1337.280
-Endtime of utterance in seconds: 1338.160
-Duration of utterance in seconds: 0.880
-Confidence: 0.929
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

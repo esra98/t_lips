@@ -1,7 +1,0 @@
-Spoken word: erdirilmesidir.
-Starttime of utterance in seconds: 2946.180
-Endtime of utterance in seconds: 2946.860
-Duration of utterance in seconds: 0.680
-Confidence: 0.867
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

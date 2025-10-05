@@ -1,7 +1,0 @@
-Spoken word: zamanda
-Starttime of utterance in seconds: 5546.520
-Endtime of utterance in seconds: 5546.980
-Duration of utterance in seconds: 0.460
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

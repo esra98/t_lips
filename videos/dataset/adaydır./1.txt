@@ -1,7 +1,0 @@
-Spoken word: adaydır.
-Starttime of utterance in seconds: 495.560
-Endtime of utterance in seconds: 496.440
-Duration of utterance in seconds: 0.880
-Confidence: 0.971
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

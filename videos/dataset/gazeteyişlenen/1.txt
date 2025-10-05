@@ -1,7 +1,0 @@
-Spoken word: gazeteyişlenen
-Starttime of utterance in seconds: 2267.240
-Endtime of utterance in seconds: 2268.280
-Duration of utterance in seconds: 1.040
-Confidence: 0.624
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

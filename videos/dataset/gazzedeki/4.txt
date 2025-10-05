@@ -1,7 +1,0 @@
-Spoken word: gazzedeki
-Starttime of utterance in seconds: 3006.000
-Endtime of utterance in seconds: 3006.960
-Duration of utterance in seconds: 0.960
-Confidence: 0.809
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

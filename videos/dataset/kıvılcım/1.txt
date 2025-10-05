@@ -1,7 +1,0 @@
-Spoken word: kıvılcım
-Starttime of utterance in seconds: 2317.480
-Endtime of utterance in seconds: 2317.940
-Duration of utterance in seconds: 0.460
-Confidence: 0.935
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

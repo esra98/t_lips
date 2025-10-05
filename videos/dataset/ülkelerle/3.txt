@@ -1,7 +1,0 @@
-Spoken word: ülkelerle
-Starttime of utterance in seconds: 2055.040
-Endtime of utterance in seconds: 2055.640
-Duration of utterance in seconds: 0.600
-Confidence: 0.797
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

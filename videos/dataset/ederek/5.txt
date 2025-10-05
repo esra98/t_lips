@@ -1,7 +1,0 @@
-Spoken word: ederek
-Starttime of utterance in seconds: 3204.180
-Endtime of utterance in seconds: 3204.460
-Duration of utterance in seconds: 0.280
-Confidence: 0.984
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

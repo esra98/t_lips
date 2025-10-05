@@ -1,7 +1,0 @@
-Spoken word: zulüm
-Starttime of utterance in seconds: 2612.000
-Endtime of utterance in seconds: 2612.760
-Duration of utterance in seconds: 0.760
-Confidence: 0.922
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

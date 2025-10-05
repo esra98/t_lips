@@ -1,7 +1,0 @@
-Spoken word: olmuştur.
-Starttime of utterance in seconds: 4620.760
-Endtime of utterance in seconds: 4621.300
-Duration of utterance in seconds: 0.540
-Confidence: 0.940
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

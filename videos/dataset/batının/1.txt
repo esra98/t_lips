@@ -1,7 +1,0 @@
-Spoken word: batının
-Starttime of utterance in seconds: 2506.440
-Endtime of utterance in seconds: 2507.400
-Duration of utterance in seconds: 0.960
-Confidence: 0.708
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

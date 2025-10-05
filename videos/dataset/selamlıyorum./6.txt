@@ -1,7 +1,0 @@
-Spoken word: selamlıyorum.
-Starttime of utterance in seconds: 5041.360
-Endtime of utterance in seconds: 5042.260
-Duration of utterance in seconds: 0.900
-Confidence: 0.937
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: gerçekleşmektedir.
-Starttime of utterance in seconds: 5256.520
-Endtime of utterance in seconds: 5257.940
-Duration of utterance in seconds: 1.420
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: açık
-Starttime of utterance in seconds: 5517.240
-Endtime of utterance in seconds: 5517.520
-Duration of utterance in seconds: 0.280
-Confidence: 0.954
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

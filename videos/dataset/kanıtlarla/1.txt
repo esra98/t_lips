@@ -1,7 +1,0 @@
-Spoken word: kanıtlarla
-Starttime of utterance in seconds: 5502.800
-Endtime of utterance in seconds: 5504.100
-Duration of utterance in seconds: 1.300
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

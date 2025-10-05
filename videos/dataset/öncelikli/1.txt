@@ -1,7 +1,0 @@
-Spoken word: öncelikli
-Starttime of utterance in seconds: 1512.120
-Endtime of utterance in seconds: 1512.750
-Duration of utterance in seconds: 0.630
-Confidence: 0.799
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

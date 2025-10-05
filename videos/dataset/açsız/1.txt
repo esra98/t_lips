@@ -1,7 +1,0 @@
-Spoken word: açsız
-Starttime of utterance in seconds: 5273.620
-Endtime of utterance in seconds: 5274.200
-Duration of utterance in seconds: 0.580
-Confidence: 0.383
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

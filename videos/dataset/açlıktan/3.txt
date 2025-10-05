@@ -1,7 +1,0 @@
-Spoken word: açlıktan
-Starttime of utterance in seconds: 4001.080
-Endtime of utterance in seconds: 4002.320
-Duration of utterance in seconds: 1.240
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

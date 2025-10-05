@@ -1,7 +1,0 @@
-Spoken word: müttefiki
-Starttime of utterance in seconds: 5547.820
-Endtime of utterance in seconds: 5548.380
-Duration of utterance in seconds: 0.560
-Confidence: 0.647
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

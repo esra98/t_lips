@@ -1,7 +1,0 @@
-Spoken word: konuşmak
-Starttime of utterance in seconds: 2648.740
-Endtime of utterance in seconds: 2649.960
-Duration of utterance in seconds: 1.220
-Confidence: 0.934
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

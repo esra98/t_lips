@@ -1,7 +1,0 @@
-Spoken word: edebildiğim
-Starttime of utterance in seconds: 3952.540
-Endtime of utterance in seconds: 3953.260
-Duration of utterance in seconds: 0.720
-Confidence: 0.988
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

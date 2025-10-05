@@ -1,7 +1,0 @@
-Spoken word: karşı
-Starttime of utterance in seconds: 5691.880
-Endtime of utterance in seconds: 5692.100
-Duration of utterance in seconds: 0.220
-Confidence: 0.998
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

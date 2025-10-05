@@ -1,7 +1,0 @@
-Spoken word: üzerinde
-Starttime of utterance in seconds: 1496.300
-Endtime of utterance in seconds: 1496.740
-Duration of utterance in seconds: 0.440
-Confidence: 0.967
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

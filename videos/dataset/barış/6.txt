@@ -1,7 +1,0 @@
-Spoken word: barış
-Starttime of utterance in seconds: 2157.620
-Endtime of utterance in seconds: 2158.000
-Duration of utterance in seconds: 0.380
-Confidence: 0.984
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

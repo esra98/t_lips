@@ -1,7 +1,0 @@
-Spoken word: aktif
-Starttime of utterance in seconds: 453.960
-Endtime of utterance in seconds: 454.800
-Duration of utterance in seconds: 0.840
-Confidence: 0.938
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

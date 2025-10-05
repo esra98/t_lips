@@ -1,7 +1,0 @@
-Spoken word: grup
-Starttime of utterance in seconds: 3598.540
-Endtime of utterance in seconds: 3598.780
-Duration of utterance in seconds: 0.240
-Confidence: 0.526
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

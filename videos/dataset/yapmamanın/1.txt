@@ -1,7 +1,0 @@
-Spoken word: yapmamanın
-Starttime of utterance in seconds: 4433.840
-Endtime of utterance in seconds: 4435.300
-Duration of utterance in seconds: 1.460
-Confidence: 0.831
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

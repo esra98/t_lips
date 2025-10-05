@@ -1,7 +1,0 @@
-Spoken word: hele
-Starttime of utterance in seconds: 5710.540
-Endtime of utterance in seconds: 5710.840
-Duration of utterance in seconds: 0.300
-Confidence: 0.905
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

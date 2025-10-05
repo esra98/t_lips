@@ -1,7 +1,0 @@
-Spoken word: vatanlarında
-Starttime of utterance in seconds: 4279.280
-Endtime of utterance in seconds: 4280.200
-Duration of utterance in seconds: 0.920
-Confidence: 0.955
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

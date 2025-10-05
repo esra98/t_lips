@@ -1,7 +1,0 @@
-Spoken word: yaşayan
-Starttime of utterance in seconds: 4172.440
-Endtime of utterance in seconds: 4173.020
-Duration of utterance in seconds: 0.580
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

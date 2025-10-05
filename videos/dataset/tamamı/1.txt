@@ -1,7 +1,0 @@
-Spoken word: tamamı
-Starttime of utterance in seconds: 2177.390
-Endtime of utterance in seconds: 2177.980
-Duration of utterance in seconds: 0.590
-Confidence: 0.989
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

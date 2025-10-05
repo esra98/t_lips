@@ -1,7 +1,0 @@
-Spoken word: edenler
-Starttime of utterance in seconds: 4847.220
-Endtime of utterance in seconds: 4847.720
-Duration of utterance in seconds: 0.500
-Confidence: 0.978
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: baskı
-Starttime of utterance in seconds: 1496.740
-Endtime of utterance in seconds: 1497.160
-Duration of utterance in seconds: 0.420
-Confidence: 0.878
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

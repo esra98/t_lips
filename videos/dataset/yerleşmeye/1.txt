@@ -1,7 +1,0 @@
-Spoken word: yerleşmeye
-Starttime of utterance in seconds: 2013.880
-Endtime of utterance in seconds: 2014.400
-Duration of utterance in seconds: 0.520
-Confidence: 0.901
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: düşmüş
-Starttime of utterance in seconds: 1844.140
-Endtime of utterance in seconds: 1844.600
-Duration of utterance in seconds: 0.460
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

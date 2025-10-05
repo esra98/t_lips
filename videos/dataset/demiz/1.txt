@@ -1,7 +1,0 @@
-Spoken word: demiz
-Starttime of utterance in seconds: 3562.350
-Endtime of utterance in seconds: 3562.720
-Duration of utterance in seconds: 0.370
-Confidence: 0.539
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

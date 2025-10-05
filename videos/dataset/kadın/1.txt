@@ -1,7 +1,0 @@
-Spoken word: kadın
-Starttime of utterance in seconds: 62.180
-Endtime of utterance in seconds: 62.440
-Duration of utterance in seconds: 0.260
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

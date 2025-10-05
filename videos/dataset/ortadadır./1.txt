@@ -1,7 +1,0 @@
-Spoken word: ortadadır.
-Starttime of utterance in seconds: 4364.900
-Endtime of utterance in seconds: 4366.020
-Duration of utterance in seconds: 1.120
-Confidence: 0.972
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

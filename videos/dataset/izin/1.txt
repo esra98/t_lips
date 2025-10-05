@@ -1,7 +1,0 @@
-Spoken word: izin
-Starttime of utterance in seconds: 1332.220
-Endtime of utterance in seconds: 1332.520
-Duration of utterance in seconds: 0.300
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

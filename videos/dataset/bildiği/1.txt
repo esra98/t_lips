@@ -1,7 +1,0 @@
-Spoken word: bildiği
-Starttime of utterance in seconds: 1118.000
-Endtime of utterance in seconds: 1118.340
-Duration of utterance in seconds: 0.340
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

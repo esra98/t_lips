@@ -1,7 +1,0 @@
-Spoken word: onlarca
-Starttime of utterance in seconds: 87.140
-Endtime of utterance in seconds: 88.340
-Duration of utterance in seconds: 1.200
-Confidence: 0.884
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: bulunmaktayım.
-Starttime of utterance in seconds: 892.490
-Endtime of utterance in seconds: 893.380
-Duration of utterance in seconds: 0.890
-Confidence: 0.960
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

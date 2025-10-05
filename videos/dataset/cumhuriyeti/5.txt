@@ -1,7 +1,0 @@
-Spoken word: cumhuriyeti
-Starttime of utterance in seconds: 4617.100
-Endtime of utterance in seconds: 4617.820
-Duration of utterance in seconds: 0.720
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: kendilerini
-Starttime of utterance in seconds: 3103.420
-Endtime of utterance in seconds: 3104.020
-Duration of utterance in seconds: 0.600
-Confidence: 0.983
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

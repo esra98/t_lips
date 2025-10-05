@@ -1,7 +1,0 @@
-Spoken word: gazzeyi
-Starttime of utterance in seconds: 123.680
-Endtime of utterance in seconds: 124.760
-Duration of utterance in seconds: 1.080
-Confidence: 0.604
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

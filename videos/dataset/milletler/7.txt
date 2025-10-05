@@ -1,7 +1,0 @@
-Spoken word: milletler
-Starttime of utterance in seconds: 1082.380
-Endtime of utterance in seconds: 1082.780
-Duration of utterance in seconds: 0.400
-Confidence: 0.972
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

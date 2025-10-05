@@ -1,7 +1,0 @@
-Spoken word: ülkenin
-Starttime of utterance in seconds: 1725.220
-Endtime of utterance in seconds: 1725.660
-Duration of utterance in seconds: 0.440
-Confidence: 0.995
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

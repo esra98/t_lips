@@ -1,7 +1,0 @@
-Spoken word: ifade
-Starttime of utterance in seconds: 907.940
-Endtime of utterance in seconds: 908.860
-Duration of utterance in seconds: 0.920
-Confidence: 0.966
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

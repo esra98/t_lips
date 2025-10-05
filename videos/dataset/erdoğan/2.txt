@@ -1,7 +1,0 @@
-Spoken word: erdoğan
-Starttime of utterance in seconds: 4404.540
-Endtime of utterance in seconds: 4405.600
-Duration of utterance in seconds: 1.060
-Confidence: 0.988
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

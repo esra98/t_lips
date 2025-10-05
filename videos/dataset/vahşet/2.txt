@@ -1,7 +1,0 @@
-Spoken word: vahşet
-Starttime of utterance in seconds: 5118.840
-Endtime of utterance in seconds: 5119.360
-Duration of utterance in seconds: 0.520
-Confidence: 0.973
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

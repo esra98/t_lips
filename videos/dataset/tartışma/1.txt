@@ -1,7 +1,0 @@
-Spoken word: tartışma
-Starttime of utterance in seconds: 4863.880
-Endtime of utterance in seconds: 4865.200
-Duration of utterance in seconds: 1.320
-Confidence: 0.900
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

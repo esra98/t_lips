@@ -1,7 +1,0 @@
-Spoken word: kasım
-Starttime of utterance in seconds: 499.950
-Endtime of utterance in seconds: 500.380
-Duration of utterance in seconds: 0.430
-Confidence: 0.882
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

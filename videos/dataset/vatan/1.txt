@@ -1,7 +1,0 @@
-Spoken word: vatan
-Starttime of utterance in seconds: 3676.680
-Endtime of utterance in seconds: 3676.960
-Duration of utterance in seconds: 0.280
-Confidence: 0.965
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: gazetemeselesi
-Starttime of utterance in seconds: 4467.640
-Endtime of utterance in seconds: 4468.700
-Duration of utterance in seconds: 1.060
-Confidence: 0.573
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

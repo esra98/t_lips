@@ -1,7 +1,0 @@
-Spoken word: doğal
-Starttime of utterance in seconds: 1219.100
-Endtime of utterance in seconds: 1219.720
-Duration of utterance in seconds: 0.620
-Confidence: 0.947
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

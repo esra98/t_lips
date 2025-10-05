@@ -1,7 +1,0 @@
-Spoken word: halkına
-Starttime of utterance in seconds: 10.180
-Endtime of utterance in seconds: 10.560
-Duration of utterance in seconds: 0.380
-Confidence: 0.976
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: benim
-Starttime of utterance in seconds: 2764.220
-Endtime of utterance in seconds: 2764.460
-Duration of utterance in seconds: 0.240
-Confidence: 0.889
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

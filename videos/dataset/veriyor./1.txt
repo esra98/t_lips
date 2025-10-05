@@ -1,7 +1,0 @@
-Spoken word: veriyor.
-Starttime of utterance in seconds: 640.380
-Endtime of utterance in seconds: 640.820
-Duration of utterance in seconds: 0.440
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

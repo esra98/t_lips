@@ -1,7 +1,0 @@
-Spoken word: etmekte.
-Starttime of utterance in seconds: 1367.560
-Endtime of utterance in seconds: 1368.160
-Duration of utterance in seconds: 0.600
-Confidence: 0.979
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

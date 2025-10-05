@@ -1,7 +1,0 @@
-Spoken word: sıradan
-Starttime of utterance in seconds: 4756.320
-Endtime of utterance in seconds: 4757.400
-Duration of utterance in seconds: 1.080
-Confidence: 0.784
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

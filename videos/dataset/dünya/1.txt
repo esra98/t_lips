@@ -1,7 +1,0 @@
-Spoken word: dünya
-Starttime of utterance in seconds: 342.460
-Endtime of utterance in seconds: 343.600
-Duration of utterance in seconds: 1.140
-Confidence: 0.982
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

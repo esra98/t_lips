@@ -1,7 +1,0 @@
-Spoken word: fiili
-Starttime of utterance in seconds: 2527.860
-Endtime of utterance in seconds: 2528.180
-Duration of utterance in seconds: 0.320
-Confidence: 0.755
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

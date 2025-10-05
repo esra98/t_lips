@@ -1,7 +1,0 @@
-Spoken word: sayısız
-Starttime of utterance in seconds: 1669.000
-Endtime of utterance in seconds: 1669.520
-Duration of utterance in seconds: 0.520
-Confidence: 0.985
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

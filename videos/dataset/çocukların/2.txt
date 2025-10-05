@@ -1,7 +1,0 @@
-Spoken word: çocukların
-Starttime of utterance in seconds: 2513.460
-Endtime of utterance in seconds: 2513.980
-Duration of utterance in seconds: 0.520
-Confidence: 0.970
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

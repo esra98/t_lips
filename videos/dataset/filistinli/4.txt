@@ -1,7 +1,0 @@
-Spoken word: filistinli
-Starttime of utterance in seconds: 5324.200
-Endtime of utterance in seconds: 5324.740
-Duration of utterance in seconds: 0.540
-Confidence: 0.828
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

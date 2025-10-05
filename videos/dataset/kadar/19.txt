@@ -1,7 +1,0 @@
-Spoken word: kadar
-Starttime of utterance in seconds: 4673.880
-Endtime of utterance in seconds: 4674.140
-Duration of utterance in seconds: 0.260
-Confidence: 0.999
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

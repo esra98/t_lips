@@ -1,7 +1,0 @@
-Spoken word: başvuruda
-Starttime of utterance in seconds: 1927.240
-Endtime of utterance in seconds: 1928.130
-Duration of utterance in seconds: 0.890
-Confidence: 0.828
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

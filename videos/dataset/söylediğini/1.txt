@@ -1,7 +1,0 @@
-Spoken word: söylediğini
-Starttime of utterance in seconds: 4954.440
-Endtime of utterance in seconds: 4955.520
-Duration of utterance in seconds: 1.080
-Confidence: 0.983
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

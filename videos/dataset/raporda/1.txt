@@ -1,7 +1,0 @@
-Spoken word: raporda
-Starttime of utterance in seconds: 5493.580
-Endtime of utterance in seconds: 5494.540
-Duration of utterance in seconds: 0.960
-Confidence: 0.811
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

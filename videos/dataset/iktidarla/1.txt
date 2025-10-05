@@ -1,7 +1,0 @@
-Spoken word: iktidarla
-Starttime of utterance in seconds: 3482.880
-Endtime of utterance in seconds: 3483.320
-Duration of utterance in seconds: 0.440
-Confidence: 0.960
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

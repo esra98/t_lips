@@ -1,7 +1,0 @@
-Spoken word: çürümüş
-Starttime of utterance in seconds: 2295.040
-Endtime of utterance in seconds: 2295.500
-Duration of utterance in seconds: 0.460
-Confidence: 0.887
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

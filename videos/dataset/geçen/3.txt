@@ -1,7 +1,0 @@
-Spoken word: geçen
-Starttime of utterance in seconds: 463.160
-Endtime of utterance in seconds: 464.020
-Duration of utterance in seconds: 0.860
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: ya
-Starttime of utterance in seconds: 2948.140
-Endtime of utterance in seconds: 2948.340
-Duration of utterance in seconds: 0.200
-Confidence: 0.937
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

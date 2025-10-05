@@ -1,7 +1,0 @@
-Spoken word: hollanda
-Starttime of utterance in seconds: 359.680
-Endtime of utterance in seconds: 360.620
-Duration of utterance in seconds: 0.940
-Confidence: 0.713
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

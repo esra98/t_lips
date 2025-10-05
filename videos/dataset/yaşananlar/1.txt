@@ -1,7 +1,0 @@
-Spoken word: yaşananlar
-Starttime of utterance in seconds: 965.640
-Endtime of utterance in seconds: 966.980
-Duration of utterance in seconds: 1.340
-Confidence: 0.985
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

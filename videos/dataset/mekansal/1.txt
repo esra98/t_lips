@@ -1,7 +1,0 @@
-Spoken word: mekansal
-Starttime of utterance in seconds: 1267.740
-Endtime of utterance in seconds: 1268.360
-Duration of utterance in seconds: 0.620
-Confidence: 0.749
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

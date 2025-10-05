@@ -1,7 +1,0 @@
-Spoken word: değerleri
-Starttime of utterance in seconds: 5827.860
-Endtime of utterance in seconds: 5828.240
-Duration of utterance in seconds: 0.380
-Confidence: 0.890
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

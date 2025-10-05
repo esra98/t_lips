@@ -1,7 +1,0 @@
-Spoken word: dolaylı
-Starttime of utterance in seconds: 2949.680
-Endtime of utterance in seconds: 2950.560
-Duration of utterance in seconds: 0.880
-Confidence: 0.922
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

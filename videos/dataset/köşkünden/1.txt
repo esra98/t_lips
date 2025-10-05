@@ -1,7 +1,0 @@
-Spoken word: köşkünden
-Starttime of utterance in seconds: 4810.160
-Endtime of utterance in seconds: 4810.860
-Duration of utterance in seconds: 0.700
-Confidence: 0.769
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

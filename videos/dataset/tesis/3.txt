@@ -1,7 +1,0 @@
-Spoken word: tesis
-Starttime of utterance in seconds: 2149.880
-Endtime of utterance in seconds: 2150.280
-Duration of utterance in seconds: 0.400
-Confidence: 0.640
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

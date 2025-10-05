@@ -1,7 +1,0 @@
-Spoken word: tehlikesi
-Starttime of utterance in seconds: 4281.580
-Endtime of utterance in seconds: 4282.260
-Duration of utterance in seconds: 0.680
-Confidence: 0.596
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

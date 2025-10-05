@@ -1,7 +1,0 @@
-Spoken word: olarak
-Starttime of utterance in seconds: 1772.360
-Endtime of utterance in seconds: 1772.560
-Duration of utterance in seconds: 0.200
-Confidence: 0.569
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

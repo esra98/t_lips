@@ -1,7 +1,0 @@
-Spoken word: unutmamız
-Starttime of utterance in seconds: 4898.940
-Endtime of utterance in seconds: 4900.080
-Duration of utterance in seconds: 1.140
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

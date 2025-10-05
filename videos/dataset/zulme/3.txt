@@ -1,7 +1,0 @@
-Spoken word: zulme
-Starttime of utterance in seconds: 3901.090
-Endtime of utterance in seconds: 3901.620
-Duration of utterance in seconds: 0.530
-Confidence: 0.758
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

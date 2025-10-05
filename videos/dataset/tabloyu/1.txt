@@ -1,7 +1,0 @@
-Spoken word: tabloyu
-Starttime of utterance in seconds: 4570.540
-Endtime of utterance in seconds: 4571.180
-Duration of utterance in seconds: 0.640
-Confidence: 0.759
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: salıplerini
-Starttime of utterance in seconds: 2361.580
-Endtime of utterance in seconds: 2362.110
-Duration of utterance in seconds: 0.530
-Confidence: 0.498
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

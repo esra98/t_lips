@@ -1,7 +1,0 @@
-Spoken word: merkezleriyle
-Starttime of utterance in seconds: 5280.960
-Endtime of utterance in seconds: 5281.840
-Duration of utterance in seconds: 0.880
-Confidence: 0.979
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

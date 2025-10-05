@@ -1,7 +1,0 @@
-Spoken word: üç
-Starttime of utterance in seconds: 3361.180
-Endtime of utterance in seconds: 3361.320
-Duration of utterance in seconds: 0.140
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

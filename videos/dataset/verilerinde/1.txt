@@ -1,7 +1,0 @@
-Spoken word: verilerinde
-Starttime of utterance in seconds: 3630.720
-Endtime of utterance in seconds: 3631.200
-Duration of utterance in seconds: 0.480
-Confidence: 0.899
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

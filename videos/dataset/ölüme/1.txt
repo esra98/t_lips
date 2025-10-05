@@ -1,7 +1,0 @@
-Spoken word: ölüme
-Starttime of utterance in seconds: 528.340
-Endtime of utterance in seconds: 528.860
-Duration of utterance in seconds: 0.520
-Confidence: 0.788
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

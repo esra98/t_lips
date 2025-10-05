@@ -1,7 +1,0 @@
-Spoken word: istihsa
-Starttime of utterance in seconds: 3320.840
-Endtime of utterance in seconds: 3321.240
-Duration of utterance in seconds: 0.400
-Confidence: 0.507
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

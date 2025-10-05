@@ -1,7 +1,0 @@
-Spoken word: mısır
-Starttime of utterance in seconds: 1154.460
-Endtime of utterance in seconds: 1154.820
-Duration of utterance in seconds: 0.360
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

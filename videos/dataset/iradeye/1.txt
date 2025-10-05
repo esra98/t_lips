@@ -1,7 +1,0 @@
-Spoken word: iradeye
-Starttime of utterance in seconds: 5016.840
-Endtime of utterance in seconds: 5018.060
-Duration of utterance in seconds: 1.220
-Confidence: 0.982
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

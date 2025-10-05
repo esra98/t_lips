@@ -1,7 +1,0 @@
-Spoken word: sevrin
-Starttime of utterance in seconds: 4926.980
-Endtime of utterance in seconds: 4927.800
-Duration of utterance in seconds: 0.820
-Confidence: 0.754
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

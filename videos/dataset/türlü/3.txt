@@ -1,7 +1,0 @@
-Spoken word: türlü
-Starttime of utterance in seconds: 2951.680
-Endtime of utterance in seconds: 2952.080
-Duration of utterance in seconds: 0.400
-Confidence: 0.999
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

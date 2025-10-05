@@ -1,7 +1,0 @@
-Spoken word: içine
-Starttime of utterance in seconds: 1380.720
-Endtime of utterance in seconds: 1380.940
-Duration of utterance in seconds: 0.220
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: önyargısı
-Starttime of utterance in seconds: 5821.240
-Endtime of utterance in seconds: 5822.380
-Duration of utterance in seconds: 1.140
-Confidence: 0.713
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: asırdır
-Starttime of utterance in seconds: 4361.240
-Endtime of utterance in seconds: 4361.820
-Duration of utterance in seconds: 0.580
-Confidence: 0.755
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

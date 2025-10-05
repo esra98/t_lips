@@ -1,7 +1,0 @@
-Spoken word: etkili
-Starttime of utterance in seconds: 2672.300
-Endtime of utterance in seconds: 2672.550
-Duration of utterance in seconds: 0.250
-Confidence: 0.920
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

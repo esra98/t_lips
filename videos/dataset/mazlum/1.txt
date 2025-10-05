@@ -1,7 +1,0 @@
-Spoken word: mazlum
-Starttime of utterance in seconds: 5831.580
-Endtime of utterance in seconds: 5832.640
-Duration of utterance in seconds: 1.060
-Confidence: 0.973
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

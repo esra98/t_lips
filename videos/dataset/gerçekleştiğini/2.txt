@@ -1,7 +1,0 @@
-Spoken word: gerçekleştiğini
-Starttime of utterance in seconds: 1340.980
-Endtime of utterance in seconds: 1341.880
-Duration of utterance in seconds: 0.900
-Confidence: 0.891
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

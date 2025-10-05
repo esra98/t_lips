@@ -1,7 +1,0 @@
-Spoken word: hiç
-Starttime of utterance in seconds: 2885.800
-Endtime of utterance in seconds: 2886.380
-Duration of utterance in seconds: 0.580
-Confidence: 0.959
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

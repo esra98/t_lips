@@ -1,7 +1,0 @@
-Spoken word: evet,
-Starttime of utterance in seconds: 3019.060
-Endtime of utterance in seconds: 3019.280
-Duration of utterance in seconds: 0.220
-Confidence: 0.988
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

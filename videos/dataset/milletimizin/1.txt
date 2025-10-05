@@ -1,7 +1,0 @@
-Spoken word: milletimizin
-Starttime of utterance in seconds: 836.470
-Endtime of utterance in seconds: 837.140
-Duration of utterance in seconds: 0.670
-Confidence: 0.939
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

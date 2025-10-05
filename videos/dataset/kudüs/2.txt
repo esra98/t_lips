@@ -1,7 +1,0 @@
-Spoken word: kudüs
-Starttime of utterance in seconds: 474.460
-Endtime of utterance in seconds: 474.900
-Duration of utterance in seconds: 0.440
-Confidence: 0.885
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

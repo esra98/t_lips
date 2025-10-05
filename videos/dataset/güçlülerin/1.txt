@@ -1,7 +1,0 @@
-Spoken word: güçlülerin
-Starttime of utterance in seconds: 3270.420
-Endtime of utterance in seconds: 3271.000
-Duration of utterance in seconds: 0.580
-Confidence: 0.833
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

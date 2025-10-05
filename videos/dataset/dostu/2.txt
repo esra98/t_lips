@@ -1,7 +1,0 @@
-Spoken word: dostu
-Starttime of utterance in seconds: 3144.300
-Endtime of utterance in seconds: 3144.600
-Duration of utterance in seconds: 0.300
-Confidence: 0.926
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

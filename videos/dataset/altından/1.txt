@@ -1,7 +1,0 @@
-Spoken word: altından
-Starttime of utterance in seconds: 3642.620
-Endtime of utterance in seconds: 3643.040
-Duration of utterance in seconds: 0.420
-Confidence: 0.839
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

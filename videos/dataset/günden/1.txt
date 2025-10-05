@@ -1,7 +1,0 @@
-Spoken word: günden
-Starttime of utterance in seconds: 1325.780
-Endtime of utterance in seconds: 1326.060
-Duration of utterance in seconds: 0.280
-Confidence: 0.948
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

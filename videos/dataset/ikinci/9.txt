@@ -1,7 +1,0 @@
-Spoken word: ikinci
-Starttime of utterance in seconds: 4924.340
-Endtime of utterance in seconds: 4925.560
-Duration of utterance in seconds: 1.220
-Confidence: 0.977
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

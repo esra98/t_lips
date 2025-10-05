@@ -1,7 +1,0 @@
-Spoken word: yalnız
-Starttime of utterance in seconds: 1077.580
-Endtime of utterance in seconds: 1078.200
-Duration of utterance in seconds: 0.620
-Confidence: 0.987
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

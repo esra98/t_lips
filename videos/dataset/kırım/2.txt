@@ -1,7 +1,0 @@
-Spoken word: kırım
-Starttime of utterance in seconds: 444.200
-Endtime of utterance in seconds: 444.500
-Duration of utterance in seconds: 0.300
-Confidence: 0.950
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

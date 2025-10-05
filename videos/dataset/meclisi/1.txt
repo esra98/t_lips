@@ -1,7 +1,0 @@
-Spoken word: meclisi
-Starttime of utterance in seconds: 1.220
-Endtime of utterance in seconds: 1.640
-Duration of utterance in seconds: 0.420
-Confidence: 0.970
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

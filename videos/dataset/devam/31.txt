@@ -1,7 +1,0 @@
-Spoken word: devam
-Starttime of utterance in seconds: 4548.140
-Endtime of utterance in seconds: 4548.420
-Duration of utterance in seconds: 0.280
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

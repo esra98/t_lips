@@ -1,7 +1,0 @@
-Spoken word: iktidarın
-Starttime of utterance in seconds: 3087.880
-Endtime of utterance in seconds: 3088.420
-Duration of utterance in seconds: 0.540
-Confidence: 0.949
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

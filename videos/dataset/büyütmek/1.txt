@@ -1,7 +1,0 @@
-Spoken word: büyütmek
-Starttime of utterance in seconds: 1912.060
-Endtime of utterance in seconds: 1912.840
-Duration of utterance in seconds: 0.780
-Confidence: 0.761
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

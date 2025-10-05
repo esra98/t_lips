@@ -1,7 +1,0 @@
-Spoken word: ticaretimizi
-Starttime of utterance in seconds: 1528.120
-Endtime of utterance in seconds: 1528.760
-Duration of utterance in seconds: 0.640
-Confidence: 0.954
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

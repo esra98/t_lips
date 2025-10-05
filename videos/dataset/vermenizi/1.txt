@@ -1,7 +1,0 @@
-Spoken word: vermenizi
-Starttime of utterance in seconds: 4823.540
-Endtime of utterance in seconds: 4824.180
-Duration of utterance in seconds: 0.640
-Confidence: 0.984
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

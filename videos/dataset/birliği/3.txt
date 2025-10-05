@@ -1,7 +1,0 @@
-Spoken word: birliği
-Starttime of utterance in seconds: 5797.020
-Endtime of utterance in seconds: 5797.280
-Duration of utterance in seconds: 0.260
-Confidence: 0.776
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

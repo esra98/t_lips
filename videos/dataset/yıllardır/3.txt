@@ -1,7 +1,0 @@
-Spoken word: yıllardır
-Starttime of utterance in seconds: 5192.880
-Endtime of utterance in seconds: 5193.460
-Duration of utterance in seconds: 0.580
-Confidence: 0.965
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

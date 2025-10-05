@@ -1,7 +1,0 @@
-Spoken word: vicdanı
-Starttime of utterance in seconds: 2811.420
-Endtime of utterance in seconds: 2811.900
-Duration of utterance in seconds: 0.480
-Confidence: 0.856
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: plan
-Starttime of utterance in seconds: 1134.080
-Endtime of utterance in seconds: 1134.360
-Duration of utterance in seconds: 0.280
-Confidence: 0.586
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: besleyen
-Starttime of utterance in seconds: 1720.330
-Endtime of utterance in seconds: 1720.900
-Duration of utterance in seconds: 0.570
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

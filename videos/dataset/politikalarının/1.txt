@@ -1,7 +1,0 @@
-Spoken word: politikalarının
-Starttime of utterance in seconds: 34.940
-Endtime of utterance in seconds: 35.660
-Duration of utterance in seconds: 0.720
-Confidence: 0.982
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

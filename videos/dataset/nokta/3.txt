@@ -1,7 +1,0 @@
-Spoken word: nokta
-Starttime of utterance in seconds: 4389.340
-Endtime of utterance in seconds: 4390.420
-Duration of utterance in seconds: 1.080
-Confidence: 0.958
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

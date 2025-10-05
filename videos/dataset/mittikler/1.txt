@@ -1,7 +1,0 @@
-Spoken word: mittikler
-Starttime of utterance in seconds: 3494.100
-Endtime of utterance in seconds: 3494.520
-Duration of utterance in seconds: 0.420
-Confidence: 0.472
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

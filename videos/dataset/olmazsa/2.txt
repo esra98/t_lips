@@ -1,7 +1,0 @@
-Spoken word: olmazsa
-Starttime of utterance in seconds: 2886.380
-Endtime of utterance in seconds: 2886.830
-Duration of utterance in seconds: 0.450
-Confidence: 0.908
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: güçlülerle
-Starttime of utterance in seconds: 3271.260
-Endtime of utterance in seconds: 3271.840
-Duration of utterance in seconds: 0.580
-Confidence: 0.861
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

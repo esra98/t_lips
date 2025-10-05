@@ -1,7 +1,0 @@
-Spoken word: başarının
-Starttime of utterance in seconds: 2997.800
-Endtime of utterance in seconds: 2998.280
-Duration of utterance in seconds: 0.480
-Confidence: 0.974
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: kaybedenlerin
-Starttime of utterance in seconds: 5481.360
-Endtime of utterance in seconds: 5481.980
-Duration of utterance in seconds: 0.620
-Confidence: 0.850
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

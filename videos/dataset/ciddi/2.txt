@@ -1,7 +1,0 @@
-Spoken word: ciddi
-Starttime of utterance in seconds: 2142.600
-Endtime of utterance in seconds: 2143.680
-Duration of utterance in seconds: 1.080
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

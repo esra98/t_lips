@@ -1,7 +1,0 @@
-Spoken word: belirtmişti.
-Starttime of utterance in seconds: 3526.420
-Endtime of utterance in seconds: 3527.200
-Duration of utterance in seconds: 0.780
-Confidence: 0.988
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

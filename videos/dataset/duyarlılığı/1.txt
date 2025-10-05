@@ -1,7 +1,0 @@
-Spoken word: duyarlılığı
-Starttime of utterance in seconds: 3968.140
-Endtime of utterance in seconds: 3968.880
-Duration of utterance in seconds: 0.740
-Confidence: 0.972
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

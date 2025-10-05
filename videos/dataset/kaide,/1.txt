@@ -1,7 +1,0 @@
-Spoken word: kaide,
-Starttime of utterance in seconds: 5143.640
-Endtime of utterance in seconds: 5144.140
-Duration of utterance in seconds: 0.500
-Confidence: 0.772
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

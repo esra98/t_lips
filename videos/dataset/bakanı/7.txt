@@ -1,7 +1,0 @@
-Spoken word: bakanı
-Starttime of utterance in seconds: 3768.380
-Endtime of utterance in seconds: 3768.700
-Duration of utterance in seconds: 0.320
-Confidence: 0.785
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

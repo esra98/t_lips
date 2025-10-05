@@ -1,7 +1,0 @@
-Spoken word: gündem
-Starttime of utterance in seconds: 675.560
-Endtime of utterance in seconds: 676.340
-Duration of utterance in seconds: 0.780
-Confidence: 0.924
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

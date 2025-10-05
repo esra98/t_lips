@@ -1,7 +1,0 @@
-Spoken word: yoğunlaştırıyoruz.
-Starttime of utterance in seconds: 2062.820
-Endtime of utterance in seconds: 2063.880
-Duration of utterance in seconds: 1.060
-Confidence: 0.909
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

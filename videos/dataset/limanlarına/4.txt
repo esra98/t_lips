@@ -1,7 +1,0 @@
-Spoken word: limanlarına
-Starttime of utterance in seconds: 2840.860
-Endtime of utterance in seconds: 2841.510
-Duration of utterance in seconds: 0.650
-Confidence: 0.967
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

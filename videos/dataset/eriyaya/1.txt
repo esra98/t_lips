@@ -1,7 +1,0 @@
-Spoken word: eriyaya
-Starttime of utterance in seconds: 247.600
-Endtime of utterance in seconds: 248.060
-Duration of utterance in seconds: 0.460
-Confidence: 0.937
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

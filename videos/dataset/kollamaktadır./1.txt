@@ -1,7 +1,0 @@
-Spoken word: kollamaktadır.
-Starttime of utterance in seconds: 4142.560
-Endtime of utterance in seconds: 4143.460
-Duration of utterance in seconds: 0.900
-Confidence: 0.985
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

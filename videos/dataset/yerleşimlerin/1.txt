@@ -1,7 +1,0 @@
-Spoken word: yerleşimlerin
-Starttime of utterance in seconds: 5376.800
-Endtime of utterance in seconds: 5377.420
-Duration of utterance in seconds: 0.620
-Confidence: 0.964
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

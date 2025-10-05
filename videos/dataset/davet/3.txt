@@ -1,7 +1,0 @@
-Spoken word: davet
-Starttime of utterance in seconds: 2665.220
-Endtime of utterance in seconds: 2665.440
-Duration of utterance in seconds: 0.220
-Confidence: 0.845
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

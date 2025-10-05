@@ -1,7 +1,0 @@
-Spoken word: önemli
-Starttime of utterance in seconds: 1777.180
-Endtime of utterance in seconds: 1777.900
-Duration of utterance in seconds: 0.720
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

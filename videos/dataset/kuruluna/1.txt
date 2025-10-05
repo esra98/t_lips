@@ -1,7 +1,0 @@
-Spoken word: kuruluna
-Starttime of utterance in seconds: 729.220
-Endtime of utterance in seconds: 729.560
-Duration of utterance in seconds: 0.340
-Confidence: 0.697
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

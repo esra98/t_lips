@@ -1,7 +1,0 @@
-Spoken word: aksa'nın
-Starttime of utterance in seconds: 1267.280
-Endtime of utterance in seconds: 1267.740
-Duration of utterance in seconds: 0.460
-Confidence: 0.927
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

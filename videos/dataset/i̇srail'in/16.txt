@@ -1,7 +1,0 @@
-Spoken word: i̇srail'in
-Starttime of utterance in seconds: 1069.420
-Endtime of utterance in seconds: 1070.240
-Duration of utterance in seconds: 0.820
-Confidence: 0.984
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

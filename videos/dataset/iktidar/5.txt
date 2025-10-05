@@ -1,7 +1,0 @@
-Spoken word: iktidar
-Starttime of utterance in seconds: 4417.360
-Endtime of utterance in seconds: 4417.800
-Duration of utterance in seconds: 0.440
-Confidence: 0.811
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

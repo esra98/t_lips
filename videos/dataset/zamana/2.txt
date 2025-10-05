@@ -1,7 +1,0 @@
-Spoken word: zamana
-Starttime of utterance in seconds: 3147.140
-Endtime of utterance in seconds: 3147.460
-Duration of utterance in seconds: 0.320
-Confidence: 0.995
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

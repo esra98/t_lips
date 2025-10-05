@@ -1,7 +1,0 @@
-Spoken word: okullar,
-Starttime of utterance in seconds: 70.080
-Endtime of utterance in seconds: 70.960
-Duration of utterance in seconds: 0.880
-Confidence: 0.989
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

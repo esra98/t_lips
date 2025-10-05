@@ -1,7 +1,0 @@
-Spoken word: bugün
-Starttime of utterance in seconds: 3312.040
-Endtime of utterance in seconds: 3312.440
-Duration of utterance in seconds: 0.400
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

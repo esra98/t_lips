@@ -1,7 +1,0 @@
-Spoken word: unuslarar
-Starttime of utterance in seconds: 5378.760
-Endtime of utterance in seconds: 5379.320
-Duration of utterance in seconds: 0.560
-Confidence: 0.590
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

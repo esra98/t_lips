@@ -1,7 +1,0 @@
-Spoken word: büyümektedir.
-Starttime of utterance in seconds: 285.420
-Endtime of utterance in seconds: 287.060
-Duration of utterance in seconds: 1.640
-Confidence: 0.933
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

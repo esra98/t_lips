@@ -1,7 +1,0 @@
-Spoken word: güzel
-Starttime of utterance in seconds: 4915.380
-Endtime of utterance in seconds: 4915.860
-Duration of utterance in seconds: 0.480
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

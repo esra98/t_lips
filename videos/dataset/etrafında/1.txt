@@ -1,7 +1,0 @@
-Spoken word: etrafında
-Starttime of utterance in seconds: 2062.200
-Endtime of utterance in seconds: 2062.820
-Duration of utterance in seconds: 0.620
-Confidence: 0.993
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

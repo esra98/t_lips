@@ -1,7 +1,0 @@
-Spoken word: mücadelisi
-Starttime of utterance in seconds: 1307.200
-Endtime of utterance in seconds: 1307.800
-Duration of utterance in seconds: 0.600
-Confidence: 0.831
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

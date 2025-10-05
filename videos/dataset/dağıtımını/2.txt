@@ -1,7 +1,0 @@
-Spoken word: dağıtımını
-Starttime of utterance in seconds: 1197.360
-Endtime of utterance in seconds: 1197.880
-Duration of utterance in seconds: 0.520
-Confidence: 0.894
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

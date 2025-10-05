@@ -1,7 +1,0 @@
-Spoken word: yüzden
-Starttime of utterance in seconds: 4060.220
-Endtime of utterance in seconds: 4060.540
-Duration of utterance in seconds: 0.320
-Confidence: 0.999
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

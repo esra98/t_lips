@@ -1,7 +1,0 @@
-Spoken word: milli
-Starttime of utterance in seconds: 838.380
-Endtime of utterance in seconds: 838.620
-Duration of utterance in seconds: 0.240
-Confidence: 0.877
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

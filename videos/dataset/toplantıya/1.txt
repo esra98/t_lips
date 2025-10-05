@@ -1,7 +1,0 @@
-Spoken word: toplantıya
-Starttime of utterance in seconds: 1888.240
-Endtime of utterance in seconds: 1888.890
-Duration of utterance in seconds: 0.650
-Confidence: 0.983
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

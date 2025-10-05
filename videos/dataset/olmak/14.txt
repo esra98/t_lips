@@ -1,7 +1,0 @@
-Spoken word: olmak
-Starttime of utterance in seconds: 5483.480
-Endtime of utterance in seconds: 5483.820
-Duration of utterance in seconds: 0.340
-Confidence: 1.000
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

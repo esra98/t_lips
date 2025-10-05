@@ -1,7 +1,0 @@
-Spoken word: edeceğiz.
-Starttime of utterance in seconds: 2057.960
-Endtime of utterance in seconds: 2058.400
-Duration of utterance in seconds: 0.440
-Confidence: 0.953
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

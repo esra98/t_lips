@@ -1,7 +1,0 @@
-Spoken word: meselesinde
-Starttime of utterance in seconds: 2254.300
-Endtime of utterance in seconds: 2254.940
-Duration of utterance in seconds: 0.640
-Confidence: 0.976
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

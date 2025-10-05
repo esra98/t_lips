@@ -1,7 +1,0 @@
-Spoken word: koğboyu
-Starttime of utterance in seconds: 3163.060
-Endtime of utterance in seconds: 3163.940
-Duration of utterance in seconds: 0.880
-Confidence: 0.666
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

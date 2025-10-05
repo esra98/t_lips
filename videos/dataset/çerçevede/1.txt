@@ -1,7 +1,0 @@
-Spoken word: çerçevede
-Starttime of utterance in seconds: 1717.960
-Endtime of utterance in seconds: 1718.900
-Duration of utterance in seconds: 0.940
-Confidence: 0.883
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

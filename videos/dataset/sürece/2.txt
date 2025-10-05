@@ -1,7 +1,0 @@
-Spoken word: sürece
-Starttime of utterance in seconds: 5012.840
-Endtime of utterance in seconds: 5013.440
-Duration of utterance in seconds: 0.600
-Confidence: 0.803
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

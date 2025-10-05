@@ -1,7 +1,0 @@
-Spoken word: güneyindeki
-Starttime of utterance in seconds: 78.280
-Endtime of utterance in seconds: 78.840
-Duration of utterance in seconds: 0.560
-Confidence: 0.907
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

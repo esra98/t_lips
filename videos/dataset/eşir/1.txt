@@ -1,7 +1,0 @@
-Spoken word: eşir
-Starttime of utterance in seconds: 3057.080
-Endtime of utterance in seconds: 3057.340
-Duration of utterance in seconds: 0.260
-Confidence: 0.476
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

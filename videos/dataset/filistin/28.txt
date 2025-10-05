@@ -1,7 +1,0 @@
-Spoken word: filistin
-Starttime of utterance in seconds: 1879.280
-Endtime of utterance in seconds: 1880.600
-Duration of utterance in seconds: 1.320
-Confidence: 0.989
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

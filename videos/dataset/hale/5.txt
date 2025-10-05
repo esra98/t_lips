@@ -1,7 +1,0 @@
-Spoken word: hale
-Starttime of utterance in seconds: 2769.160
-Endtime of utterance in seconds: 2769.300
-Duration of utterance in seconds: 0.140
-Confidence: 0.979
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

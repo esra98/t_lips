@@ -1,7 +1,0 @@
-Spoken word: tehditinde
-Starttime of utterance in seconds: 868.020
-Endtime of utterance in seconds: 868.640
-Duration of utterance in seconds: 0.620
-Confidence: 0.911
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

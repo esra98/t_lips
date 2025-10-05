@@ -1,7 +1,0 @@
-Spoken word: satın
-Starttime of utterance in seconds: 3275.180
-Endtime of utterance in seconds: 3275.620
-Duration of utterance in seconds: 0.440
-Confidence: 0.976
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: türkiye'nin
-Starttime of utterance in seconds: 2896.420
-Endtime of utterance in seconds: 2897.260
-Duration of utterance in seconds: 0.840
-Confidence: 0.898
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

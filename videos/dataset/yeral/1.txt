@@ -1,7 +1,0 @@
-Spoken word: yeral
-Starttime of utterance in seconds: 1189.740
-Endtime of utterance in seconds: 1189.980
-Duration of utterance in seconds: 0.240
-Confidence: 0.575
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

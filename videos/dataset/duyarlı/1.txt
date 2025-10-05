@@ -1,7 +1,0 @@
-Spoken word: duyarlı
-Starttime of utterance in seconds: 3365.680
-Endtime of utterance in seconds: 3366.010
-Duration of utterance in seconds: 0.330
-Confidence: 0.860
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

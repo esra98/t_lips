@@ -1,7 +1,0 @@
-Spoken word: sayısının
-Starttime of utterance in seconds: 5291.460
-Endtime of utterance in seconds: 5291.960
-Duration of utterance in seconds: 0.500
-Confidence: 0.964
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

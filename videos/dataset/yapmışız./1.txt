@@ -1,7 +1,0 @@
-Spoken word: yapmışız.
-Starttime of utterance in seconds: 4604.860
-Endtime of utterance in seconds: 4605.520
-Duration of utterance in seconds: 0.660
-Confidence: 0.982
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

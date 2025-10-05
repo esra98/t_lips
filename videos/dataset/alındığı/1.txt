@@ -1,7 +1,0 @@
-Spoken word: alındığı
-Starttime of utterance in seconds: 2990.260
-Endtime of utterance in seconds: 2990.700
-Duration of utterance in seconds: 0.440
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

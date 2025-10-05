@@ -1,7 +1,0 @@
-Spoken word: edilmiştir.
-Starttime of utterance in seconds: 1323.820
-Endtime of utterance in seconds: 1324.800
-Duration of utterance in seconds: 0.980
-Confidence: 0.960
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

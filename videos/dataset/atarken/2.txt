@@ -1,7 +1,0 @@
-Spoken word: atarken
-Starttime of utterance in seconds: 2926.720
-Endtime of utterance in seconds: 2927.300
-Duration of utterance in seconds: 0.580
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

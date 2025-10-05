@@ -1,7 +1,0 @@
-Spoken word: şekilde
-Starttime of utterance in seconds: 2798.740
-Endtime of utterance in seconds: 2799.180
-Duration of utterance in seconds: 0.440
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

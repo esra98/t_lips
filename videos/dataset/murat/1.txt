@@ -1,7 +1,0 @@
-Spoken word: murat
-Starttime of utterance in seconds: 737.380
-Endtime of utterance in seconds: 737.730
-Duration of utterance in seconds: 0.350
-Confidence: 0.920
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

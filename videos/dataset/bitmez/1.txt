@@ -1,7 +1,0 @@
-Spoken word: bitmez
-Starttime of utterance in seconds: 2697.920
-Endtime of utterance in seconds: 2698.360
-Duration of utterance in seconds: 0.440
-Confidence: 0.832
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

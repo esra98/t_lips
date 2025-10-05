@@ -1,7 +1,0 @@
-Spoken word: mutlaka
-Starttime of utterance in seconds: 2944.040
-Endtime of utterance in seconds: 2944.820
-Duration of utterance in seconds: 0.780
-Confidence: 0.940
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

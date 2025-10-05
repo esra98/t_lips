@@ -1,7 +1,0 @@
-Spoken word: oldu.
-Starttime of utterance in seconds: 1506.460
-Endtime of utterance in seconds: 1507.060
-Duration of utterance in seconds: 0.600
-Confidence: 0.941
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

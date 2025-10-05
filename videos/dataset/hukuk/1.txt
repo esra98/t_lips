@@ -1,7 +1,0 @@
-Spoken word: hukuk
-Starttime of utterance in seconds: 2767.440
-Endtime of utterance in seconds: 2767.700
-Duration of utterance in seconds: 0.260
-Confidence: 0.969
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

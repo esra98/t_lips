@@ -1,7 +1,0 @@
-Spoken word: kaldığımızda
-Starttime of utterance in seconds: 3983.600
-Endtime of utterance in seconds: 3984.500
-Duration of utterance in seconds: 0.900
-Confidence: 0.969
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: netenya
-Starttime of utterance in seconds: 2121.120
-Endtime of utterance in seconds: 2122.120
-Duration of utterance in seconds: 1.000
-Confidence: 0.728
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

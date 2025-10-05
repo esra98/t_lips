@@ -1,7 +1,0 @@
-Spoken word: lahide
-Starttime of utterance in seconds: 4607.680
-Endtime of utterance in seconds: 4608.820
-Duration of utterance in seconds: 1.140
-Confidence: 0.679
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

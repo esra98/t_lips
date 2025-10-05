@@ -1,7 +1,0 @@
-Spoken word: güçteyiz.
-Starttime of utterance in seconds: 4238.780
-Endtime of utterance in seconds: 4239.720
-Duration of utterance in seconds: 0.940
-Confidence: 0.958
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

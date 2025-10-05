@@ -1,7 +1,0 @@
-Spoken word: maske
-Starttime of utterance in seconds: 1843.140
-Endtime of utterance in seconds: 1844.140
-Duration of utterance in seconds: 1.000
-Confidence: 0.968
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

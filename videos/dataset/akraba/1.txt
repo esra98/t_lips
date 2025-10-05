@@ -1,7 +1,0 @@
-Spoken word: akraba
-Starttime of utterance in seconds: 3173.920
-Endtime of utterance in seconds: 3174.490
-Duration of utterance in seconds: 0.570
-Confidence: 0.864
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

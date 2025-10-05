@@ -1,7 +1,0 @@
-Spoken word: dostum
-Starttime of utterance in seconds: 3091.500
-Endtime of utterance in seconds: 3092.520
-Duration of utterance in seconds: 1.020
-Confidence: 0.939
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

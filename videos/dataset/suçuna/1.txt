@@ -1,7 +1,0 @@
-Spoken word: suçuna
-Starttime of utterance in seconds: 4524.760
-Endtime of utterance in seconds: 4525.300
-Duration of utterance in seconds: 0.540
-Confidence: 0.979
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

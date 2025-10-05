@@ -1,7 +1,0 @@
-Spoken word: saldırmaktadır.
-Starttime of utterance in seconds: 1259.840
-Endtime of utterance in seconds: 1260.800
-Duration of utterance in seconds: 0.960
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

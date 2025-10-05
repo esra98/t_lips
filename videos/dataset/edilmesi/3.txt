@@ -1,7 +1,0 @@
-Spoken word: edilmesi
-Starttime of utterance in seconds: 2052.700
-Endtime of utterance in seconds: 2053.080
-Duration of utterance in seconds: 0.380
-Confidence: 0.986
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

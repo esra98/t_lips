@@ -1,7 +1,0 @@
-Spoken word: otuz.
-Starttime of utterance in seconds: 765.920
-Endtime of utterance in seconds: 766.360
-Duration of utterance in seconds: 0.440
-Confidence: 0.988
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

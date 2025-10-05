@@ -1,7 +1,0 @@
-Spoken word: temelinde
-Starttime of utterance in seconds: 2151.060
-Endtime of utterance in seconds: 2151.640
-Duration of utterance in seconds: 0.580
-Confidence: 0.931
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

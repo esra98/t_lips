@@ -1,7 +1,0 @@
-Spoken word: bildirilmiştir.
-Starttime of utterance in seconds: 5505.280
-Endtime of utterance in seconds: 5506.100
-Duration of utterance in seconds: 0.820
-Confidence: 0.906
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

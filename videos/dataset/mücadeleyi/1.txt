@@ -1,7 +1,0 @@
-Spoken word: mücadeleyi
-Starttime of utterance in seconds: 884.360
-Endtime of utterance in seconds: 885.000
-Duration of utterance in seconds: 0.640
-Confidence: 0.890
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

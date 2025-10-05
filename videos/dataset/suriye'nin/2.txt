@@ -1,7 +1,0 @@
-Spoken word: suriye'nin
-Starttime of utterance in seconds: 4376.280
-Endtime of utterance in seconds: 4377.540
-Duration of utterance in seconds: 1.260
-Confidence: 0.907
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

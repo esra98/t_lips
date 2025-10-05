@@ -1,7 +1,0 @@
-Spoken word: yapmasının
-Starttime of utterance in seconds: 678.200
-Endtime of utterance in seconds: 678.660
-Duration of utterance in seconds: 0.460
-Confidence: 0.831
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

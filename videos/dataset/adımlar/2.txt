@@ -1,7 +1,0 @@
-Spoken word: adımlar
-Starttime of utterance in seconds: 2600.940
-Endtime of utterance in seconds: 2601.260
-Duration of utterance in seconds: 0.320
-Confidence: 0.985
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

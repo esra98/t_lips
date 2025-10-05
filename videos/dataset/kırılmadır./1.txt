@@ -1,7 +1,0 @@
-Spoken word: kırılmadır.
-Starttime of utterance in seconds: 1800.940
-Endtime of utterance in seconds: 1801.880
-Duration of utterance in seconds: 0.940
-Confidence: 0.949
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

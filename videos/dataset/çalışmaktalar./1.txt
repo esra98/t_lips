@@ -1,7 +1,0 @@
-Spoken word: çalışmaktalar.
-Starttime of utterance in seconds: 2202.780
-Endtime of utterance in seconds: 2203.540
-Duration of utterance in seconds: 0.760
-Confidence: 0.984
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

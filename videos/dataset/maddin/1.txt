@@ -1,7 +1,0 @@
-Spoken word: maddin
-Starttime of utterance in seconds: 2790.380
-Endtime of utterance in seconds: 2790.840
-Duration of utterance in seconds: 0.460
-Confidence: 0.728
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: kararlığını
-Starttime of utterance in seconds: 3655.640
-Endtime of utterance in seconds: 3656.380
-Duration of utterance in seconds: 0.740
-Confidence: 0.812
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

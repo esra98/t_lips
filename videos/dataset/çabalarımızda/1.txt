@@ -1,7 +1,0 @@
-Spoken word: çabalarımızda
-Starttime of utterance in seconds: 2198.180
-Endtime of utterance in seconds: 2198.940
-Duration of utterance in seconds: 0.760
-Confidence: 0.909
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: taşımak
-Starttime of utterance in seconds: 2817.420
-Endtime of utterance in seconds: 2817.840
-Duration of utterance in seconds: 0.420
-Confidence: 0.977
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

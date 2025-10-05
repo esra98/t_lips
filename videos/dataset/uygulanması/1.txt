@@ -1,7 +1,0 @@
-Spoken word: uygulanması
-Starttime of utterance in seconds: 347.580
-Endtime of utterance in seconds: 348.200
-Duration of utterance in seconds: 0.620
-Confidence: 0.981
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

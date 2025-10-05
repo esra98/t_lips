@@ -1,7 +1,0 @@
-Spoken word: veya
-Starttime of utterance in seconds: 309.460
-Endtime of utterance in seconds: 310.260
-Duration of utterance in seconds: 0.800
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

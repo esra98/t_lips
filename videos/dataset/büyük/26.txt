@@ -1,7 +1,0 @@
-Spoken word: büyük
-Starttime of utterance in seconds: 3118.280
-Endtime of utterance in seconds: 3118.560
-Duration of utterance in seconds: 0.280
-Confidence: 0.896
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

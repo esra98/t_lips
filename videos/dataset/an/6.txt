@@ -1,7 +1,0 @@
-Spoken word: an
-Starttime of utterance in seconds: 5623.000
-Endtime of utterance in seconds: 5623.120
-Duration of utterance in seconds: 0.120
-Confidence: 0.991
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

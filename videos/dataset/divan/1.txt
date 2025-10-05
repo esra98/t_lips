@@ -1,7 +1,0 @@
-Spoken word: divan
-Starttime of utterance in seconds: 3503.940
-Endtime of utterance in seconds: 3504.200
-Duration of utterance in seconds: 0.260
-Confidence: 0.274
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

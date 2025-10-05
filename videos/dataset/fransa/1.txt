@@ -1,7 +1,0 @@
-Spoken word: fransa
-Starttime of utterance in seconds: 5559.280
-Endtime of utterance in seconds: 5559.480
-Duration of utterance in seconds: 0.200
-Confidence: 0.920
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: gerekiyor.
-Starttime of utterance in seconds: 1092.000
-Endtime of utterance in seconds: 1092.520
-Duration of utterance in seconds: 0.520
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

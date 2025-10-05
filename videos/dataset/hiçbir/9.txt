@@ -1,7 +1,0 @@
-Spoken word: hiçbir
-Starttime of utterance in seconds: 5828.900
-Endtime of utterance in seconds: 5829.720
-Duration of utterance in seconds: 0.820
-Confidence: 0.958
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

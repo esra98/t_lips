@@ -1,7 +1,0 @@
-Spoken word: hareket
-Starttime of utterance in seconds: 746.460
-Endtime of utterance in seconds: 746.740
-Duration of utterance in seconds: 0.280
-Confidence: 0.839
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

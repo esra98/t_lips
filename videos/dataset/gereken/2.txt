@@ -1,7 +1,0 @@
-Spoken word: gereken
-Starttime of utterance in seconds: 2607.260
-Endtime of utterance in seconds: 2607.700
-Duration of utterance in seconds: 0.440
-Confidence: 0.998
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

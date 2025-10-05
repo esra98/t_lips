@@ -1,7 +1,0 @@
-Spoken word: hissetmesi
-Starttime of utterance in seconds: 5739.260
-Endtime of utterance in seconds: 5739.740
-Duration of utterance in seconds: 0.480
-Confidence: 0.910
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

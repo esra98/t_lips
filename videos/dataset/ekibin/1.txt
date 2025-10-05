@@ -1,7 +1,0 @@
-Spoken word: ekibin
-Starttime of utterance in seconds: 5475.760
-Endtime of utterance in seconds: 5477.660
-Duration of utterance in seconds: 1.900
-Confidence: 0.615
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

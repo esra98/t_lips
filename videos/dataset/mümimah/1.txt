@@ -1,7 +1,0 @@
-Spoken word: mümimah
-Starttime of utterance in seconds: 2047.850
-Endtime of utterance in seconds: 2048.200
-Duration of utterance in seconds: 0.350
-Confidence: 0.267
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

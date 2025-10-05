@@ -1,7 +1,0 @@
-Spoken word: yerine
-Starttime of utterance in seconds: 4776.660
-Endtime of utterance in seconds: 4777.840
-Duration of utterance in seconds: 1.180
-Confidence: 0.972
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

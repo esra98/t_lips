@@ -1,7 +1,0 @@
-Spoken word: hedefi
-Starttime of utterance in seconds: 1988.080
-Endtime of utterance in seconds: 1988.420
-Duration of utterance in seconds: 0.340
-Confidence: 0.899
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

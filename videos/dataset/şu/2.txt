@@ -1,7 +1,0 @@
-Spoken word: şu
-Starttime of utterance in seconds: 1518.300
-Endtime of utterance in seconds: 1518.840
-Duration of utterance in seconds: 0.540
-Confidence: 0.717
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

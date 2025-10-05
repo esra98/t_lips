@@ -1,7 +1,0 @@
-Spoken word: tarafından
-Starttime of utterance in seconds: 3737.740
-Endtime of utterance in seconds: 3737.980
-Duration of utterance in seconds: 0.240
-Confidence: 0.958
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

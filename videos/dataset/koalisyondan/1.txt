@@ -1,7 +1,0 @@
-Spoken word: koalisyondan
-Starttime of utterance in seconds: 368.580
-Endtime of utterance in seconds: 369.840
-Duration of utterance in seconds: 1.260
-Confidence: 0.948
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

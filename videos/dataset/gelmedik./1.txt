@@ -1,7 +1,0 @@
-Spoken word: gelmedik.
-Starttime of utterance in seconds: 2593.880
-Endtime of utterance in seconds: 2594.500
-Duration of utterance in seconds: 0.620
-Confidence: 0.975
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

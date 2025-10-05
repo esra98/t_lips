@@ -1,7 +1,0 @@
-Spoken word: ihlar
-Starttime of utterance in seconds: 5265.200
-Endtime of utterance in seconds: 5265.520
-Duration of utterance in seconds: 0.320
-Confidence: 0.822
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

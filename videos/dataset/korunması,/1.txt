@@ -1,7 +1,0 @@
-Spoken word: korunması,
-Starttime of utterance in seconds: 573.840
-Endtime of utterance in seconds: 574.520
-Duration of utterance in seconds: 0.680
-Confidence: 0.981
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

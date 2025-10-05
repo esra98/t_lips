@@ -1,7 +1,0 @@
-Spoken word: harekete
-Starttime of utterance in seconds: 1899.920
-Endtime of utterance in seconds: 1900.960
-Duration of utterance in seconds: 1.040
-Confidence: 0.744
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

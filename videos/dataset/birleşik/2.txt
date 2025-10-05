@@ -1,7 +1,0 @@
-Spoken word: birleşik
-Starttime of utterance in seconds: 3611.600
-Endtime of utterance in seconds: 3612.480
-Duration of utterance in seconds: 0.880
-Confidence: 0.661
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

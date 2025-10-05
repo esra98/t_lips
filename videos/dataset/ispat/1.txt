@@ -1,7 +1,0 @@
-Spoken word: ispat
-Starttime of utterance in seconds: 4252.100
-Endtime of utterance in seconds: 4252.480
-Duration of utterance in seconds: 0.380
-Confidence: 0.942
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

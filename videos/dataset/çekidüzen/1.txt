@@ -1,7 +1,0 @@
-Spoken word: çekidüzen
-Starttime of utterance in seconds: 4822.920
-Endtime of utterance in seconds: 4823.540
-Duration of utterance in seconds: 0.620
-Confidence: 0.771
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

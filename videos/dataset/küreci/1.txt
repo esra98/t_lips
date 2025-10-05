@@ -1,7 +1,0 @@
-Spoken word: küreci
-Starttime of utterance in seconds: 3684.820
-Endtime of utterance in seconds: 3685.340
-Duration of utterance in seconds: 0.520
-Confidence: 0.492
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

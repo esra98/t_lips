@@ -1,7 +1,0 @@
-Spoken word: buradan
-Starttime of utterance in seconds: 3743.860
-Endtime of utterance in seconds: 3744.460
-Duration of utterance in seconds: 0.600
-Confidence: 0.824
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

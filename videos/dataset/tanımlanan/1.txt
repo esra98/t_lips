@@ -1,7 +1,0 @@
-Spoken word: tanımlanan
-Starttime of utterance in seconds: 217.620
-Endtime of utterance in seconds: 218.240
-Duration of utterance in seconds: 0.620
-Confidence: 0.851
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

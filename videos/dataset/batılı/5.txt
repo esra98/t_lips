@@ -1,7 +1,0 @@
-Spoken word: batılı
-Starttime of utterance in seconds: 5466.220
-Endtime of utterance in seconds: 5466.600
-Duration of utterance in seconds: 0.380
-Confidence: 0.842
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: için
-Starttime of utterance in seconds: 4274.320
-Endtime of utterance in seconds: 4274.660
-Duration of utterance in seconds: 0.340
-Confidence: 0.982
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

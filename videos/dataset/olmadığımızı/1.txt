@@ -1,7 +1,0 @@
-Spoken word: olmadığımızı
-Starttime of utterance in seconds: 4315.360
-Endtime of utterance in seconds: 4316.300
-Duration of utterance in seconds: 0.940
-Confidence: 0.985
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

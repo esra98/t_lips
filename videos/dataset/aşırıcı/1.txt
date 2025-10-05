@@ -1,7 +1,0 @@
-Spoken word: aşırıcı
-Starttime of utterance in seconds: 1276.460
-Endtime of utterance in seconds: 1276.980
-Duration of utterance in seconds: 0.520
-Confidence: 0.993
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

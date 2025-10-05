@@ -1,7 +1,0 @@
-Spoken word: yaygın
-Starttime of utterance in seconds: 1599.900
-Endtime of utterance in seconds: 1600.740
-Duration of utterance in seconds: 0.840
-Confidence: 0.755
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

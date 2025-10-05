@@ -1,7 +1,0 @@
-Spoken word: çoğunluğu
-Starttime of utterance in seconds: 61.620
-Endtime of utterance in seconds: 62.180
-Duration of utterance in seconds: 0.560
-Confidence: 0.930
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

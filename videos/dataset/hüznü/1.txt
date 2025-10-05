@@ -1,7 +1,0 @@
-Spoken word: hüznü
-Starttime of utterance in seconds: 5099.000
-Endtime of utterance in seconds: 5099.540
-Duration of utterance in seconds: 0.540
-Confidence: 0.927
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: gerçekleştirilen
-Starttime of utterance in seconds: 5344.520
-Endtime of utterance in seconds: 5345.340
-Duration of utterance in seconds: 0.820
-Confidence: 0.905
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

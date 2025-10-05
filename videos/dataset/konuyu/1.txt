@@ -1,7 +1,0 @@
-Spoken word: konuyu
-Starttime of utterance in seconds: 3423.200
-Endtime of utterance in seconds: 3423.460
-Duration of utterance in seconds: 0.260
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

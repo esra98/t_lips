@@ -1,7 +1,0 @@
-Spoken word: değinmek
-Starttime of utterance in seconds: 4037.120
-Endtime of utterance in seconds: 4037.640
-Duration of utterance in seconds: 0.520
-Confidence: 0.701
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

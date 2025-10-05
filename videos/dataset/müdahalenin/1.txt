@@ -1,7 +1,0 @@
-Spoken word: müdahalenin
-Starttime of utterance in seconds: 2851.360
-Endtime of utterance in seconds: 2852.340
-Duration of utterance in seconds: 0.980
-Confidence: 0.842
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

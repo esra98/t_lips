@@ -1,7 +1,0 @@
-Spoken word: almaktan
-Starttime of utterance in seconds: 4221.340
-Endtime of utterance in seconds: 4222.160
-Duration of utterance in seconds: 0.820
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: sizin
-Starttime of utterance in seconds: 2871.620
-Endtime of utterance in seconds: 2872.240
-Duration of utterance in seconds: 0.620
-Confidence: 0.908
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

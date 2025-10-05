@@ -1,7 +1,0 @@
-Spoken word: ama
-Starttime of utterance in seconds: 3343.440
-Endtime of utterance in seconds: 3344.000
-Duration of utterance in seconds: 0.560
-Confidence: 0.848
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

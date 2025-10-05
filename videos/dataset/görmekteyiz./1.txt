@@ -1,7 +1,0 @@
-Spoken word: görmekteyiz.
-Starttime of utterance in seconds: 918.380
-Endtime of utterance in seconds: 919.520
-Duration of utterance in seconds: 1.140
-Confidence: 0.975
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

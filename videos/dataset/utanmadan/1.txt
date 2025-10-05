@@ -1,7 +1,0 @@
-Spoken word: utanmadan
-Starttime of utterance in seconds: 3127.580
-Endtime of utterance in seconds: 3128.220
-Duration of utterance in seconds: 0.640
-Confidence: 0.917
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

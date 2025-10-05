@@ -1,7 +1,0 @@
-Spoken word: ticari
-Starttime of utterance in seconds: 1524.580
-Endtime of utterance in seconds: 1524.980
-Duration of utterance in seconds: 0.400
-Confidence: 0.826
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

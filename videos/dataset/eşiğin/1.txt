@@ -1,7 +1,0 @@
-Spoken word: eşiğin
-Starttime of utterance in seconds: 2447.360
-Endtime of utterance in seconds: 2448.300
-Duration of utterance in seconds: 0.940
-Confidence: 0.895
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

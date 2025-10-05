@@ -1,7 +1,0 @@
-Spoken word: hükümetleri
-Starttime of utterance in seconds: 4405.600
-Endtime of utterance in seconds: 4406.360
-Duration of utterance in seconds: 0.760
-Confidence: 0.962
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

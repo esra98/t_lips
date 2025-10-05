@@ -1,7 +1,0 @@
-Spoken word: oylarınıza
-Starttime of utterance in seconds: 718.640
-Endtime of utterance in seconds: 719.180
-Duration of utterance in seconds: 0.540
-Confidence: 0.665
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

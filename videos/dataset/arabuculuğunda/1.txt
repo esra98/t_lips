@@ -1,7 +1,0 @@
-Spoken word: arabuculuğunda
-Starttime of utterance in seconds: 1154.820
-Endtime of utterance in seconds: 1155.880
-Duration of utterance in seconds: 1.060
-Confidence: 0.477
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: ifadeyle
-Starttime of utterance in seconds: 5190.220
-Endtime of utterance in seconds: 5190.840
-Duration of utterance in seconds: 0.620
-Confidence: 0.926
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

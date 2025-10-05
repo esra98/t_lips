@@ -1,7 +1,0 @@
-Spoken word: tavrla
-Starttime of utterance in seconds: 5758.060
-Endtime of utterance in seconds: 5758.600
-Duration of utterance in seconds: 0.540
-Confidence: 0.852
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

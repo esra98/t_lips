@@ -1,7 +1,0 @@
-Spoken word: olağanüstü
-Starttime of utterance in seconds: 1887.320
-Endtime of utterance in seconds: 1888.240
-Duration of utterance in seconds: 0.920
-Confidence: 0.893
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

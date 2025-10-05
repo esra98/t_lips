@@ -1,7 +1,0 @@
-Spoken word: vuracak
-Starttime of utterance in seconds: 1382.620
-Endtime of utterance in seconds: 1382.900
-Duration of utterance in seconds: 0.280
-Confidence: 0.770
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: saldırılar,
-Starttime of utterance in seconds: 1421.760
-Endtime of utterance in seconds: 1422.300
-Duration of utterance in seconds: 0.540
-Confidence: 0.992
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

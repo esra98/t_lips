@@ -1,7 +1,0 @@
-Spoken word: ihlalleri
-Starttime of utterance in seconds: 5206.740
-Endtime of utterance in seconds: 5207.320
-Duration of utterance in seconds: 0.580
-Confidence: 0.856
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

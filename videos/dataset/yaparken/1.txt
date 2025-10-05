@@ -1,7 +1,0 @@
-Spoken word: yaparken
-Starttime of utterance in seconds: 5635.740
-Endtime of utterance in seconds: 5636.180
-Duration of utterance in seconds: 0.440
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

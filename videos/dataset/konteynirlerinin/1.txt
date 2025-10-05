@@ -1,7 +1,0 @@
-Spoken word: konteynirlerinin
-Starttime of utterance in seconds: 4771.460
-Endtime of utterance in seconds: 4772.560
-Duration of utterance in seconds: 1.100
-Confidence: 0.839
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

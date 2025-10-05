@@ -1,7 +1,0 @@
-Spoken word: kısaca
-Starttime of utterance in seconds: 5136.240
-Endtime of utterance in seconds: 5137.660
-Duration of utterance in seconds: 1.420
-Confidence: 0.974
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

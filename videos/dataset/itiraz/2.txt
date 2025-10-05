@@ -1,7 +1,0 @@
-Spoken word: itiraz
-Starttime of utterance in seconds: 4249.000
-Endtime of utterance in seconds: 4250.020
-Duration of utterance in seconds: 1.020
-Confidence: 0.965
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

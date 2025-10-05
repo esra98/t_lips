@@ -1,7 +1,0 @@
-Spoken word: etle
-Starttime of utterance in seconds: 438.780
-Endtime of utterance in seconds: 439.080
-Duration of utterance in seconds: 0.300
-Confidence: 0.740
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: parlamentörler,
-Starttime of utterance in seconds: 1702.160
-Endtime of utterance in seconds: 1702.850
-Duration of utterance in seconds: 0.690
-Confidence: 0.640
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: tutmaz.
-Starttime of utterance in seconds: 2998.490
-Endtime of utterance in seconds: 2999.020
-Duration of utterance in seconds: 0.530
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

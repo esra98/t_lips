@@ -1,7 +1,0 @@
-Spoken word: dahir
-Starttime of utterance in seconds: 2133.840
-Endtime of utterance in seconds: 2134.600
-Duration of utterance in seconds: 0.760
-Confidence: 0.576
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

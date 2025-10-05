@@ -1,7 +1,0 @@
-Spoken word: söz
-Starttime of utterance in seconds: 5713.560
-Endtime of utterance in seconds: 5713.660
-Duration of utterance in seconds: 0.100
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

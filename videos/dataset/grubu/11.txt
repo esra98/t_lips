@@ -1,7 +1,0 @@
-Spoken word: grubu
-Starttime of utterance in seconds: 3041.520
-Endtime of utterance in seconds: 3042.280
-Duration of utterance in seconds: 0.760
-Confidence: 0.816
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

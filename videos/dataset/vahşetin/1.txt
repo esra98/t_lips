@@ -1,7 +1,0 @@
-Spoken word: vahşetin
-Starttime of utterance in seconds: 1841.600
-Endtime of utterance in seconds: 1842.080
-Duration of utterance in seconds: 0.480
-Confidence: 0.880
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

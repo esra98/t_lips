@@ -1,7 +1,0 @@
-Spoken word: müslümanların
-Starttime of utterance in seconds: 5731.620
-Endtime of utterance in seconds: 5732.920
-Duration of utterance in seconds: 1.300
-Confidence: 0.894
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

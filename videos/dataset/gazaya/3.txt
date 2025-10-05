@@ -1,7 +1,0 @@
-Spoken word: gazaya
-Starttime of utterance in seconds: 1583.270
-Endtime of utterance in seconds: 1583.680
-Duration of utterance in seconds: 0.410
-Confidence: 0.915
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

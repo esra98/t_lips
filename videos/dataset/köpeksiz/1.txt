@@ -1,7 +1,0 @@
-Spoken word: köpeksiz
-Starttime of utterance in seconds: 3161.540
-Endtime of utterance in seconds: 3162.060
-Duration of utterance in seconds: 0.520
-Confidence: 0.774
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

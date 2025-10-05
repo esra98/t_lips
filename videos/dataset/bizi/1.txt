@@ -1,7 +1,0 @@
-Spoken word: bizi
-Starttime of utterance in seconds: 4239.860
-Endtime of utterance in seconds: 4240.710
-Duration of utterance in seconds: 0.850
-Confidence: 0.672
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

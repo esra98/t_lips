@@ -1,7 +1,0 @@
-Spoken word: bahane
-Starttime of utterance in seconds: 3203.880
-Endtime of utterance in seconds: 3204.180
-Duration of utterance in seconds: 0.300
-Confidence: 0.976
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

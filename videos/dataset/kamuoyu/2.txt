@@ -1,7 +1,0 @@
-Spoken word: kamuoyu
-Starttime of utterance in seconds: 2020.940
-Endtime of utterance in seconds: 2021.480
-Duration of utterance in seconds: 0.540
-Confidence: 0.800
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

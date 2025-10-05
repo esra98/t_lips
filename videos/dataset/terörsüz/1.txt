@@ -1,7 +1,0 @@
-Spoken word: terörsüz
-Starttime of utterance in seconds: 4831.680
-Endtime of utterance in seconds: 4832.380
-Duration of utterance in seconds: 0.700
-Confidence: 0.944
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

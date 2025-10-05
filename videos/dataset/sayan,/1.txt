@@ -1,7 +1,0 @@
-Spoken word: sayan,
-Starttime of utterance in seconds: 1425.680
-Endtime of utterance in seconds: 1426.000
-Duration of utterance in seconds: 0.320
-Confidence: 0.967
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

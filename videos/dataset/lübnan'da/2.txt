@@ -1,7 +1,0 @@
-Spoken word: lübnan'da
-Starttime of utterance in seconds: 3117.840
-Endtime of utterance in seconds: 3118.280
-Duration of utterance in seconds: 0.440
-Confidence: 0.783
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

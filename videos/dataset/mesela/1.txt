@@ -1,7 +1,0 @@
-Spoken word: mesela
-Starttime of utterance in seconds: 3683.780
-Endtime of utterance in seconds: 3684.070
-Duration of utterance in seconds: 0.290
-Confidence: 0.296
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: dolayısı
-Starttime of utterance in seconds: 3709.300
-Endtime of utterance in seconds: 3709.600
-Duration of utterance in seconds: 0.300
-Confidence: 0.882
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

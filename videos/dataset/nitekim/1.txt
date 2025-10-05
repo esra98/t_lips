@@ -1,7 +1,0 @@
-Spoken word: nitekim
-Starttime of utterance in seconds: 357.200
-Endtime of utterance in seconds: 358.100
-Duration of utterance in seconds: 0.900
-Confidence: 0.895
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

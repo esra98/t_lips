@@ -1,7 +1,0 @@
-Spoken word: kimse
-Starttime of utterance in seconds: 4297.960
-Endtime of utterance in seconds: 4298.400
-Duration of utterance in seconds: 0.440
-Confidence: 0.944
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

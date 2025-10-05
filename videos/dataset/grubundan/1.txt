@@ -1,7 +1,0 @@
-Spoken word: grubundan
-Starttime of utterance in seconds: 3372.840
-Endtime of utterance in seconds: 3373.440
-Duration of utterance in seconds: 0.600
-Confidence: 0.869
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

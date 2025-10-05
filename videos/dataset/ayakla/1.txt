@@ -1,7 +1,0 @@
-Spoken word: ayakla
-Starttime of utterance in seconds: 3565.400
-Endtime of utterance in seconds: 3565.590
-Duration of utterance in seconds: 0.190
-Confidence: 0.639
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

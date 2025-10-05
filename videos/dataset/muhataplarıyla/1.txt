@@ -1,7 +1,0 @@
-Spoken word: muhataplarıyla
-Starttime of utterance in seconds: 1641.800
-Endtime of utterance in seconds: 1642.540
-Duration of utterance in seconds: 0.740
-Confidence: 0.927
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: bölgedeki
-Starttime of utterance in seconds: 2131.780
-Endtime of utterance in seconds: 2132.820
-Duration of utterance in seconds: 1.040
-Confidence: 0.985
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

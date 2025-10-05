@@ -1,7 +1,0 @@
-Spoken word: bunu
-Starttime of utterance in seconds: 3223.420
-Endtime of utterance in seconds: 3223.500
-Duration of utterance in seconds: 0.080
-Confidence: 0.485
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: hakikat
-Starttime of utterance in seconds: 4115.060
-Endtime of utterance in seconds: 4115.660
-Duration of utterance in seconds: 0.600
-Confidence: 0.813
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: zamanında
-Starttime of utterance in seconds: 2645.220
-Endtime of utterance in seconds: 2645.740
-Duration of utterance in seconds: 0.520
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

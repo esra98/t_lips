@@ -1,7 +1,0 @@
-Spoken word: temzicisi
-Starttime of utterance in seconds: 5616.960
-Endtime of utterance in seconds: 5617.420
-Duration of utterance in seconds: 0.460
-Confidence: 0.618
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

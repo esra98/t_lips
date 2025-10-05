@@ -1,7 +1,0 @@
-Spoken word: aziz
-Starttime of utterance in seconds: 5089.740
-Endtime of utterance in seconds: 5090.020
-Duration of utterance in seconds: 0.280
-Confidence: 0.739
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

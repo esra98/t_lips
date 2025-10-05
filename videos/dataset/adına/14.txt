@@ -1,7 +1,0 @@
-Spoken word: adına
-Starttime of utterance in seconds: 5055.780
-Endtime of utterance in seconds: 5056.080
-Duration of utterance in seconds: 0.300
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

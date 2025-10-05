@@ -1,7 +1,0 @@
-Spoken word: iranda
-Starttime of utterance in seconds: 173.400
-Endtime of utterance in seconds: 174.380
-Duration of utterance in seconds: 0.980
-Confidence: 0.293
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

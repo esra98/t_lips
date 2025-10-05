@@ -1,7 +1,0 @@
-Spoken word: yoksun
-Starttime of utterance in seconds: 5448.680
-Endtime of utterance in seconds: 5449.400
-Duration of utterance in seconds: 0.720
-Confidence: 0.878
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

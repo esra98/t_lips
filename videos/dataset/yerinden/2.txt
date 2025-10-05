@@ -1,7 +1,0 @@
-Spoken word: yerinden
-Starttime of utterance in seconds: 5362.500
-Endtime of utterance in seconds: 5363.240
-Duration of utterance in seconds: 0.740
-Confidence: 0.899
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

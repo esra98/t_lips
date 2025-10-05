@@ -1,7 +1,0 @@
-Spoken word: oyuna
-Starttime of utterance in seconds: 4187.760
-Endtime of utterance in seconds: 4188.300
-Duration of utterance in seconds: 0.540
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

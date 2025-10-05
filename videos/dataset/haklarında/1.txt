@@ -1,7 +1,0 @@
-Spoken word: haklarında
-Starttime of utterance in seconds: 3728.380
-Endtime of utterance in seconds: 3729.200
-Duration of utterance in seconds: 0.820
-Confidence: 0.871
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

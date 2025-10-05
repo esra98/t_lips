@@ -1,7 +1,0 @@
-Spoken word: i̇ran
-Starttime of utterance in seconds: 925.460
-Endtime of utterance in seconds: 926.500
-Duration of utterance in seconds: 1.040
-Confidence: 0.689
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

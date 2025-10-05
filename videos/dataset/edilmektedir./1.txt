@@ -1,7 +1,0 @@
-Spoken word: edilmektedir.
-Starttime of utterance in seconds: 303.340
-Endtime of utterance in seconds: 304.060
-Duration of utterance in seconds: 0.720
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: oturulamaz
-Starttime of utterance in seconds: 2427.420
-Endtime of utterance in seconds: 2428.020
-Duration of utterance in seconds: 0.600
-Confidence: 0.882
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

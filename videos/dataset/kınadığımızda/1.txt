@@ -1,7 +1,0 @@
-Spoken word: kınadığımızda
-Starttime of utterance in seconds: 3979.940
-Endtime of utterance in seconds: 3980.980
-Duration of utterance in seconds: 1.040
-Confidence: 0.969
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

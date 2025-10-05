@@ -1,7 +1,0 @@
-Spoken word: temel
-Starttime of utterance in seconds: 5200.200
-Endtime of utterance in seconds: 5200.510
-Duration of utterance in seconds: 0.310
-Confidence: 0.825
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

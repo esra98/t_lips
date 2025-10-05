@@ -1,7 +1,0 @@
-Spoken word: teminen
-Starttime of utterance in seconds: 1148.360
-Endtime of utterance in seconds: 1148.800
-Duration of utterance in seconds: 0.440
-Confidence: 0.758
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: gösteren
-Starttime of utterance in seconds: 2336.480
-Endtime of utterance in seconds: 2337.000
-Duration of utterance in seconds: 0.520
-Confidence: 0.993
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

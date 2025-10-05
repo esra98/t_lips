@@ -1,7 +1,0 @@
-Spoken word: hukuksuzluğu
-Starttime of utterance in seconds: 999.640
-Endtime of utterance in seconds: 1000.460
-Duration of utterance in seconds: 0.820
-Confidence: 0.910
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

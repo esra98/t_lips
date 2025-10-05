@@ -1,7 +1,0 @@
-Spoken word: edesin
-Starttime of utterance in seconds: 613.520
-Endtime of utterance in seconds: 614.020
-Duration of utterance in seconds: 0.500
-Confidence: 0.644
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

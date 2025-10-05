@@ -1,7 +1,0 @@
-Spoken word: önde
-Starttime of utterance in seconds: 2078.920
-Endtime of utterance in seconds: 2079.560
-Duration of utterance in seconds: 0.640
-Confidence: 0.945
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

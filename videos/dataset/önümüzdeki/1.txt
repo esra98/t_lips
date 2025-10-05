@@ -1,7 +1,0 @@
-Spoken word: önümüzdeki
-Starttime of utterance in seconds: 1174.420
-Endtime of utterance in seconds: 1175.020
-Duration of utterance in seconds: 0.600
-Confidence: 0.993
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: olamamaktadır.
-Starttime of utterance in seconds: 5586.170
-Endtime of utterance in seconds: 5586.900
-Duration of utterance in seconds: 0.730
-Confidence: 0.915
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

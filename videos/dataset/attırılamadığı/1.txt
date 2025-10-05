@@ -1,7 +1,0 @@
-Spoken word: attırılamadığı
-Starttime of utterance in seconds: 3177.640
-Endtime of utterance in seconds: 3178.840
-Duration of utterance in seconds: 1.200
-Confidence: 0.493
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

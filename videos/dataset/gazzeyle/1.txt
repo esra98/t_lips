@@ -1,7 +1,0 @@
-Spoken word: gazzeyle
-Starttime of utterance in seconds: 193.180
-Endtime of utterance in seconds: 194.080
-Duration of utterance in seconds: 0.900
-Confidence: 0.794
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

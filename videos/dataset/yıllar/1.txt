@@ -1,7 +1,0 @@
-Spoken word: yıllar
-Starttime of utterance in seconds: 4480.020
-Endtime of utterance in seconds: 4481.060
-Duration of utterance in seconds: 1.040
-Confidence: 0.955
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

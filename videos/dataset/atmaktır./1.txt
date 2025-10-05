@@ -1,7 +1,0 @@
-Spoken word: atmaktır.
-Starttime of utterance in seconds: 1993.300
-Endtime of utterance in seconds: 1993.820
-Duration of utterance in seconds: 0.520
-Confidence: 0.936
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

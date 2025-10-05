@@ -1,7 +1,0 @@
-Spoken word: lütfen
-Starttime of utterance in seconds: 2843.520
-Endtime of utterance in seconds: 2843.760
-Duration of utterance in seconds: 0.240
-Confidence: 0.968
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

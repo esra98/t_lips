@@ -1,7 +1,0 @@
-Spoken word: i̇srail'e
-Starttime of utterance in seconds: 3724.960
-Endtime of utterance in seconds: 3725.340
-Duration of utterance in seconds: 0.380
-Confidence: 0.925
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

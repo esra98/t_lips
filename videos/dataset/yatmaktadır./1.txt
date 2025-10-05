@@ -1,7 +1,0 @@
-Spoken word: yatmaktadır.
-Starttime of utterance in seconds: 2153.960
-Endtime of utterance in seconds: 2154.840
-Duration of utterance in seconds: 0.880
-Confidence: 0.987
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

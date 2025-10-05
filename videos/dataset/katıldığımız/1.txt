@@ -1,7 +1,0 @@
-Spoken word: katıldığımız
-Starttime of utterance in seconds: 503.000
-Endtime of utterance in seconds: 503.600
-Duration of utterance in seconds: 0.600
-Confidence: 0.869
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

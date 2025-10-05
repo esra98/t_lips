@@ -1,7 +1,0 @@
-Spoken word: ihtiyacı
-Starttime of utterance in seconds: 4074.160
-Endtime of utterance in seconds: 4075.100
-Duration of utterance in seconds: 0.940
-Confidence: 0.989
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

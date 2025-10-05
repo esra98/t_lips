@@ -1,7 +1,0 @@
-Spoken word: bugünlerden
-Starttime of utterance in seconds: 2992.040
-Endtime of utterance in seconds: 2992.960
-Duration of utterance in seconds: 0.920
-Confidence: 0.920
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

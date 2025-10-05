@@ -1,7 +1,0 @@
-Spoken word: almaya
-Starttime of utterance in seconds: 1643.920
-Endtime of utterance in seconds: 1644.300
-Duration of utterance in seconds: 0.380
-Confidence: 0.974
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

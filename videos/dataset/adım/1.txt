@@ -1,7 +1,0 @@
-Spoken word: adım
-Starttime of utterance in seconds: 1517.380
-Endtime of utterance in seconds: 1517.840
-Duration of utterance in seconds: 0.460
-Confidence: 0.980
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

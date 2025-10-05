@@ -1,7 +1,0 @@
-Spoken word: insanlar
-Starttime of utterance in seconds: 2615.460
-Endtime of utterance in seconds: 2616.000
-Duration of utterance in seconds: 0.540
-Confidence: 0.996
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

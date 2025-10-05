@@ -1,7 +1,0 @@
-Spoken word: zalim
-Starttime of utterance in seconds: 3330.200
-Endtime of utterance in seconds: 3330.510
-Duration of utterance in seconds: 0.310
-Confidence: 0.890
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

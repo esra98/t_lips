@@ -1,7 +1,0 @@
-Spoken word: her
-Starttime of utterance in seconds: 998.640
-Endtime of utterance in seconds: 999.260
-Duration of utterance in seconds: 0.620
-Confidence: 0.543
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

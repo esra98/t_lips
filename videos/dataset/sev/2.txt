@@ -1,7 +1,0 @@
-Spoken word: sev
-Starttime of utterance in seconds: 4930.040
-Endtime of utterance in seconds: 4930.500
-Duration of utterance in seconds: 0.460
-Confidence: 0.942
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

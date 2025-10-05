@@ -1,7 +1,0 @@
-Spoken word: görüyorum
-Starttime of utterance in seconds: 4803.480
-Endtime of utterance in seconds: 4804.380
-Duration of utterance in seconds: 0.900
-Confidence: 0.935
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: nazi
-Starttime of utterance in seconds: 4369.900
-Endtime of utterance in seconds: 4370.780
-Duration of utterance in seconds: 0.880
-Confidence: 0.713
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

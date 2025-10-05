@@ -1,7 +1,0 @@
-Spoken word: gerekiyordu
-Starttime of utterance in seconds: 2717.800
-Endtime of utterance in seconds: 2718.280
-Duration of utterance in seconds: 0.480
-Confidence: 0.950
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: heyetinizi
-Starttime of utterance in seconds: 5088.280
-Endtime of utterance in seconds: 5088.820
-Duration of utterance in seconds: 0.540
-Confidence: 0.786
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

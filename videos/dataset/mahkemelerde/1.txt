@@ -1,7 +1,0 @@
-Spoken word: mahkemelerde
-Starttime of utterance in seconds: 584.900
-Endtime of utterance in seconds: 585.700
-Duration of utterance in seconds: 0.800
-Confidence: 0.969
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: ortaklık
-Starttime of utterance in seconds: 3709.600
-Endtime of utterance in seconds: 3710.000
-Duration of utterance in seconds: 0.400
-Confidence: 0.979
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

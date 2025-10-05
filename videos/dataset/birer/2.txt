@@ -1,7 +1,0 @@
-Spoken word: birer
-Starttime of utterance in seconds: 916.240
-Endtime of utterance in seconds: 916.360
-Duration of utterance in seconds: 0.120
-Confidence: 0.976
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

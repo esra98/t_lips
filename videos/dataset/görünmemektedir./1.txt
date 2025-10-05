@@ -1,7 +1,0 @@
-Spoken word: görünmemektedir.
-Starttime of utterance in seconds: 2185.980
-Endtime of utterance in seconds: 2186.860
-Duration of utterance in seconds: 0.880
-Confidence: 0.983
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: ası
-Starttime of utterance in seconds: 1955.560
-Endtime of utterance in seconds: 1955.740
-Duration of utterance in seconds: 0.180
-Confidence: 0.872
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

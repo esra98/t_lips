@@ -1,7 +1,0 @@
-Spoken word: sembolü
-Starttime of utterance in seconds: 2293.480
-Endtime of utterance in seconds: 2294.020
-Duration of utterance in seconds: 0.540
-Confidence: 0.810
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

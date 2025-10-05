@@ -1,7 +1,0 @@
-Spoken word: ana
-Starttime of utterance in seconds: 1472.360
-Endtime of utterance in seconds: 1472.520
-Duration of utterance in seconds: 0.160
-Confidence: 0.964
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

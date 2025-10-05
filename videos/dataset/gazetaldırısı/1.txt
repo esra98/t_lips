@@ -1,7 +1,0 @@
-Spoken word: gazetaldırısı
-Starttime of utterance in seconds: 655.560
-Endtime of utterance in seconds: 657.140
-Duration of utterance in seconds: 1.580
-Confidence: 0.741
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

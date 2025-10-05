@@ -1,7 +1,0 @@
-Spoken word: fırsatta
-Starttime of utterance in seconds: 3258.560
-Endtime of utterance in seconds: 3259.020
-Duration of utterance in seconds: 0.460
-Confidence: 0.982
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

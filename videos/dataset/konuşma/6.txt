@@ -1,7 +1,0 @@
-Spoken word: konuşma
-Starttime of utterance in seconds: 2357.760
-Endtime of utterance in seconds: 2358.280
-Duration of utterance in seconds: 0.520
-Confidence: 0.995
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

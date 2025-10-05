@@ -1,7 +1,0 @@
-Spoken word: uzun
-Starttime of utterance in seconds: 4082.420
-Endtime of utterance in seconds: 4083.300
-Duration of utterance in seconds: 0.880
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

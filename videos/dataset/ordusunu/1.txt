@@ -1,7 +1,0 @@
-Spoken word: ordusunu
-Starttime of utterance in seconds: 3567.600
-Endtime of utterance in seconds: 3568.020
-Duration of utterance in seconds: 0.420
-Confidence: 0.769
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

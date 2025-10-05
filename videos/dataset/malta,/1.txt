@@ -1,7 +1,0 @@
-Spoken word: malta,
-Starttime of utterance in seconds: 1783.640
-Endtime of utterance in seconds: 1784.240
-Duration of utterance in seconds: 0.600
-Confidence: 0.993
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: sınırın
-Starttime of utterance in seconds: 2532.920
-Endtime of utterance in seconds: 2533.520
-Duration of utterance in seconds: 0.600
-Confidence: 0.960
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

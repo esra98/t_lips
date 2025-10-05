@@ -1,7 +1,0 @@
-Spoken word: edin.
-Starttime of utterance in seconds: 2899.880
-Endtime of utterance in seconds: 2900.180
-Duration of utterance in seconds: 0.300
-Confidence: 0.976
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

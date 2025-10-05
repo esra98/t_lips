@@ -1,7 +1,0 @@
-Spoken word: yüz
-Starttime of utterance in seconds: 5482.540
-Endtime of utterance in seconds: 5482.740
-Duration of utterance in seconds: 0.200
-Confidence: 0.737
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

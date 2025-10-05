@@ -1,7 +1,0 @@
-Spoken word: başvurusunun
-Starttime of utterance in seconds: 3517.420
-Endtime of utterance in seconds: 3517.960
-Duration of utterance in seconds: 0.540
-Confidence: 0.916
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

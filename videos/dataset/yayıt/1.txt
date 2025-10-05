@@ -1,7 +1,0 @@
-Spoken word: yayıt
-Starttime of utterance in seconds: 2068.720
-Endtime of utterance in seconds: 2069.080
-Duration of utterance in seconds: 0.360
-Confidence: 0.711
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

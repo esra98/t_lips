@@ -1,7 +1,0 @@
-Spoken word: kardeşimizin
-Starttime of utterance in seconds: 1199.800
-Endtime of utterance in seconds: 1200.380
-Duration of utterance in seconds: 0.580
-Confidence: 0.921
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

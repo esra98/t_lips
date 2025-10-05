@@ -1,7 +1,0 @@
-Spoken word: bekliyor.
-Starttime of utterance in seconds: 4356.920
-Endtime of utterance in seconds: 4357.320
-Duration of utterance in seconds: 0.400
-Confidence: 0.986
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

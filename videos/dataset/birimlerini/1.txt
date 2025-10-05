@@ -1,7 +1,0 @@
-Spoken word: birimlerini
-Starttime of utterance in seconds: 148.200
-Endtime of utterance in seconds: 148.680
-Duration of utterance in seconds: 0.480
-Confidence: 0.979
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

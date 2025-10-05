@@ -1,7 +1,0 @@
-Spoken word: millettir.
-Starttime of utterance in seconds: 4261.260
-Endtime of utterance in seconds: 4261.880
-Duration of utterance in seconds: 0.620
-Confidence: 0.968
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: desteklemeye
-Starttime of utterance in seconds: 3030.820
-Endtime of utterance in seconds: 3031.500
-Duration of utterance in seconds: 0.680
-Confidence: 0.878
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

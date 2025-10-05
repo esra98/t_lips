@@ -1,7 +1,0 @@
-Spoken word: sekiz
-Starttime of utterance in seconds: 3534.640
-Endtime of utterance in seconds: 3534.900
-Duration of utterance in seconds: 0.260
-Confidence: 0.989
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

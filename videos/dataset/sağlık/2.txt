@@ -1,7 +1,0 @@
-Spoken word: sağlık
-Starttime of utterance in seconds: 102.620
-Endtime of utterance in seconds: 103.100
-Duration of utterance in seconds: 0.480
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: malzeme
-Starttime of utterance in seconds: 3763.980
-Endtime of utterance in seconds: 3764.400
-Duration of utterance in seconds: 0.420
-Confidence: 0.926
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

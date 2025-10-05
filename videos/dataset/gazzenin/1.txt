@@ -1,7 +1,0 @@
-Spoken word: gazzenin
-Starttime of utterance in seconds: 77.520
-Endtime of utterance in seconds: 78.280
-Duration of utterance in seconds: 0.760
-Confidence: 0.778
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: maalesef
-Starttime of utterance in seconds: 5114.180
-Endtime of utterance in seconds: 5115.380
-Duration of utterance in seconds: 1.200
-Confidence: 0.968
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

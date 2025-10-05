@@ -1,7 +1,0 @@
-Spoken word: su
-Starttime of utterance in seconds: 2030.360
-Endtime of utterance in seconds: 2030.500
-Duration of utterance in seconds: 0.140
-Confidence: 0.652
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

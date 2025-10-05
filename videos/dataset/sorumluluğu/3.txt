@@ -1,7 +1,0 @@
-Spoken word: sorumluluğu
-Starttime of utterance in seconds: 5770.900
-Endtime of utterance in seconds: 5771.420
-Duration of utterance in seconds: 0.520
-Confidence: 0.940
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: isteniliyor,
-Starttime of utterance in seconds: 3318.900
-Endtime of utterance in seconds: 3319.400
-Duration of utterance in seconds: 0.500
-Confidence: 0.934
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

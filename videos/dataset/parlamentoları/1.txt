@@ -1,7 +1,0 @@
-Spoken word: parlamentoları
-Starttime of utterance in seconds: 315.340
-Endtime of utterance in seconds: 316.240
-Duration of utterance in seconds: 0.900
-Confidence: 0.880
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

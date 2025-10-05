@@ -1,7 +1,0 @@
-Spoken word: kollektif
-Starttime of utterance in seconds: 2035.960
-Endtime of utterance in seconds: 2036.480
-Duration of utterance in seconds: 0.520
-Confidence: 0.843
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

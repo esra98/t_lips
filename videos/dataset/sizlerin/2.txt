@@ -1,7 +1,0 @@
-Spoken word: sizlerin
-Starttime of utterance in seconds: 1144.620
-Endtime of utterance in seconds: 1145.520
-Duration of utterance in seconds: 0.900
-Confidence: 0.880
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

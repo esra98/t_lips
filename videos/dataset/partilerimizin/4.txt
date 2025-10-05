@@ -1,7 +1,0 @@
-Spoken word: partilerimizin
-Starttime of utterance in seconds: 3851.140
-Endtime of utterance in seconds: 3852.020
-Duration of utterance in seconds: 0.880
-Confidence: 0.963
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

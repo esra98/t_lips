@@ -1,7 +1,0 @@
-Spoken word: öte
-Starttime of utterance in seconds: 5113.100
-Endtime of utterance in seconds: 5113.880
-Duration of utterance in seconds: 0.780
-Confidence: 0.893
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: mecbur
-Starttime of utterance in seconds: 1848.620
-Endtime of utterance in seconds: 1849.660
-Duration of utterance in seconds: 1.040
-Confidence: 0.778
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

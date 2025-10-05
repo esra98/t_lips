@@ -1,7 +1,0 @@
-Spoken word: şartları
-Starttime of utterance in seconds: 982.360
-Endtime of utterance in seconds: 982.840
-Duration of utterance in seconds: 0.480
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

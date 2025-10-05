@@ -1,7 +1,0 @@
-Spoken word: koç
-Starttime of utterance in seconds: 741.180
-Endtime of utterance in seconds: 741.460
-Duration of utterance in seconds: 0.280
-Confidence: 0.642
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

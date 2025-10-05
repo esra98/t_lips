@@ -1,7 +1,0 @@
-Spoken word: ben
-Starttime of utterance in seconds: 4990.720
-Endtime of utterance in seconds: 4992.260
-Duration of utterance in seconds: 1.540
-Confidence: 0.963
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

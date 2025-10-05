@@ -1,7 +1,0 @@
-Spoken word: soykuro'mu
-Starttime of utterance in seconds: 5077.420
-Endtime of utterance in seconds: 5077.940
-Duration of utterance in seconds: 0.520
-Confidence: 0.326
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

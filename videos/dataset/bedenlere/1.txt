@@ -1,7 +1,0 @@
-Spoken word: bedenlere
-Starttime of utterance in seconds: 2440.780
-Endtime of utterance in seconds: 2441.240
-Duration of utterance in seconds: 0.460
-Confidence: 0.765
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

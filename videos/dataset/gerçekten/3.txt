@@ -1,7 +1,0 @@
-Spoken word: gerçekten
-Starttime of utterance in seconds: 3137.960
-Endtime of utterance in seconds: 3138.880
-Duration of utterance in seconds: 0.920
-Confidence: 0.885
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

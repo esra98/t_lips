@@ -1,7 +1,0 @@
-Spoken word: hassas
-Starttime of utterance in seconds: 1387.840
-Endtime of utterance in seconds: 1388.180
-Duration of utterance in seconds: 0.340
-Confidence: 0.838
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

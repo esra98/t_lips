@@ -1,7 +1,0 @@
-Spoken word: boyalı
-Starttime of utterance in seconds: 4462.060
-Endtime of utterance in seconds: 4462.660
-Duration of utterance in seconds: 0.600
-Confidence: 0.774
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: kontrolü
-Starttime of utterance in seconds: 1016.880
-Endtime of utterance in seconds: 1017.400
-Duration of utterance in seconds: 0.520
-Confidence: 0.671
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

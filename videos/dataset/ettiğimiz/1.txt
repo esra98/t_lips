@@ -1,7 +1,0 @@
-Spoken word: ettiğimiz
-Starttime of utterance in seconds: 483.860
-Endtime of utterance in seconds: 484.360
-Duration of utterance in seconds: 0.500
-Confidence: 0.842
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

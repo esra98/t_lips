@@ -1,7 +1,0 @@
-Spoken word: pervasız
-Starttime of utterance in seconds: 1435.100
-Endtime of utterance in seconds: 1435.840
-Duration of utterance in seconds: 0.740
-Confidence: 0.840
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

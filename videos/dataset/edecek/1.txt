@@ -1,7 +1,0 @@
-Spoken word: edecek
-Starttime of utterance in seconds: 2183.980
-Endtime of utterance in seconds: 2184.240
-Duration of utterance in seconds: 0.260
-Confidence: 0.945
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

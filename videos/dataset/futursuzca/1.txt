@@ -1,7 +1,0 @@
-Spoken word: futursuzca
-Starttime of utterance in seconds: 204.440
-Endtime of utterance in seconds: 205.320
-Duration of utterance in seconds: 0.880
-Confidence: 0.914
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

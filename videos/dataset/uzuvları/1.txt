@@ -1,7 +1,0 @@
-Spoken word: uzuvları
-Starttime of utterance in seconds: 5733.640
-Endtime of utterance in seconds: 5734.060
-Duration of utterance in seconds: 0.420
-Confidence: 0.689
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

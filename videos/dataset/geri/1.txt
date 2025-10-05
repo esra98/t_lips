@@ -1,7 +1,0 @@
-Spoken word: geri
-Starttime of utterance in seconds: 1021.940
-Endtime of utterance in seconds: 1022.160
-Duration of utterance in seconds: 0.220
-Confidence: 0.989
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

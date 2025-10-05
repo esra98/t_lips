@@ -1,7 +1,0 @@
-Spoken word: karşılaştığı
-Starttime of utterance in seconds: 1924.160
-Endtime of utterance in seconds: 1924.760
-Duration of utterance in seconds: 0.600
-Confidence: 0.918
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

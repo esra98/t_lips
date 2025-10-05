@@ -1,7 +1,0 @@
-Spoken word: yontemi
-Starttime of utterance in seconds: 111.860
-Endtime of utterance in seconds: 112.280
-Duration of utterance in seconds: 0.420
-Confidence: 0.567
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

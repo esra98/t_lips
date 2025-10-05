@@ -1,7 +1,0 @@
-Spoken word: yedi
-Starttime of utterance in seconds: 3349.180
-Endtime of utterance in seconds: 3349.700
-Duration of utterance in seconds: 0.520
-Confidence: 0.914
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

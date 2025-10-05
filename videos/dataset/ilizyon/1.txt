@@ -1,7 +1,0 @@
-Spoken word: ilizyon
-Starttime of utterance in seconds: 1831.000
-Endtime of utterance in seconds: 1831.480
-Duration of utterance in seconds: 0.480
-Confidence: 0.820
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

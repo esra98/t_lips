@@ -1,7 +1,0 @@
-Spoken word: nihayetinde
-Starttime of utterance in seconds: 2146.120
-Endtime of utterance in seconds: 2147.440
-Duration of utterance in seconds: 1.320
-Confidence: 0.939
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

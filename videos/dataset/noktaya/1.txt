@@ -1,7 +1,0 @@
-Spoken word: noktaya
-Starttime of utterance in seconds: 104.820
-Endtime of utterance in seconds: 105.200
-Duration of utterance in seconds: 0.380
-Confidence: 0.955
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

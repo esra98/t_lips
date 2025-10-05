@@ -1,7 +1,0 @@
-Spoken word: sabi
-Starttime of utterance in seconds: 2829.380
-Endtime of utterance in seconds: 2829.730
-Duration of utterance in seconds: 0.350
-Confidence: 0.737
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

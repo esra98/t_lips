@@ -1,7 +1,0 @@
-Spoken word: konuk
-Starttime of utterance in seconds: 464.260
-Endtime of utterance in seconds: 464.550
-Duration of utterance in seconds: 0.290
-Confidence: 0.935
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

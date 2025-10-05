@@ -1,7 +1,0 @@
-Spoken word: hastaneleri
-Starttime of utterance in seconds: 5155.980
-Endtime of utterance in seconds: 5157.000
-Duration of utterance in seconds: 1.020
-Confidence: 0.857
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

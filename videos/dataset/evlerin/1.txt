@@ -1,7 +1,0 @@
-Spoken word: evlerin
-Starttime of utterance in seconds: 5349.320
-Endtime of utterance in seconds: 5349.740
-Duration of utterance in seconds: 0.420
-Confidence: 0.984
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

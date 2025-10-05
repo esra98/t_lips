@@ -1,7 +1,0 @@
-Spoken word: fikridaş
-Starttime of utterance in seconds: 1491.400
-Endtime of utterance in seconds: 1492.230
-Duration of utterance in seconds: 0.830
-Confidence: 0.642
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

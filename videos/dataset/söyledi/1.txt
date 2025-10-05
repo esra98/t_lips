@@ -1,7 +1,0 @@
-Spoken word: söyledi
-Starttime of utterance in seconds: 3750.060
-Endtime of utterance in seconds: 3750.320
-Duration of utterance in seconds: 0.260
-Confidence: 0.644
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

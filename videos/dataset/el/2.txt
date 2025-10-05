@@ -1,7 +1,0 @@
-Spoken word: el
-Starttime of utterance in seconds: 2799.180
-Endtime of utterance in seconds: 2800.220
-Duration of utterance in seconds: 1.040
-Confidence: 0.704
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

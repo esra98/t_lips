@@ -1,7 +1,0 @@
-Spoken word: şüphesiz.
-Starttime of utterance in seconds: 597.520
-Endtime of utterance in seconds: 598.140
-Duration of utterance in seconds: 0.620
-Confidence: 0.910
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

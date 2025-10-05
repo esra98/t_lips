@@ -1,7 +1,0 @@
-Spoken word: istedikleri
-Starttime of utterance in seconds: 4923.560
-Endtime of utterance in seconds: 4924.340
-Duration of utterance in seconds: 0.780
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

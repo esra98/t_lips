@@ -1,7 +1,0 @@
-Spoken word: fuar
-Starttime of utterance in seconds: 3570.340
-Endtime of utterance in seconds: 3570.760
-Duration of utterance in seconds: 0.420
-Confidence: 0.848
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: misilleme
-Starttime of utterance in seconds: 1291.590
-Endtime of utterance in seconds: 1292.040
-Duration of utterance in seconds: 0.450
-Confidence: 0.719
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

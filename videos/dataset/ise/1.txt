@@ -1,7 +1,0 @@
-Spoken word: ise
-Starttime of utterance in seconds: 165.050
-Endtime of utterance in seconds: 165.360
-Duration of utterance in seconds: 0.310
-Confidence: 0.971
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

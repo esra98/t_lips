@@ -1,7 +1,0 @@
-Spoken word: evin
-Starttime of utterance in seconds: 5525.180
-Endtime of utterance in seconds: 5525.460
-Duration of utterance in seconds: 0.280
-Confidence: 0.965
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

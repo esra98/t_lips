@@ -1,7 +1,0 @@
-Spoken word: o
-Starttime of utterance in seconds: 1973.820
-Endtime of utterance in seconds: 1973.940
-Duration of utterance in seconds: 0.120
-Confidence: 0.478
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

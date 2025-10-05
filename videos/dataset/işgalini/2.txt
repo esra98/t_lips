@@ -1,7 +1,0 @@
-Spoken word: işgalini
-Starttime of utterance in seconds: 1378.040
-Endtime of utterance in seconds: 1378.550
-Duration of utterance in seconds: 0.510
-Confidence: 0.924
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

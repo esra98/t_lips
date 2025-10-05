@@ -1,7 +1,0 @@
-Spoken word: ablukayı
-Starttime of utterance in seconds: 3010.960
-Endtime of utterance in seconds: 3011.380
-Duration of utterance in seconds: 0.420
-Confidence: 0.710
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: uyguladığı
-Starttime of utterance in seconds: 202.940
-Endtime of utterance in seconds: 203.580
-Duration of utterance in seconds: 0.640
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

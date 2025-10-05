@@ -1,7 +1,0 @@
-Spoken word: sonrasında
-Starttime of utterance in seconds: 1097.400
-Endtime of utterance in seconds: 1097.840
-Duration of utterance in seconds: 0.440
-Confidence: 0.963
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: kınamak
-Starttime of utterance in seconds: 4186.200
-Endtime of utterance in seconds: 4187.440
-Duration of utterance in seconds: 1.240
-Confidence: 0.994
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

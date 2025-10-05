@@ -1,7 +1,0 @@
-Spoken word: almış
-Starttime of utterance in seconds: 5084.200
-Endtime of utterance in seconds: 5084.540
-Duration of utterance in seconds: 0.340
-Confidence: 0.980
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

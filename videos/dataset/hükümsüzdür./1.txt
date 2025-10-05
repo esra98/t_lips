@@ -1,7 +1,0 @@
-Spoken word: hükümsüzdür.
-Starttime of utterance in seconds: 1135.860
-Endtime of utterance in seconds: 1136.900
-Duration of utterance in seconds: 1.040
-Confidence: 0.963
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

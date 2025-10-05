@@ -1,7 +1,0 @@
-Spoken word: açıklamalarına
-Starttime of utterance in seconds: 5452.640
-Endtime of utterance in seconds: 5453.500
-Duration of utterance in seconds: 0.860
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

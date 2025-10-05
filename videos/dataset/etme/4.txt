@@ -1,7 +1,0 @@
-Spoken word: etme
-Starttime of utterance in seconds: 5785.360
-Endtime of utterance in seconds: 5785.640
-Duration of utterance in seconds: 0.280
-Confidence: 0.955
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

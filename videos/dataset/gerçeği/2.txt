@@ -1,7 +1,0 @@
-Spoken word: gerçeği
-Starttime of utterance in seconds: 2520.300
-Endtime of utterance in seconds: 2521.260
-Duration of utterance in seconds: 0.960
-Confidence: 0.883
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

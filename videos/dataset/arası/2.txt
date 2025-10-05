@@ -1,7 +1,0 @@
-Spoken word: arası
-Starttime of utterance in seconds: 3235.760
-Endtime of utterance in seconds: 3235.960
-Duration of utterance in seconds: 0.200
-Confidence: 0.691
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

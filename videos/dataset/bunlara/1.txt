@@ -1,7 +1,0 @@
-Spoken word: bunlara
-Starttime of utterance in seconds: 3731.720
-Endtime of utterance in seconds: 3732.060
-Duration of utterance in seconds: 0.340
-Confidence: 0.949
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

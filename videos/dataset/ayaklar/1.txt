@@ -1,7 +1,0 @@
-Spoken word: ayaklar
-Starttime of utterance in seconds: 2988.900
-Endtime of utterance in seconds: 2989.880
-Duration of utterance in seconds: 0.980
-Confidence: 0.908
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

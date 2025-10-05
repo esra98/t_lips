@@ -1,7 +1,0 @@
-Spoken word: destekçisi
-Starttime of utterance in seconds: 3135.900
-Endtime of utterance in seconds: 3136.660
-Duration of utterance in seconds: 0.760
-Confidence: 0.825
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

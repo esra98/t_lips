@@ -1,7 +1,0 @@
-Spoken word: başkanlık
-Starttime of utterance in seconds: 1693.600
-Endtime of utterance in seconds: 1694.100
-Duration of utterance in seconds: 0.500
-Confidence: 0.902
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

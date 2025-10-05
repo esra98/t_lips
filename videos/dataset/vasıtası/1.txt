@@ -1,7 +1,0 @@
-Spoken word: vasıtası
-Starttime of utterance in seconds: 5771.420
-Endtime of utterance in seconds: 5771.880
-Duration of utterance in seconds: 0.460
-Confidence: 0.848
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

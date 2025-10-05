@@ -1,7 +1,0 @@
-Spoken word: başkanına
-Starttime of utterance in seconds: 3133.820
-Endtime of utterance in seconds: 3134.260
-Duration of utterance in seconds: 0.440
-Confidence: 0.932
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

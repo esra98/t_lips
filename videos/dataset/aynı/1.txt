@@ -1,7 +1,0 @@
-Spoken word: aynı
-Starttime of utterance in seconds: 1261.360
-Endtime of utterance in seconds: 1261.620
-Duration of utterance in seconds: 0.260
-Confidence: 0.990
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

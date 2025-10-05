@@ -1,7 +1,0 @@
-Spoken word: aksine
-Starttime of utterance in seconds: 3641.620
-Endtime of utterance in seconds: 3642.020
-Duration of utterance in seconds: 0.400
-Confidence: 0.982
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

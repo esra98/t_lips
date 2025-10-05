@@ -1,7 +1,0 @@
-Spoken word: etmektedir.
-Starttime of utterance in seconds: 5234.840
-Endtime of utterance in seconds: 5235.520
-Duration of utterance in seconds: 0.680
-Confidence: 0.927
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

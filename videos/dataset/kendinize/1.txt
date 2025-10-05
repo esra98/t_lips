@@ -1,7 +1,0 @@
-Spoken word: kendinize
-Starttime of utterance in seconds: 4821.600
-Endtime of utterance in seconds: 4822.480
-Duration of utterance in seconds: 0.880
-Confidence: 0.875
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

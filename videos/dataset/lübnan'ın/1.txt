@@ -1,7 +1,0 @@
-Spoken word: lübnan'ın
-Starttime of utterance in seconds: 1349.860
-Endtime of utterance in seconds: 1350.400
-Duration of utterance in seconds: 0.540
-Confidence: 0.971
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

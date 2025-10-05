@@ -1,7 +1,0 @@
-Spoken word: bayndırlık
-Starttime of utterance in seconds: 1598.840
-Endtime of utterance in seconds: 1599.320
-Duration of utterance in seconds: 0.480
-Confidence: 0.592
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

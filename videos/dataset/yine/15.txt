@@ -1,7 +1,0 @@
-Spoken word: yine
-Starttime of utterance in seconds: 4738.380
-Endtime of utterance in seconds: 4738.660
-Duration of utterance in seconds: 0.280
-Confidence: 0.981
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

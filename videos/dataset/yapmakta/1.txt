@@ -1,7 +1,0 @@
-Spoken word: yapmakta
-Starttime of utterance in seconds: 5518.460
-Endtime of utterance in seconds: 5519.620
-Duration of utterance in seconds: 1.160
-Confidence: 0.780
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: hastalar,
-Starttime of utterance in seconds: 81.540
-Endtime of utterance in seconds: 82.200
-Duration of utterance in seconds: 0.660
-Confidence: 0.866
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

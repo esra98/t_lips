@@ -1,7 +1,0 @@
-Spoken word: ayrılmalarını
-Starttime of utterance in seconds: 2006.600
-Endtime of utterance in seconds: 2007.360
-Duration of utterance in seconds: 0.760
-Confidence: 0.926
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

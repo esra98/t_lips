@@ -1,7 +1,0 @@
-Spoken word: dünyanın
-Starttime of utterance in seconds: 5610.560
-Endtime of utterance in seconds: 5610.960
-Duration of utterance in seconds: 0.400
-Confidence: 0.970
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

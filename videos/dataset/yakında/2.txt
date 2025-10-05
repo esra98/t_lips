@@ -1,7 +1,0 @@
-Spoken word: yakında
-Starttime of utterance in seconds: 1973.420
-Endtime of utterance in seconds: 1973.820
-Duration of utterance in seconds: 0.400
-Confidence: 0.614
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

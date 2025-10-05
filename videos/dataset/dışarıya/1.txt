@@ -1,7 +1,0 @@
-Spoken word: dışarıya
-Starttime of utterance in seconds: 3302.560
-Endtime of utterance in seconds: 3303.000
-Duration of utterance in seconds: 0.440
-Confidence: 0.961
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

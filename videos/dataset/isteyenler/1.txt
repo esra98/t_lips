@@ -1,7 +1,0 @@
-Spoken word: isteyenler
-Starttime of utterance in seconds: 4866.780
-Endtime of utterance in seconds: 4867.440
-Duration of utterance in seconds: 0.660
-Confidence: 0.997
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: divanında
-Starttime of utterance in seconds: 441.680
-Endtime of utterance in seconds: 442.260
-Duration of utterance in seconds: 0.580
-Confidence: 0.523
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

@@ -1,7 +1,0 @@
-Spoken word: insane
-Starttime of utterance in seconds: 152.160
-Endtime of utterance in seconds: 152.600
-Duration of utterance in seconds: 0.440
-Confidence: 0.574
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

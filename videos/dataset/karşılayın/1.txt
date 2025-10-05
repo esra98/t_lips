@@ -1,7 +1,0 @@
-Spoken word: karşılayın
-Starttime of utterance in seconds: 3498.600
-Endtime of utterance in seconds: 3498.900
-Duration of utterance in seconds: 0.300
-Confidence: 0.338
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

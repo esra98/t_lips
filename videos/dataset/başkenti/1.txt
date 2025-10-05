@@ -1,7 +1,0 @@
-Spoken word: başkenti
-Starttime of utterance in seconds: 2164.380
-Endtime of utterance in seconds: 2165.280
-Duration of utterance in seconds: 0.900
-Confidence: 0.698
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

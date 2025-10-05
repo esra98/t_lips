@@ -1,7 +1,0 @@
-Spoken word: sayın
-Starttime of utterance in seconds: 2761.100
-Endtime of utterance in seconds: 2761.980
-Duration of utterance in seconds: 0.880
-Confidence: 0.988
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000

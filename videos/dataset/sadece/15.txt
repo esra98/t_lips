@@ -1,7 +1,0 @@
-Spoken word: sadece
-Starttime of utterance in seconds: 5541.000
-Endtime of utterance in seconds: 5541.400
-Duration of utterance in seconds: 0.400
-Confidence: 0.696
-Original filename: video-1
-Corresponding number in titlelist.txt: 0000
