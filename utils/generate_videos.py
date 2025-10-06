@@ -232,7 +232,7 @@ def crop_clips(
                     f.write(meta_text + "\n")
 
                 # --- 3. Dataset: Lips tight crop, word duration (lip) ---
-                margin_sec = 0.05  # Adds margin to start and end
+                margin_sec = 0.01  # Adds margin to start and end
                 clip_duration_word = (end - start) + 2 * margin_sec
                 clip_start_word = max(0, word_center - (end - start)/2 - margin_sec)
                 start_frame_word = int(clip_start_word * fps)
