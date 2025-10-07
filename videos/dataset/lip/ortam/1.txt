@@ -1,0 +1,8 @@
+Spoken word: ortam
+Starttime of utterance in seconds: 1237.900
+Endtime of utterance in seconds: 1238.340
+Duration of utterance in seconds: 0.460
+Confidence: 0.997
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000
+Dataset: lip_tight_96x96_wordlength

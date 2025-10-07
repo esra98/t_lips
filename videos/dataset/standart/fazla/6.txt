@@ -1,0 +1,8 @@
+Spoken word: fazla
+Starttime of utterance in seconds: 2515.280
+Endtime of utterance in seconds: 2515.580
+Duration of utterance in seconds: 0.300
+Confidence: 0.996
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000
+Dataset: standart_tight_256x256_1.16s

@@ -1,0 +1,8 @@
+Spoken word: yüzde
+Starttime of utterance in seconds: 1014.500
+Endtime of utterance in seconds: 1014.800
+Duration of utterance in seconds: 0.320
+Confidence: 0.959
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000
+Dataset: lip_tight_96x96_wordlength

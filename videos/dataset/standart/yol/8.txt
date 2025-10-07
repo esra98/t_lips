@@ -1,0 +1,8 @@
+Spoken word: yol
+Starttime of utterance in seconds: 2421.540
+Endtime of utterance in seconds: 2423.220
+Duration of utterance in seconds: 1.680
+Confidence: 0.944
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000
+Dataset: standart_tight_256x256_1.16s

@@ -1,0 +1,8 @@
+Spoken word: grup
+Starttime of utterance in seconds: 2365.540
+Endtime of utterance in seconds: 2365.720
+Duration of utterance in seconds: 0.200
+Confidence: 0.552
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000
+Dataset: lip_tight_96x96_wordlength

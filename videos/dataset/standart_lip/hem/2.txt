@@ -1,0 +1,8 @@
+Spoken word: hem
+Starttime of utterance in seconds: 2597.620
+Endtime of utterance in seconds: 2598.200
+Duration of utterance in seconds: 0.580
+Confidence: 0.919
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000
+Dataset: standart_lip_tight_96x96_1.16s

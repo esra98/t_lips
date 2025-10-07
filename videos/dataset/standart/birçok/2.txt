@@ -1,0 +1,8 @@
+Spoken word: birçok
+Starttime of utterance in seconds: 1773.900
+Endtime of utterance in seconds: 1774.780
+Duration of utterance in seconds: 0.880
+Confidence: 0.946
+Original filename: video-1
+Corresponding number in titlelist.txt: 0000
+Dataset: standart_tight_256x256_1.16s
